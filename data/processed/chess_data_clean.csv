@@ -1,0 +1,1234 @@
+Date,Couleur,Resultat,Methode,Mon_elo,Elo_adversaire,Type_partie,Ouverture,Annee,Mois,Jour_semaine,Heure,Diff_elo,Ouverture_principale
+2025-08-10 16:54:07,Blancs,Victoire,Abandon,976,793,rapid,Kings Pawn Opening Kings Knight Gunderam Defense,2025,8,Sunday,16,183,Kings Pawn
+2025-08-10 17:49:32,Noirs,Victoire,Partie abandonnée,1098,984,rapid,Sicilian Defense Smith Morra Gambit Accepted 4.Nxc3,2025,8,Sunday,17,114,Sicilian Defense
+2025-08-11 03:20:44,Blancs,Défaite,Échec et mat,1005,1083,rapid,Four Knights Game Scotch Variation Accepted 5.Nxd4 Bc5 6.Nxc6 bxc6,2025,8,Monday,3,-78,Four Knights
+2025-08-11 18:58:01,Blancs,Victoire,Temps écoulé,1072,982,rapid,Sicilian Defense,2025,8,Monday,18,90,Sicilian Defense
+2025-08-11 19:17:31,Noirs,Défaite,Partie abandonnée,1013,1076,rapid,Owens Defense 2.d4,2025,8,Monday,19,-63,Owens Defense
+2025-08-11 21:27:23,Noirs,Défaite,Échec et mat,965,1039,rapid,Sicilian Defense Nimzowitsch Variation,2025,8,Monday,21,-74,Sicilian Defense
+2025-08-11 21:39:10,Blancs,Défaite,Échec et mat,919,962,rapid,Bishops Opening Boi Variation 3.Nf3,2025,8,Monday,21,-43,Bishops Opening
+2025-08-11 21:51:12,Blancs,Défaite,Échec et mat,877,906,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 4.Be2,2025,8,Monday,21,-29,Scandinavian Defense
+2025-08-12 10:58:00,Noirs,Défaite,Échec et mat,844,921,rapid,Sicilian Defense 2.Nf3,2025,8,Tuesday,10,-77,Sicilian Defense
+2025-08-12 11:06:06,Noirs,Victoire,Partie abandonnée,877,839,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,8,Tuesday,11,38,Sicilian Defense
+2025-08-12 12:21:38,Blancs,Victoire,Abandon,906,857,rapid,Ruy Lopez Opening Berlin Defense 4.Bxc6,2025,8,Tuesday,12,49,Ruy Lopez
+2025-08-12 13:10:52,Noirs,Défaite,Échec et mat,880,938,rapid,Closed Sicilian Defense Traditional Line,2025,8,Tuesday,13,-58,Closed Sicilian
+2025-08-12 13:12:19,Noirs,Défaite,Échec et mat,854,885,rapid,Sicilian Defense,2025,8,Tuesday,13,-31,Sicilian Defense
+2025-08-12 13:17:20,Blancs,Défaite,Abandon,830,857,rapid,Scandinavian Defense,2025,8,Tuesday,13,-27,Scandinavian Defense
+2025-08-12 13:44:23,Blancs,Défaite,Abandon,809,852,rapid,Scandinavian Defense Mieses Kotrc Variation,2025,8,Tuesday,13,-43,Scandinavian Defense
+2025-08-12 13:55:46,Blancs,Défaite,Échec et mat,789,836,rapid,Ruy Lopez Opening Berlin Defense 4.d4 Nxe4,2025,8,Tuesday,13,-47,Ruy Lopez
+2025-08-12 15:36:35,Noirs,Défaite,Échec et mat,769,796,rapid,Van t Kruijs Opening 1...c5,2025,8,Tuesday,15,-27,Van t
+2025-08-12 16:57:57,Blancs,Victoire,Échec et mat,789,779,rapid,Four Knights Game Spanish Variation,2025,8,Tuesday,16,10,Four Knights
+2025-08-12 18:21:42,Noirs,Victoire,Échec et mat,802,620,rapid,Queens Pawn Opening Chigorin Variation,2025,8,Tuesday,18,182,Queens Pawn
+2025-08-13 00:15:11,Blancs,Défaite,Abandon,784,811,rapid,Caro Kann Defense Two Knights Attack 3...Nf6,2025,8,Wednesday,0,-27,Caro Kann
+2025-08-13 00:23:53,Noirs,Victoire,Échec et mat,802,802,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,8,Wednesday,0,0,Sicilian Defense
+2025-08-13 01:18:41,Blancs,Défaite,Échec et mat,802,1572,rapid,Three Knights Opening 3...Bc5,2025,8,Wednesday,1,-770,Three Knights
+2025-08-13 11:50:47,Blancs,Défaite,Abandon,788,867,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Wednesday,11,-79,Kings Pawn
+2025-08-13 11:54:53,Noirs,Défaite,Abandon,774,816,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,8,Wednesday,11,-42,Sicilian Defense
+2025-08-13 12:03:17,Blancs,Défaite,Échec et mat,758,760,rapid,Sicilian Defense Open...4.Nxd4 d6 5.Nc3 e5 6.Nf3,2025,8,Wednesday,12,-2,Sicilian Defense
+2025-08-13 12:15:24,Noirs,Victoire,Abandon,772,745,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,8,Wednesday,12,27,Sicilian Defense
+2025-08-13 23:31:08,Noirs,Victoire,Échec et mat,784,692,rapid,Pirc Defense Modern Defense Geller System,2025,8,Wednesday,23,92,Pirc Defense
+2025-08-13 23:40:42,Noirs,Défaite,Abandon,770,776,rapid,Sicilian Defense,2025,8,Wednesday,23,-6,Sicilian Defense
+2025-08-13 23:45:16,Blancs,Victoire,Partie abandonnée,783,772,rapid,Three Knights Opening Steinitz Defense 4.d4 exd4 5.Nxd4 Bg7,2025,8,Wednesday,23,11,Three Knights
+2025-08-14 11:37:05,Blancs,Défaite,Échec et mat,771,820,rapid,Three Knights Opening 3...Bc5,2025,8,Thursday,11,-49,Three Knights
+2025-08-14 20:31:13,Noirs,Victoire,Échec et mat,783,766,rapid,Scandinavian Defense,2025,8,Thursday,20,17,Scandinavian Defense
+2025-08-14 20:41:39,Noirs,Victoire,Abandon,794,766,rapid,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bg4,2025,8,Thursday,20,28,Queens Pawn
+2025-08-14 20:52:56,Blancs,Défaite,Échec et mat,782,792,rapid,Sicilian Defense Open...4.Nxd4 d6 5.c4 Nf6,2025,8,Thursday,20,-10,Sicilian Defense
+2025-08-14 22:13:01,Blancs,Victoire,Abandon,793,761,rapid,Owens Defense 2.d4 Bb7 3.Nc3 e6 4.Nf3,2025,8,Thursday,22,32,Owens Defense
+2025-08-14 23:40:50,Blancs,Défaite,Échec et mat,783,811,rapid,Ruy Lopez Opening Classical Defense 4.O O,2025,8,Thursday,23,-28,Ruy Lopez
+2025-08-15 01:23:17,Blancs,Défaite,Abandon,618,811,bullet,Four Knights Game Spanish Variation 4...d6,2025,8,Friday,1,-193,Four Knights
+2025-08-15 12:02:36,Noirs,Défaite,Abandon,772,780,rapid,Birds Opening Dutch Variation 2.Nf3,2025,8,Friday,12,-8,Birds Opening
+2025-08-15 12:19:30,Noirs,Nulle,Matériel insuffisant,772,764,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,8,Friday,12,8,Sicilian Defense
+2025-08-15 12:52:00,Noirs,Défaite,Échec et mat,762,761,rapid,Sicilian Defense Staunton Cochrane Variation 2...Nc6,2025,8,Friday,12,1,Sicilian Defense
+2025-08-15 16:07:59,Blancs,Victoire,Partie abandonnée,772,775,rapid,Alekhines Defense,2025,8,Friday,16,-3,Alekhines Defense
+2025-08-15 16:16:44,Noirs,Victoire,Échec et mat,781,737,rapid,Kings Fianchetto Opening 1...e5,2025,8,Friday,16,44,Kings Fianchetto
+2025-08-15 16:55:08,Noirs,Victoire,Échec et mat,790,755,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack,2025,8,Friday,16,35,Sicilian Defense
+2025-08-15 16:58:33,Blancs,Victoire,Abandon,798,769,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nc3,2025,8,Friday,16,29,Scandinavian Defense
+2025-08-15 17:08:54,Noirs,Victoire,Échec et mat,806,778,rapid,Closed Sicilian Defense Portland Attack,2025,8,Friday,17,28,Closed Sicilian
+2025-08-15 19:09:35,Blancs,Défaite,Abandon,798,836,rapid,Four Knights Game Spanish Variation Classical Variation 5.O O O O,2025,8,Friday,19,-38,Four Knights
+2025-08-15 19:16:03,Noirs,Victoire,Échec et mat,806,796,rapid,Sicilian Defense 2.Nf3 d6 3.c4,2025,8,Friday,19,10,Sicilian Defense
+2025-08-15 19:25:32,Blancs,Défaite,Abandon,798,804,rapid,Ruy Lopez Opening Morphy Defense Exchange Lutikov Variation,2025,8,Friday,19,-6,Ruy Lopez
+2025-08-15 19:30:59,Blancs,Défaite,Abandon,790,803,rapid,Ruy Lopez Opening Berlin Defense 4.Bxc6 dxc6,2025,8,Friday,19,-13,Ruy Lopez
+2025-08-15 22:48:03,Noirs,Défaite,Échec et mat,782,799,rapid,Sicilian Defense Old Sicilian Variation 3.d3 d6,2025,8,Friday,22,-17,Sicilian Defense
+2025-08-15 22:58:15,Blancs,Victoire,Partie abandonnée,790,754,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Friday,22,36,Kings Pawn
+2025-08-15 23:06:09,Noirs,Victoire,Échec et mat,797,760,rapid,Sicilian Defense,2025,8,Friday,23,37,Sicilian Defense
+2025-08-15 23:14:41,Noirs,Victoire,Partie abandonnée,805,778,rapid,Queens Pawn Opening 1...d5 2.e3 c5,2025,8,Friday,23,27,Queens Pawn
+2025-08-16 11:55:48,Blancs,Victoire,Échec et mat,813,811,rapid,French Defense Knight Variation,2025,8,Saturday,11,2,French Defense
+2025-08-16 12:17:43,Noirs,Défaite,Abandon,805,836,rapid,French Defense Classical Variation,2025,8,Saturday,12,-31,French Defense
+2025-08-16 12:33:42,Blancs,Défaite,Échec et mat,797,823,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 4.Be2,2025,8,Saturday,12,-26,Scandinavian Defense
+2025-08-16 23:41:00,Blancs,Victoire,Partie abandonnée,805,751,rapid,Ruy Lopez Opening Morphy Defense Exchange Lutikov Variation,2025,8,Saturday,23,54,Ruy Lopez
+2025-08-16 23:53:43,Noirs,Victoire,Échec et mat,813,810,rapid,Queens Gambit Declined,2025,8,Saturday,23,3,Queens Gambit
+2025-08-17 00:11:48,Noirs,Nulle,Répétition,813,803,rapid,Scandinavian Defense,2025,8,Sunday,0,10,Scandinavian Defense
+2025-08-17 11:19:56,Blancs,Défaite,Abandon,805,847,rapid,Four Knights Game Spanish Variation 4...d6,2025,8,Sunday,11,-42,Four Knights
+2025-08-17 11:23:18,Blancs,Défaite,Échec et mat,797,814,rapid,Petrovs Defense Classical Variation,2025,8,Sunday,11,-17,Petrovs Defense
+2025-08-17 11:33:58,Noirs,Victoire,Abandon,805,788,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,8,Sunday,11,17,Sicilian Defense
+2025-08-17 21:53:59,Blancs,Nulle,Temps (matériel insuffisant),805,816,rapid,Kings Pawn Opening St George Defense 2.d4 b5 3.Nf3 Bb7,2025,8,Sunday,21,-11,Kings Pawn
+2025-08-17 22:04:39,Noirs,Victoire,Abandon,813,815,rapid,Closed Sicilian Defense Traditional Line 3.Bb5,2025,8,Sunday,22,-2,Closed Sicilian
+2025-08-17 22:09:16,Blancs,Défaite,Échec et mat,805,800,rapid,Italian Game 3...d6,2025,8,Sunday,22,5,Italian Game
+2025-08-19 15:08:13,Noirs,Victoire,Partie abandonnée,814,821,rapid,Alapin Sicilian Defense...3.d4 cxd4 4.cxd4 d5,2025,8,Tuesday,15,-7,Alapin Sicilian
+2025-08-19 15:40:57,Blancs,Victoire,Abandon,822,799,rapid,Kings Pawn Opening Leonardis Variation 2...Nf6 3.Nf3,2025,8,Tuesday,15,23,Kings Pawn
+2025-08-19 15:52:06,Blancs,Victoire,Abandon,830,813,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Tuesday,15,17,Kings Pawn
+2025-08-19 17:03:00,Noirs,Défaite,Abandon,823,859,rapid,Sicilian Defense Bowdler Attack,2025,8,Tuesday,17,-36,Sicilian Defense
+2025-08-19 17:13:40,Noirs,Défaite,Abandon,815,822,rapid,Closed Sicilian Defense Grand Prix Attack 3...d6 4.Nf3,2025,8,Tuesday,17,-7,Closed Sicilian
+2025-08-22 12:14:51,Noirs,Défaite,Abandon,807,839,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...a6 4.Bxc6 bxc6,2025,8,Friday,12,-32,Sicilian Defense
+2025-08-22 12:28:02,Blancs,Défaite,Abandon,798,792,rapid,Italian Game 3...d6,2025,8,Friday,12,6,Italian Game
+2025-08-23 01:55:26,Blancs,Défaite,Abandon,790,791,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Saturday,1,-1,Kings Pawn
+2025-08-23 02:05:50,Blancs,Défaite,Abandon,781,777,rapid,Philidor Defense 3.Bc4,2025,8,Saturday,2,4,Philidor Defense
+2025-08-23 21:55:07,Noirs,Défaite,Abandon,773,777,rapid,Closed Sicilian Defense Traditional Line 3.Bb5,2025,8,Saturday,21,-4,Closed Sicilian
+2025-08-24 00:05:55,Blancs,Victoire,Abandon,781,761,rapid,Ruy Lopez Opening Berlin Defense 4.Bxc6 dxc6,2025,8,Sunday,0,20,Ruy Lopez
+2025-08-24 00:12:45,Noirs,Défaite,Abandon,773,776,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 Nf6 4.Bb5,2025,8,Sunday,0,-3,Closed Sicilian
+2025-08-24 00:21:07,Noirs,Défaite,Échec et mat,765,764,rapid,Van t Kruijs Opening 1...d5,2025,8,Sunday,0,1,Van t
+2025-08-24 01:04:24,Blancs,Victoire,Échec et mat,773,737,rapid,French Defense Knight Variation,2025,8,Sunday,1,36,French Defense
+2025-08-24 01:12:48,Blancs,Victoire,Échec et mat,781,774,rapid,Ruy Lopez Opening Morphy Defense Exchange Variation 4...dxc6,2025,8,Sunday,1,7,Ruy Lopez
+2025-08-24 16:46:55,Noirs,Défaite,Abandon,773,801,rapid,Queens Pawn Opening 1...d5 2.e3 c5,2025,8,Sunday,16,-28,Queens Pawn
+2025-08-24 16:51:50,Noirs,Défaite,Abandon,766,802,rapid,Scandinavian Defense Mieses Kotrc Variation,2025,8,Sunday,16,-36,Scandinavian Defense
+2025-08-24 16:55:27,Blancs,Défaite,Échec et mat,758,783,rapid,Petrovs Defense Three Knights Game,2025,8,Sunday,16,-25,Petrovs Defense
+2025-08-24 17:02:57,Noirs,Victoire,Échec et mat,766,731,rapid,Queens Pawn Opening Krause Variation...4.Bf4 Nc6 5.e3 Bd6,2025,8,Sunday,17,35,Queens Pawn
+2025-08-24 17:12:59,Blancs,Défaite,Échec et mat,758,779,rapid,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3,2025,8,Sunday,17,-21,Reti Opening
+2025-08-24 22:00:51,Noirs,Défaite,Abandon,750,780,rapid,Reti Opening Quiet System 2...d5,2025,8,Sunday,22,-30,Reti Opening
+2025-08-24 22:04:22,Blancs,Victoire,Abandon,758,756,rapid,Ruy Lopez Opening Morphy Defense Exchange Variation 4...dxc6,2025,8,Sunday,22,2,Ruy Lopez
+2025-08-24 22:09:09,Blancs,Victoire,Partie abandonnée,766,741,rapid,Ruy Lopez Opening Berlin Beverwijk Variation 5.d3,2025,8,Sunday,22,25,Ruy Lopez
+2025-08-24 22:25:01,Noirs,Défaite,Échec et mat,758,781,rapid,Sicilian Defense 2.Nf3,2025,8,Sunday,22,-23,Sicilian Defense
+2025-08-25 11:31:16,Noirs,Nulle,Pat,758,773,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 Nf6 4.Bb5,2025,8,Monday,11,-15,Closed Sicilian
+2025-08-25 13:05:33,Noirs,Victoire,Abandon,766,747,rapid,Queens Pawn Opening Accelerated London System,2025,8,Monday,13,19,Queens Pawn
+2025-08-25 13:10:06,Blancs,Victoire,Échec et mat,775,780,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Monday,13,-5,Kings Pawn
+2025-08-25 14:14:45,Blancs,Défaite,Échec et mat,767,780,rapid,Italian Game Two Knights Modern Bishops Opening...5.O O O O 6.Nc3 d6,2025,8,Monday,14,-13,Italian Game
+2025-08-25 14:23:24,Noirs,Défaite,Abandon,759,796,rapid,Sicilian Defense Bowdler Attack,2025,8,Monday,14,-37,Sicilian Defense
+2025-08-25 19:56:18,Blancs,Victoire,Abandon,774,738,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Monday,19,36,Kings Pawn
+2025-08-25 20:05:50,Blancs,Défaite,Échec et mat,766,781,rapid,Sicilian Defense French Variation 3.Nc3 Nc6,2025,8,Monday,20,-15,Sicilian Defense
+2025-08-25 20:22:47,Noirs,Victoire,Abandon,774,766,rapid,Nimzowitsch Larsen Attack Classical Variation 2.Bb2,2025,8,Monday,20,8,Nimzowitsch Larsen
+2025-08-25 20:37:41,Blancs,Victoire,Abandon,782,751,rapid,Ruy Lopez Opening Morphy Defense Exchange Lutikov Variation,2025,8,Monday,20,31,Ruy Lopez
+2025-08-25 23:32:26,Noirs,Défaite,Abandon,774,800,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 Nf6,2025,8,Monday,23,-26,Closed Sicilian
+2025-08-25 23:42:05,Noirs,Défaite,Abandon,766,773,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...Nf6 4.Bxc6,2025,8,Monday,23,-7,Sicilian Defense
+2025-08-25 23:57:21,Blancs,Nulle,Pat,766,778,rapid,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7 4.O O Nc6 5.c3,2025,8,Monday,23,-12,Sicilian Defense
+2025-08-26 11:23:00,Noirs,Défaite,Abandon,758,778,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,8,Tuesday,11,-20,Sicilian Defense
+2025-08-26 13:53:37,Noirs,Défaite,Échec et mat,750,772,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,8,Tuesday,13,-22,Sicilian Defense
+2025-08-26 14:07:34,Blancs,Victoire,Échec et mat,758,750,rapid,Scandinavian Defense 2.e5 c5,2025,8,Tuesday,14,8,Scandinavian Defense
+2025-08-26 15:53:05,Blancs,Victoire,Échec et mat,758,840,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...Qc7,2025,8,Tuesday,15,-82,Sicilian Defense
+2025-08-26 16:09:34,Noirs,Victoire,Échec et mat,758,840,rapid,Sicilian Defense French Variation,2025,8,Tuesday,16,-82,Sicilian Defense
+2025-08-26 16:26:53,Blancs,Victoire,Échec et mat,758,840,rapid,Reti Opening Dutch Variation...3.Bg2 g6 4.O O Bg7,2025,8,Tuesday,16,-82,Reti Opening
+2025-08-26 21:49:16,Blancs,Victoire,Abandon,766,768,rapid,Philidor Defense,2025,8,Tuesday,21,-2,Philidor Defense
+2025-08-26 21:59:09,Noirs,Victoire,Abandon,773,734,rapid,Closed Sicilian Defense Traditional Line 3.Nf3,2025,8,Tuesday,21,39,Closed Sicilian
+2025-08-26 22:32:13,Blancs,Nulle,Pat,774,796,rapid,French Defense Knight Variation,2025,8,Tuesday,22,-22,French Defense
+2025-08-27 14:28:34,Blancs,Défaite,Abandon,766,778,rapid,Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4,2025,8,Wednesday,14,-12,Scotch Game
+2025-08-27 14:44:47,Noirs,Victoire,Abandon,774,766,rapid,Queens Pawn Opening 1...d5 2.e3 c5,2025,8,Wednesday,14,8,Queens Pawn
+2025-08-27 14:50:24,Noirs,Victoire,Partie abandonnée,782,758,rapid,Old Benoni Defense,2025,8,Wednesday,14,24,Old Benoni
+2025-08-27 14:57:54,Blancs,Défaite,Abandon,774,787,rapid,Ruy Lopez Opening Morphy Defense Exchange Lutikov Variation,2025,8,Wednesday,14,-13,Ruy Lopez
+2025-08-27 16:05:17,Noirs,Victoire,Abandon,782,751,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4,2025,8,Wednesday,16,31,Sicilian Defense
+2025-08-28 01:26:04,Blancs,Victoire,Abandon,790,795,rapid,Ruy Lopez Opening Cozio Defense 4.Nc3,2025,8,Thursday,1,-5,Ruy Lopez
+2025-08-28 14:31:24,Noirs,Victoire,Abandon,810,813,rapid,Old Benoni Defense 2.e3 e6,2025,8,Thursday,14,-3,Old Benoni
+2025-08-28 14:48:24,Blancs,Nulle,Matériel insuffisant,810,804,rapid,Ruy Lopez Opening Jaenisch Exchange Variation 4...dxc6,2025,8,Thursday,14,6,Ruy Lopez
+2025-08-28 14:57:39,Blancs,Défaite,Abandon,802,846,rapid,Four Knights Game Spanish Variation Rubinstein Countergambit,2025,8,Thursday,14,-44,Four Knights
+2025-08-29 16:39:57,Noirs,Défaite,Échec et mat,794,790,rapid,Sicilian Defense Open,2025,8,Friday,16,4,Sicilian Defense
+2025-08-30 14:09:59,Blancs,Défaite,Abandon,786,803,rapid,Philidor Defense 3.Bc4 Nf6,2025,8,Saturday,14,-17,Philidor Defense
+2025-08-30 14:17:27,Noirs,Défaite,Partie abandonnée,777,772,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack,2025,8,Saturday,14,5,Sicilian Defense
+2025-08-30 16:21:46,Noirs,Défaite,Abandon,769,776,rapid,Grob Opening 1...d5 2.h3,2025,8,Saturday,16,-7,Grob Opening
+2025-08-31 15:48:31,Blancs,Victoire,Partie abandonnée,777,749,rapid,Kings Pawn Opening Kings Knight Variation,2025,8,Sunday,15,28,Kings Pawn
+2025-08-31 15:57:08,Blancs,Défaite,Échec et mat,769,798,rapid,Philidor Defense 3.Bc4,2025,8,Sunday,15,-29,Philidor Defense
+2025-08-31 16:05:38,Blancs,Défaite,Abandon,761,791,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...Nf6 4.Bxc6 dxc6,2025,8,Sunday,16,-30,Sicilian Defense
+2025-08-31 16:14:53,Noirs,Victoire,Abandon,768,729,rapid,Sicilian Defense Smith Morra Gambit...3.Qxd4 Nc6 4.Qd1 Nf6,2025,8,Sunday,16,39,Sicilian Defense
+2025-08-31 16:40:26,Noirs,Défaite,Abandon,760,763,rapid,Kings Pawn Opening Leonardis Variation,2025,8,Sunday,16,-3,Kings Pawn
+2025-09-01 14:36:22,Noirs,Défaite,Abandon,752,777,rapid,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6,2025,9,Monday,14,-25,Queens Pawn
+2025-09-01 14:43:23,Blancs,Victoire,Abandon,760,723,rapid,Four Knights Game Spanish Variation Classical Variation 5.O O,2025,9,Monday,14,37,Four Knights
+2025-09-01 17:35:00,Blancs,Victoire,Partie abandonnée,768,738,rapid,Scandinavian Defense,2025,9,Monday,17,30,Scandinavian Defense
+2025-09-01 17:42:32,Noirs,Victoire,Échec et mat,776,752,rapid,Sicilian Defense 2.d3,2025,9,Monday,17,24,Sicilian Defense
+2025-09-01 17:45:30,Blancs,Victoire,Partie abandonnée,784,767,rapid,Kings Pawn Opening Kings Knight Variation,2025,9,Monday,17,17,Kings Pawn
+2025-09-01 18:05:10,Noirs,Victoire,Échec et mat,792,759,rapid,Closed Sicilian Defense Traditional Line 3.Bc4,2025,9,Monday,18,33,Closed Sicilian
+2025-09-02 15:49:32,Blancs,Victoire,Abandon,800,800,rapid,Kings Pawn Opening Kings Knight Variation,2025,9,Tuesday,15,0,Kings Pawn
+2025-09-02 15:58:03,Noirs,Défaite,Abandon,792,825,rapid,Alapin Sicilian Defense 2...Nc6 3.Nf3,2025,9,Tuesday,15,-33,Alapin Sicilian
+2025-09-02 16:13:32,Noirs,Victoire,Échec et mat,800,803,rapid,Alapin Sicilian Defense,2025,9,Tuesday,16,-3,Alapin Sicilian
+2025-09-02 19:27:11,Blancs,Défaite,Abandon,792,821,rapid,Scandinavian Defense,2025,9,Tuesday,19,-29,Scandinavian Defense
+2025-09-02 19:37:32,Noirs,Victoire,Échec et mat,800,773,rapid,Sicilian Defense,2025,9,Tuesday,19,27,Sicilian Defense
+2025-09-02 22:37:05,Blancs,Victoire,Temps écoulé,808,808,rapid,Ruy Lopez Opening Cozio Defense 4.O O,2025,9,Tuesday,22,0,Ruy Lopez
+2025-09-03 17:11:19,Noirs,Victoire,Partie abandonnée,816,781,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,9,Wednesday,17,35,Sicilian Defense
+2025-09-03 17:15:42,Blancs,Victoire,Partie abandonnée,824,805,rapid,Italian Game Two Knights Modern Bishops Opening 4...Be7 5.O O d6,2025,9,Wednesday,17,19,Italian Game
+2025-09-03 17:31:13,Blancs,Défaite,Abandon,816,850,rapid,Kings Pawn Opening,2025,9,Wednesday,17,-34,Kings Pawn
+2025-09-03 21:58:21,Noirs,Défaite,Échec et mat,808,836,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,9,Wednesday,21,-28,Sicilian Defense
+2025-09-03 22:07:20,Blancs,Victoire,Échec et mat,816,798,rapid,Four Knights Game Spanish Variation Classical Variation 5.O O,2025,9,Wednesday,22,18,Four Knights
+2025-09-03 22:15:20,Noirs,Défaite,Échec et mat,808,842,rapid,Closed Sicilian Defense,2025,9,Wednesday,22,-34,Closed Sicilian
+2025-09-03 22:26:23,Noirs,Nulle,Répétition,808,813,rapid,Sicilian Defense Bowdler Attack,2025,9,Wednesday,22,-5,Sicilian Defense
+2025-09-04 21:21:21,Blancs,Défaite,Échec et mat,800,812,rapid,Ruy Lopez Opening Berlin Beverwijk Variation,2025,9,Thursday,21,-12,Ruy Lopez
+2025-09-04 21:28:31,Noirs,Défaite,Échec et mat,793,830,rapid,Alapin Sicilian Defense 2...Nc6 3.d4 cxd4 4.cxd4,2025,9,Thursday,21,-37,Alapin Sicilian
+2025-09-05 13:25:47,Noirs,Victoire,Abandon,801,774,rapid,Old Benoni Defense 2.dxc5,2025,9,Friday,13,27,Old Benoni
+2025-09-05 13:38:46,Blancs,Victoire,Abandon,809,814,rapid,Philidor Defense 3.Bc4 Be7 4.O O Nf6,2025,9,Friday,13,-5,Philidor Defense
+2025-09-05 13:48:20,Blancs,Victoire,Échec et mat,817,800,rapid,Ruy Lopez Opening Cozio Defense 4.O O g6 5.d4,2025,9,Friday,13,17,Ruy Lopez
+2025-09-05 15:52:14,Noirs,Défaite,Abandon,809,813,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.d4 Nf6 5.Nf3,2025,9,Friday,15,-4,Scandinavian Defense
+2025-09-05 16:01:24,Noirs,Victoire,Échec et mat,817,789,rapid,Sicilian Defense,2025,9,Friday,16,28,Sicilian Defense
+2025-09-05 16:18:02,Blancs,Nulle,Répétition,817,809,rapid,Ruy Lopez Opening Cozio Defense 4.O O,2025,9,Friday,16,8,Ruy Lopez
+2025-09-05 16:21:03,Noirs,Défaite,Abandon,809,834,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 e5 4.Bc4,2025,9,Friday,16,-25,Closed Sicilian
+2025-09-05 16:24:19,Blancs,Défaite,Abandon,801,816,rapid,Caro Kann Defense 2.Nf3 d5,2025,9,Friday,16,-15,Caro Kann
+2025-09-05 22:50:56,Noirs,Victoire,Abandon,808,769,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 e5 4.Bc4,2025,9,Friday,22,39,Closed Sicilian
+2025-09-05 22:58:13,Blancs,Défaite,Abandon,800,808,rapid,Pirc Defense Modern Defense Geller System...3.Nc3 e5 4.Bc4 Be7,2025,9,Friday,22,-8,Pirc Defense
+2025-09-05 23:03:22,Blancs,Victoire,Abandon,808,774,rapid,Philidor Defense 3.Bc4,2025,9,Friday,23,34,Philidor Defense
+2025-09-05 23:12:20,Noirs,Défaite,Échec et mat,800,836,rapid,Sicilian Defense Open,2025,9,Friday,23,-36,Sicilian Defense
+2025-09-05 23:18:34,Blancs,Défaite,Abandon,621,800,blitz,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Bc4 Nf6 5.Nf3,2025,9,Friday,23,-179,Scandinavian Defense
+2025-09-06 17:54:24,Blancs,Défaite,Abandon,499,615,blitz,Scandinavian Defense,2025,9,Saturday,17,-116,Scandinavian Defense
+2025-09-06 18:04:04,Noirs,Défaite,Abandon,792,817,rapid,Closed Sicilian Defense Traditional Line 3.Bc4,2025,9,Saturday,18,-25,Closed Sicilian
+2025-09-06 18:12:46,Noirs,Défaite,Abandon,784,790,rapid,Kings Fianchetto Opening Sicilian Invitation 2.Bg2 Nc6 3.d3,2025,9,Saturday,18,-6,Kings Fianchetto
+2025-09-06 18:19:43,Blancs,Défaite,Échec et mat,776,798,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5,2025,9,Saturday,18,-22,Scandinavian Defense
+2025-09-08 09:40:04,Noirs,Victoire,Abandon,784,779,rapid,French Defense Knight Variation 2...d5 3.exd5 exd5,2025,9,Monday,9,5,French Defense
+2025-09-08 09:48:07,Blancs,Victoire,Échec et mat,792,754,rapid,Scandinavian Defense,2025,9,Monday,9,38,Scandinavian Defense
+2025-09-08 09:54:16,Noirs,Victoire,Abandon,800,794,rapid,French Defense Steinitz Attack,2025,9,Monday,9,6,French Defense
+2025-09-08 11:29:22,Noirs,Défaite,Abandon,792,819,rapid,French Defense Advance Nimzowitsch System 4...Nc6,2025,9,Monday,11,-27,French Defense
+2025-09-08 11:49:50,Blancs,Victoire,Échec et mat,800,799,rapid,Ruy Lopez Opening,2025,9,Monday,11,1,Ruy Lopez
+2025-09-08 12:43:12,Noirs,Victoire,Échec et mat,807,768,rapid,Reti Opening Reti Gambit Declined Advance Variation...6.d3 Nf6 7.e3 Be7 8.exd4,2025,9,Monday,12,39,Reti Opening
+2025-09-08 12:50:23,Blancs,Victoire,Abandon,815,796,rapid,Ruy Lopez Opening Berlin Beverwijk Variation 5.d3,2025,9,Monday,12,19,Ruy Lopez
+2025-09-08 13:09:30,Noirs,Nulle,Répétition,815,799,rapid,Sicilian Defense French Variation 3.d3 Nc6,2025,9,Monday,13,16,Sicilian Defense
+2025-09-08 13:31:05,Blancs,Victoire,Échec et mat,822,783,rapid,Ruy Lopez Opening Morphy Defense Open,2025,9,Monday,13,39,Ruy Lopez
+2025-09-08 14:26:33,Noirs,Défaite,Échec et mat,814,826,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4,2025,9,Monday,14,-12,Sicilian Defense
+2025-09-08 15:12:48,Noirs,Victoire,Échec et mat,814,549,rapid,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4,2025,9,Monday,15,265,Reti Opening
+2025-09-08 15:25:07,Blancs,Victoire,Échec et mat,814,549,rapid,Nimzowitsch Defense 2.d4 e6 3.Nf3 d5,2025,9,Monday,15,265,Nimzowitsch Defense
+2025-09-08 15:48:12,Noirs,Victoire,Échec et mat,814,549,rapid,London System 3...c5 4.c3 Nc6 5.e3,2025,9,Monday,15,265,London System
+2025-09-08 15:55:58,Blancs,Victoire,Échec et mat,814,549,rapid,Kings Indian Attack 2...e6 3.Bg2,2025,9,Monday,15,265,Kings Indian
+2025-09-08 17:56:52,Blancs,Défaite,Échec et mat,806,806,rapid,Ruy Lopez Opening Morphy Defense Arkhangelsk Variation 7.d3 Bc5,2025,9,Monday,17,0,Ruy Lopez
+2025-09-09 10:26:18,Noirs,Défaite,Échec et mat,798,805,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Tuesday,10,-7,Sicilian Defense
+2025-09-09 10:37:09,Noirs,Nulle,Répétition,798,812,rapid,Queens Pawn Opening Chigorin Variation 2...e6 3.Bf4,2025,9,Tuesday,10,-14,Queens Pawn
+2025-09-09 10:46:07,Blancs,Défaite,Abandon,790,821,rapid,Four Knights Game Spanish Variation Classical Variation 5.O O d6,2025,9,Tuesday,10,-31,Four Knights
+2025-09-09 10:51:24,Noirs,Défaite,Abandon,782,815,rapid,French Defense Steiner Variation 2...d5,2025,9,Tuesday,10,-33,French Defense
+2025-09-09 13:43:58,Blancs,Victoire,Échec et mat,790,775,rapid,Kings Pawn Opening Kings Knight Variation,2025,9,Tuesday,13,15,Kings Pawn
+2025-09-10 14:11:49,Noirs,Défaite,Abandon,782,819,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,9,Wednesday,14,-37,Sicilian Defense
+2025-09-10 14:18:07,Blancs,Défaite,Abandon,773,766,rapid,Sicilian Defense Open Dragon Variation 6.Bc4 Bg7,2025,9,Wednesday,14,7,Sicilian Defense
+2025-09-10 14:23:06,Blancs,Victoire,Échec et mat,781,764,rapid,Scandinavian Defense Mieses Kotrc Variation 3.Nf3,2025,9,Wednesday,14,17,Scandinavian Defense
+2025-09-10 14:30:56,Blancs,Victoire,Échec et mat,789,787,rapid,Reti Opening Kings Indian Attack Symmetrical Defense...4.d3 O O 5.e4 d6 6.O O,2025,9,Wednesday,14,2,Reti Opening
+2025-09-10 14:44:37,Noirs,Victoire,Échec et mat,797,773,rapid,Sicilian Defense Open Lowenthal Variation 5.Nxc6 bxc6,2025,9,Wednesday,14,24,Sicilian Defense
+2025-09-10 23:28:48,Noirs,Victoire,Abandon,805,805,rapid,Sicilian Defense,2025,9,Wednesday,23,0,Sicilian Defense
+2025-09-10 23:46:47,Noirs,Nulle,Répétition,805,792,rapid,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.Nf3,2025,9,Wednesday,23,13,Nimzowitsch Larsen
+2025-09-11 00:05:42,Blancs,Défaite,Échec et mat,798,835,rapid,Ruy Lopez Opening Morphy Defense Caro Variation 5.Bb3,2025,9,Thursday,0,-37,Ruy Lopez
+2025-09-11 12:28:35,Blancs,Victoire,Échec et mat,806,792,rapid,Four Knights Game Spanish Variation,2025,9,Thursday,12,14,Four Knights
+2025-09-11 13:11:08,Noirs,Victoire,Abandon,815,821,rapid,Sicilian Defense French Variation,2025,9,Thursday,13,-6,Sicilian Defense
+2025-09-11 13:31:31,Blancs,Victoire,Partie abandonnée,823,815,rapid,Caro Kann Defense 2.Nf3 d5,2025,9,Thursday,13,8,Caro Kann
+2025-09-11 13:47:07,Noirs,Victoire,Abandon,831,818,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,9,Thursday,13,13,Sicilian Defense
+2025-09-11 20:50:04,Blancs,Victoire,Échec et mat,839,815,rapid,Sicilian Defense 2.Nf3 d6 3.Bc4 Nf6,2025,9,Thursday,20,24,Sicilian Defense
+2025-09-11 20:56:55,Blancs,Victoire,Abandon,847,825,rapid,Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3,2025,9,Thursday,20,22,Ruy Lopez
+2025-09-12 21:49:35,Noirs,Défaite,Abandon,839,885,rapid,Queens Gambit Declined Queens Knight Variation,2025,9,Friday,21,-46,Queens Gambit
+2025-09-12 21:53:44,Blancs,Victoire,Abandon,847,844,rapid,Sicilian Defense French Variation 3.d3 Nc6,2025,9,Friday,21,3,Sicilian Defense
+2025-09-12 22:33:17,Blancs,Nulle,Répétition,847,855,rapid,Ruy Lopez Opening Morphy Defense Anderssen Variation 5...Bc5 6.O O d6,2025,9,Friday,22,-8,Ruy Lopez
+2025-09-12 22:39:58,Blancs,Victoire,Abandon,855,835,rapid,Ruy Lopez Opening Classical Defense 4.O O Qf6,2025,9,Friday,22,20,Ruy Lopez
+2025-09-12 22:49:41,Noirs,Défaite,Abandon,847,845,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,9,Friday,22,2,Sicilian Defense
+2025-09-13 18:10:58,Noirs,Défaite,Échec et mat,416,528,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,9,Saturday,18,-112,Sicilian Defense
+2025-09-13 18:32:29,Noirs,Victoire,Temps écoulé,488,415,blitz,Queens Gambit Declined 3.e3,2025,9,Saturday,18,73,Queens Gambit
+2025-09-13 18:34:45,Blancs,Victoire,Échec et mat,547,483,blitz,Kings Pawn Opening Kings Knight Variation,2025,9,Saturday,18,64,Kings Pawn
+2025-09-13 18:39:50,Blancs,Défaite,Abandon,495,545,blitz,Nimzowitsch Defense 2.Nc3 Nf6,2025,9,Saturday,18,-50,Nimzowitsch Defense
+2025-09-16 10:29:11,Noirs,Défaite,Échec et mat,839,850,rapid,Kings Fianchetto Opening Catalan Formation,2025,9,Tuesday,10,-11,Kings Fianchetto
+2025-09-16 10:35:11,Noirs,Défaite,Abandon,831,848,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,9,Tuesday,10,-17,Sicilian Defense
+2025-09-16 10:39:42,Blancs,Défaite,Abandon,823,832,rapid,Ruy Lopez Opening,2025,9,Tuesday,10,-9,Ruy Lopez
+2025-09-16 10:51:05,Blancs,Victoire,Échec et mat,831,815,rapid,Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O Bd7,2025,9,Tuesday,10,16,Ruy Lopez
+2025-09-16 14:11:39,Noirs,Défaite,Abandon,823,859,rapid,Kings Fianchetto Opening 1...d5 2.Bg2 Nf6 3.d3,2025,9,Tuesday,14,-36,Kings Fianchetto
+2025-09-16 14:31:34,Blancs,Défaite,Abandon,815,822,rapid,Queens Gambit Accepted 3.Nc3 Nf6 4.e3,2025,9,Tuesday,14,-7,Queens Gambit
+2025-09-16 14:35:17,Noirs,Défaite,Abandon,807,814,rapid,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3,2025,9,Tuesday,14,-7,Queens Gambit
+2025-09-16 14:40:46,Noirs,Défaite,Abandon,799,824,rapid,Queens Pawn Opening Accelerated London System,2025,9,Tuesday,14,-25,Queens Pawn
+2025-09-16 14:55:29,Blancs,Victoire,Abandon,807,791,rapid,Indian Game 2.Nc3 g6,2025,9,Tuesday,14,16,Indian Game
+2025-09-16 18:41:01,Noirs,Victoire,Échec et mat,815,785,rapid,Sicilian Defense,2025,9,Tuesday,18,30,Sicilian Defense
+2025-09-16 18:51:36,Noirs,Victoire,Échec et mat,822,786,rapid,Sicilian Defense,2025,9,Tuesday,18,36,Sicilian Defense
+2025-09-17 14:18:59,Blancs,Victoire,Abandon,830,812,rapid,Sicilian Defense Smith Morra Accepted Kan Formation,2025,9,Wednesday,14,18,Sicilian Defense
+2025-09-17 14:27:45,Blancs,Défaite,Échec et mat,822,858,rapid,Semi Slav Defense 5.g3,2025,9,Wednesday,14,-36,Semi Slav
+2025-09-17 22:43:10,Noirs,Défaite,Abandon,814,837,rapid,Queens Pawn Opening 1...d5,2025,9,Wednesday,22,-23,Queens Pawn
+2025-09-17 22:53:33,Blancs,Victoire,Échec et mat,822,812,rapid,Ruy Lopez Opening Classical Defense 4.O O Qf6,2025,9,Wednesday,22,10,Ruy Lopez
+2025-09-17 23:08:43,Blancs,Victoire,Abandon,830,831,rapid,Slav Defense 3.Nc3,2025,9,Wednesday,23,-1,Slav Defense
+2025-09-18 09:17:07,Noirs,Défaite,Abandon,822,828,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Thursday,9,-6,Sicilian Defense
+2025-09-18 09:20:54,Noirs,Victoire,Abandon,830,813,rapid,Kings Fianchetto Opening 1...d5,2025,9,Thursday,9,17,Kings Fianchetto
+2025-09-18 09:23:11,Noirs,Victoire,Abandon,838,810,rapid,Queens Pawn Opening Chigorin Variation 2...e6,2025,9,Thursday,9,28,Queens Pawn
+2025-09-18 09:31:57,Blancs,Défaite,Échec et mat,830,833,rapid,Philidor Defense 3.Bc4,2025,9,Thursday,9,-3,Philidor Defense
+2025-09-18 13:02:26,Blancs,Victoire,Échec et mat,838,815,rapid,Pirc Defense Modern Defense Geller System 2...Nf6,2025,9,Thursday,13,23,Pirc Defense
+2025-09-18 13:40:53,Noirs,Défaite,Abandon,449,492,blitz,Sicilian Defense Old Sicilian Variation 3.c4 e5,2025,9,Thursday,13,-43,Sicilian Defense
+2025-09-18 13:43:31,Noirs,Victoire,Échec et mat,491,465,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 Nf6,2025,9,Thursday,13,26,Closed Sicilian
+2025-09-18 13:47:17,Noirs,Victoire,Échec et mat,526,483,blitz,Sicilian Defense Open 3...cxd4 4.c3,2025,9,Thursday,13,43,Sicilian Defense
+2025-09-18 13:50:00,Blancs,Victoire,Échec et mat,557,509,blitz,Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5 4.Bc4,2025,9,Thursday,13,48,Pirc Defense
+2025-09-18 13:55:55,Blancs,Défaite,Temps écoulé,529,583,blitz,Caro Kann Defense 2.Nf3 d5 3.d3 dxe4 4.dxe4,2025,9,Thursday,13,-54,Caro Kann
+2025-09-18 14:01:00,Blancs,Défaite,Abandon,502,545,blitz,Scandinavian Defense,2025,9,Thursday,14,-43,Scandinavian Defense
+2025-09-18 14:01:57,Blancs,Victoire,Échec et mat,528,504,blitz,Kings Pawn Opening Kings Knight Variation,2025,9,Thursday,14,24,Kings Pawn
+2025-09-18 14:10:04,Noirs,Victoire,Temps écoulé,550,503,blitz,English Opening Kings English Variation,2025,9,Thursday,14,47,English Opening
+2025-09-18 14:14:31,Blancs,Défaite,Échec et mat,527,540,blitz,Indian Game Knights Variation East Indian Defense 3.Nc3 Bg7 4.e4,2025,9,Thursday,14,-13,Indian Game
+2025-09-18 15:27:54,Noirs,Défaite,Abandon,505,513,blitz,Sicilian Defense,2025,9,Thursday,15,-8,Sicilian Defense
+2025-09-18 15:31:00,Noirs,Victoire,Abandon,525,500,blitz,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3,2025,9,Thursday,15,25,Queens Gambit
+2025-09-18 15:34:44,Blancs,Défaite,Échec et mat,506,524,blitz,Ruy Lopez Opening Berlin Improved Steinitz Defense 5.Re1,2025,9,Thursday,15,-18,Ruy Lopez
+2025-09-18 15:40:04,Blancs,Victoire,Abandon,523,483,blitz,French Defense Knight Variation 2...d5 3.exd5 exd5,2025,9,Thursday,15,40,French Defense
+2025-09-18 19:17:28,Noirs,Défaite,Échec et mat,508,575,blitz,Van t Kruijs Opening 1...c5,2025,9,Thursday,19,-67,Van t
+2025-09-18 19:20:32,Noirs,Défaite,Abandon,493,532,blitz,Mieses Opening 1...d5,2025,9,Thursday,19,-39,Mieses Opening
+2025-09-18 19:23:08,Blancs,Défaite,Échec et mat,478,501,blitz,Ruy Lopez Opening Berlin Rio Gambit Accepted,2025,9,Thursday,19,-23,Ruy Lopez
+2025-09-19 14:44:20,Noirs,Victoire,Abandon,492,452,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,9,Friday,14,40,Sicilian Defense
+2025-09-19 14:49:37,Blancs,Victoire,Échec et mat,506,484,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2025,9,Friday,14,22,Ruy Lopez
+2025-09-19 14:55:04,Noirs,Victoire,Abandon,521,520,blitz,Sicilian Defense Bowdler Attack 2...e6 3.Nc3 Nc6,2025,9,Friday,14,1,Sicilian Defense
+2025-09-19 15:01:35,Noirs,Victoire,Temps écoulé,534,509,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,9,Friday,15,25,Sicilian Defense
+2025-09-19 17:29:02,Blancs,Victoire,Temps écoulé,740,622,bullet,Sicilian Defense 2.Nf3 d6 3.Bc4 e6,2025,9,Friday,17,118,Sicilian Defense
+2025-09-19 17:32:28,Blancs,Défaite,Échec et mat,647,731,bullet,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,2025,9,Friday,17,-84,Reti Opening
+2025-09-20 00:55:31,Noirs,Victoire,Échec et mat,546,499,blitz,Sicilian Defense,2025,9,Saturday,0,47,Sicilian Defense
+2025-09-20 01:01:06,Noirs,Défaite,Échec et mat,534,553,blitz,Mieses Opening 1...d5,2025,9,Saturday,1,-19,Mieses Opening
+2025-09-20 01:06:38,Blancs,Défaite,Échec et mat,522,550,blitz,Ruy Lopez Opening Birds Defense 4.Nxd4 exd4 5.O O c6 6.Bc4,2025,9,Saturday,1,-28,Ruy Lopez
+2025-09-20 01:15:16,Blancs,Défaite,Échec et mat,510,514,blitz,Ruy Lopez Opening Berlin Defense 4.d3,2025,9,Saturday,1,-4,Ruy Lopez
+2025-09-20 01:21:32,Blancs,Défaite,Temps écoulé,498,491,blitz,Caro Kann Defense 2.Nf3 d5,2025,9,Saturday,1,7,Caro Kann
+2025-09-20 20:01:42,Noirs,Défaite,Abandon,487,507,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Nc3,2025,9,Saturday,20,-20,Sicilian Defense
+2025-09-20 20:03:12,Noirs,Défaite,Échec et mat,477,503,blitz,English Opening Agincourt Defense 2.Nc3 d5 3.cxd5 exd5,2025,9,Saturday,20,-26,English Opening
+2025-09-20 20:08:43,Blancs,Défaite,Abandon,467,476,blitz,Ruy Lopez Opening Birds Defense 4.Nxd4 exd4 5.O O c6,2025,9,Saturday,20,-9,Ruy Lopez
+2025-09-21 23:36:38,Noirs,Défaite,Abandon,457,478,blitz,Queens Pawn Opening Chigorin Variation 2...e6,2025,9,Sunday,23,-21,Queens Pawn
+2025-09-21 23:40:16,Blancs,Victoire,Échec et mat,467,464,blitz,Ruy Lopez Opening,2025,9,Sunday,23,3,Ruy Lopez
+2025-09-21 23:43:57,Blancs,Victoire,Partie abandonnée,477,468,blitz,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,2025,9,Sunday,23,9,Reti Opening
+2025-09-21 23:50:05,Noirs,Défaite,Temps écoulé,467,463,blitz,Sicilian Defense Smith Morra Morphy Gambit,2025,9,Sunday,23,4,Sicilian Defense
+2025-09-22 01:12:19,Blancs,Défaite,Échec et mat,458,463,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4,2025,9,Monday,1,-5,Sicilian Defense
+2025-09-22 01:16:26,Noirs,Victoire,Échec et mat,467,457,blitz,Queens Pawn Opening Krause Variation 3.dxc5 e6,2025,9,Monday,1,10,Queens Pawn
+2025-09-22 01:17:08,Noirs,Victoire,Abandon,475,448,blitz,Sicilian Defense French Variation 3.d4 cxd4,2025,9,Monday,1,27,Sicilian Defense
+2025-09-22 01:23:37,Noirs,Défaite,Temps écoulé,466,464,blitz,Polish Opening 1...d5 2.Bb2,2025,9,Monday,1,2,Polish Opening
+2025-09-22 01:31:59,Blancs,Victoire,Échec et mat,846,818,rapid,Petrovs Defense 3.d3 Nc6,2025,9,Monday,1,28,Petrovs Defense
+2025-09-22 09:11:38,Blancs,Victoire,Échec et mat,854,857,rapid,Nimzowitsch Defense Declined 2...d5,2025,9,Monday,9,-3,Nimzowitsch Defense
+2025-09-22 09:14:43,Blancs,Défaite,Abandon,846,877,rapid,Bishops Opening Boi Variation 3.Nf3,2025,9,Monday,9,-31,Bishops Opening
+2025-09-22 09:15:56,Noirs,Défaite,Abandon,838,868,rapid,Sicilian Defense Taimanov Variation 5.Nc3,2025,9,Monday,9,-30,Sicilian Defense
+2025-09-22 15:38:33,Blancs,Victoire,Échec et mat,846,849,rapid,Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O Bd7,2025,9,Monday,15,-3,Ruy Lopez
+2025-09-22 15:45:31,Noirs,Défaite,Échec et mat,838,835,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Monday,15,3,Sicilian Defense
+2025-09-22 16:18:41,Noirs,Victoire,Partie abandonnée,846,847,rapid,Sicilian Defense Taimanov Variation 5.Nc3,2025,9,Monday,16,-1,Sicilian Defense
+2025-09-22 16:29:46,Blancs,Victoire,Échec et mat,854,835,rapid,Kings Pawn Opening Kings Knight Variation,2025,9,Monday,16,19,Kings Pawn
+2025-09-22 16:33:21,Noirs,Victoire,Abandon,862,840,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,9,Monday,16,22,Sicilian Defense
+2025-09-22 16:50:56,Noirs,Victoire,Temps écoulé,870,837,rapid,Sicilian Defense Open 3...cxd4 4.Nxd4,2025,9,Monday,16,33,Sicilian Defense
+2025-09-22 17:23:04,Blancs,Défaite,Échec et mat,862,880,rapid,Tarrasch Defense 4.cxd5 exd5,2025,9,Monday,17,-18,Tarrasch Defense
+2025-09-22 19:11:27,Blancs,Défaite,Échec et mat,854,857,rapid,Queens Pawn Opening,2025,9,Monday,19,-3,Queens Pawn
+2025-09-22 19:18:39,Noirs,Victoire,Abandon,861,825,rapid,Kings Fianchetto Opening Catalan Formation,2025,9,Monday,19,36,Kings Fianchetto
+2025-09-22 19:34:02,Blancs,Nulle,Accord mutuel,861,841,rapid,Ruy Lopez Opening Berlin Beverwijk Variation 5.d3,2025,9,Monday,19,20,Ruy Lopez
+2025-09-22 19:44:13,Blancs,Victoire,Échec et mat,869,865,rapid,Queens Gambit Declined 3.e3,2025,9,Monday,19,4,Queens Gambit
+2025-09-22 19:49:02,Noirs,Victoire,Abandon,877,857,rapid,Sicilian Defense Open 3...cxd4 4.Nxd4,2025,9,Monday,19,20,Sicilian Defense
+2025-09-22 19:52:43,Blancs,Défaite,Partie abandonnée,869,865,rapid,Kings Fianchetto Opening...2.Bg2 Nf6 3.d3 d5,2025,9,Monday,19,4,Kings Fianchetto
+2025-09-23 00:32:53,Noirs,Victoire,Échec et mat,877,851,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,9,Tuesday,0,26,Sicilian Defense
+2025-09-23 00:38:23,Noirs,Victoire,Échec et mat,885,856,rapid,Sicilian Defense,2025,9,Tuesday,0,29,Sicilian Defense
+2025-09-23 00:43:33,Noirs,Victoire,Échec et mat,893,871,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Tuesday,0,22,Sicilian Defense
+2025-09-23 10:27:27,Blancs,Défaite,Partie abandonnée,885,915,rapid,Indian Game Black Knights Tango,2025,9,Tuesday,10,-30,Indian Game
+2025-09-23 11:12:21,Blancs,Victoire,Échec et mat,893,880,rapid,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,2025,9,Tuesday,11,13,Reti Opening
+2025-09-23 11:17:47,Noirs,Victoire,Échec et mat,901,897,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Tuesday,11,4,Sicilian Defense
+2025-09-23 14:49:12,Noirs,Défaite,Abandon,893,896,rapid,Sicilian Defense,2025,9,Tuesday,14,-3,Sicilian Defense
+2025-09-23 15:00:42,Blancs,Défaite,Échec et mat,885,905,rapid,Philidor Defense 3.Bc4,2025,9,Tuesday,15,-20,Philidor Defense
+2025-09-23 16:43:22,Noirs,Défaite,Échec et mat,877,884,rapid,Sicilian Defense Lasker Dunne Attack 2...e6 3.Bg2,2025,9,Tuesday,16,-7,Sicilian Defense
+2025-09-23 16:48:59,Blancs,Victoire,Abandon,885,853,rapid,Ruy Lopez Opening Cozio Defense 4.O O a6,2025,9,Tuesday,16,32,Ruy Lopez
+2025-09-23 16:56:20,Noirs,Défaite,Abandon,466,1975,blitz,Closed Sicilian Defense Grand Prix Attack 3...e6 4.Nf3 d5 5.Bb5,2025,9,Tuesday,16,-1509,Closed Sicilian
+2025-09-23 16:57:20,Noirs,Défaite,Abandon,466,489,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,9,Tuesday,16,-23,Sicilian Defense
+2025-09-23 16:59:40,Blancs,Défaite,Abandon,466,1975,blitz,Ruy Lopez Opening Berlin Rio Gambit Accepted,2025,9,Tuesday,16,-1509,Ruy Lopez
+2025-09-23 17:09:57,Noirs,Défaite,Abandon,885,1991,rapid,Closed Sicilian Defense Grand Prix Attack,2025,9,Tuesday,17,-1106,Closed Sicilian
+2025-09-23 17:18:44,Blancs,Défaite,Abandon,885,1991,rapid,Reti Opening Dutch Variation...3.Bg2 g6 4.O O Bg7,2025,9,Tuesday,17,-1106,Reti Opening
+2025-09-23 18:16:46,Noirs,Défaite,Abandon,877,899,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,9,Tuesday,18,-22,Sicilian Defense
+2025-09-23 20:04:54,Noirs,Victoire,Abandon,885,888,rapid,Sicilian Defense,2025,9,Tuesday,20,-3,Sicilian Defense
+2025-09-23 20:18:07,Blancs,Défaite,Échec et mat,877,896,rapid,Nimzowitsch Defense French Connection Variation,2025,9,Tuesday,20,-19,Nimzowitsch Defense
+2025-09-23 21:01:45,Blancs,Victoire,Échec et mat,884,846,rapid,French Defense Knight Variation 2...d5,2025,9,Tuesday,21,38,French Defense
+2025-09-23 21:49:25,Blancs,Défaite,Abandon,876,884,rapid,Pirc Defense Modern Defense Geller System 2...Nf6,2025,9,Tuesday,21,-8,Pirc Defense
+2025-09-24 12:21:36,Noirs,Défaite,Abandon,868,882,rapid,Queens Gambit Declined Pseudo Tarrasch Defense 4.g3,2025,9,Wednesday,12,-14,Queens Gambit
+2025-09-24 12:24:21,Noirs,Défaite,Abandon,860,890,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.c3,2025,9,Wednesday,12,-30,Sicilian Defense
+2025-09-24 12:40:08,Blancs,Défaite,Abandon,852,854,rapid,Queens Gambit Accepted Central Variation Modern Defense,2025,9,Wednesday,12,-2,Queens Gambit
+2025-09-24 13:02:24,Blancs,Défaite,Partie abandonnée,575,650,bullet,Indian Game Black Knights Tango 3.Nf3 d6 4.Nc3,2025,9,Wednesday,13,-75,Indian Game
+2025-09-24 13:30:30,Noirs,Victoire,Abandon,474,441,blitz,Queens Gambit Declined Harrwitz Attack,2025,9,Wednesday,13,33,Queens Gambit
+2025-09-24 13:33:32,Noirs,Victoire,Échec et mat,482,447,blitz,Sicilian Defense French Variation,2025,9,Wednesday,13,35,Sicilian Defense
+2025-09-24 13:37:01,Blancs,Victoire,Partie abandonnée,490,457,blitz,Englund Gambit 2.dxe5,2025,9,Wednesday,13,33,Englund Gambit
+2025-09-24 13:46:02,Noirs,Victoire,Échec et mat,498,484,blitz,Sicilian Defense,2025,9,Wednesday,13,14,Sicilian Defense
+2025-09-24 13:52:44,Blancs,Défaite,Abandon,490,536,blitz,Slav Defense 3.Nc3 dxc4 4.e3,2025,9,Wednesday,13,-46,Slav Defense
+2025-09-24 15:50:39,Blancs,Victoire,Partie abandonnée,498,492,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5,2025,9,Wednesday,15,6,Slav Defense
+2025-09-24 15:57:42,Noirs,Victoire,Échec et mat,506,493,blitz,Sicilian Defense Taimanov Variation 5.Nxc6 bxc6,2025,9,Wednesday,15,13,Sicilian Defense
+2025-09-24 16:02:08,Blancs,Défaite,Échec et mat,498,527,blitz,Queens Gambit Declined Modern Variation 4...Be7 5.e3 h6 6.Bh4,2025,9,Wednesday,16,-29,Queens Gambit
+2025-09-24 16:08:31,Noirs,Victoire,Temps écoulé,506,481,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,9,Wednesday,16,25,Sicilian Defense
+2025-09-24 16:25:55,Blancs,Défaite,Partie abandonnée,498,526,blitz,Queens Gambit Accepted 3.Nc3 a6,2025,9,Wednesday,16,-28,Queens Gambit
+2025-09-24 16:35:56,Noirs,Victoire,Échec et mat,860,860,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Nc3,2025,9,Wednesday,16,0,Sicilian Defense
+2025-09-24 16:46:50,Blancs,Défaite,Abandon,852,872,rapid,Modern Defense with 1 d4 2.c4 Bg7 3.Nf3,2025,9,Wednesday,16,-20,Modern Defense
+2025-09-24 16:48:21,Noirs,Défaite,Échec et mat,844,852,rapid,Sicilian Defense French Variation,2025,9,Wednesday,16,-8,Sicilian Defense
+2025-09-24 16:52:06,Noirs,Défaite,Abandon,836,868,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Bxc6 bxc6,2025,9,Wednesday,16,-32,Sicilian Defense
+2025-09-24 22:40:18,Blancs,Victoire,Échec et mat,506,496,blitz,Queens Pawn Opening Polish Defense 2.e4,2025,9,Wednesday,22,10,Queens Pawn
+2025-09-24 22:43:47,Noirs,Victoire,Échec et mat,514,506,blitz,Sicilian Defense Bowdler Attack 2...e6 3.Nc3,2025,9,Wednesday,22,8,Sicilian Defense
+2025-09-24 22:50:41,Blancs,Victoire,Temps écoulé,522,526,blitz,Englund Gambit 2.dxe5,2025,9,Wednesday,22,-4,Englund Gambit
+2025-09-25 01:04:45,Blancs,Défaite,Abandon,828,847,rapid,Alapin Sicilian Defense 2...b6 3.d4,2025,9,Thursday,1,-19,Alapin Sicilian
+2025-09-25 01:06:10,Noirs,Défaite,Échec et mat,820,846,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Thursday,1,-26,Sicilian Defense
+2025-09-25 14:54:09,Noirs,Nulle,Pat,819,796,rapid,Sicilian Defense Taimanov Variation 5.Nc3,2025,9,Thursday,14,23,Sicilian Defense
+2025-09-25 14:59:32,Blancs,Victoire,Échec et mat,828,833,rapid,Slav Defense Slav Gambit Alekhine Attack,2025,9,Thursday,14,-5,Slav Defense
+2025-09-25 15:08:05,Noirs,Nulle,Répétition,829,852,rapid,Queens Gambit Declined 3.e3,2025,9,Thursday,15,-23,Queens Gambit
+2025-09-25 18:58:28,Blancs,Victoire,Temps écoulé,530,531,blitz,Queens Gambit Declined Modern Variation 4...c6 5.e3,2025,9,Thursday,18,-1,Queens Gambit
+2025-09-25 19:03:06,Noirs,Victoire,Abandon,538,526,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Nc3,2025,9,Thursday,19,12,Sicilian Defense
+2025-09-26 17:09:30,Blancs,Défaite,Temps écoulé,530,563,blitz,English Opening Anglo Scandinavian Defense 2.cxd5 Qxd5 3.Nc3,2025,9,Friday,17,-33,English Opening
+2025-09-26 17:15:12,Blancs,Défaite,Abandon,522,553,blitz,Ruy Lopez Opening,2025,9,Friday,17,-31,Ruy Lopez
+2025-09-26 17:21:14,Blancs,Victoire,Abandon,530,505,blitz,Queens Pawn Opening 1...d6 2.c4 f5 3.Nc3,2025,9,Friday,17,25,Queens Pawn
+2025-09-26 17:26:45,Noirs,Victoire,Échec et mat,538,522,blitz,Mieses Opening 1...d5,2025,9,Friday,17,16,Mieses Opening
+2025-09-26 19:38:51,Noirs,Victoire,Temps écoulé,546,537,blitz,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6,2025,9,Friday,19,9,Nimzowitsch Larsen
+2025-09-26 19:45:52,Blancs,Victoire,Abandon,554,539,blitz,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6 4.Nf3,2025,9,Friday,19,15,Queens Gambit
+2025-09-26 20:17:37,Blancs,Victoire,Temps écoulé,562,536,blitz,Queens Gambit Declined 3.Nf3,2025,9,Friday,20,26,Queens Gambit
+2025-09-26 20:27:04,Noirs,Victoire,Échec et mat,837,807,rapid,Alapin Sicilian Defense 2...e6,2025,9,Friday,20,30,Alapin Sicilian
+2025-09-26 20:33:40,Noirs,Défaite,Échec et mat,829,827,rapid,Sicilian Defense,2025,9,Friday,20,2,Sicilian Defense
+2025-09-26 20:40:29,Blancs,Victoire,Abandon,837,808,rapid,Slav Defense 3.Nc3 Nf6 4.Bg5 dxc4 5.a4,2025,9,Friday,20,29,Slav Defense
+2025-09-26 23:02:42,Noirs,Défaite,Abandon,829,840,rapid,Caro Kann Defense Panov Attack 4...e6 5.Nc3 Nf6,2025,9,Friday,23,-11,Caro Kann
+2025-09-26 23:13:40,Blancs,Victoire,Échec et mat,837,841,rapid,English Opening Anglo Indian Queens Knight Variation 2...e6 3.Nf3 d5 4.d4,2025,9,Friday,23,-4,English Opening
+2025-09-27 14:49:31,Noirs,Victoire,Échec et mat,845,811,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,9,Saturday,14,34,Sicilian Defense
+2025-09-27 14:56:13,Blancs,Victoire,Échec et mat,853,824,rapid,Queens Gambit Declined Chigorin Exchange Variation,2025,9,Saturday,14,29,Queens Gambit
+2025-09-27 15:08:07,Noirs,Défaite,Échec et mat,845,877,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4,2025,9,Saturday,15,-32,Closed Sicilian
+2025-09-27 15:41:19,Noirs,Victoire,Abandon,853,827,rapid,Queens Pawn Opening Zukertort Variation 2...e6 3.e3 c5,2025,9,Saturday,15,26,Queens Pawn
+2025-09-27 15:50:53,Blancs,Victoire,Échec et mat,861,824,rapid,Queens Gambit Declined Queens Knight Variation 3...dxc4 4.e4,2025,9,Saturday,15,37,Queens Gambit
+2025-09-27 15:57:10,Blancs,Victoire,Abandon,869,844,rapid,Old Benoni Defense 2.c3,2025,9,Saturday,15,25,Old Benoni
+2025-09-27 20:03:40,Noirs,Victoire,Temps écoulé,877,847,rapid,English Opening Anglo Indian Queens Knight Variation 2...c6 3.e4 e5,2025,9,Saturday,20,30,English Opening
+2025-09-28 13:46:08,Blancs,Victoire,Abandon,885,885,rapid,Owens Defense 2.d4 Bb7 3.Nc3 e6 4.Nf3,2025,9,Sunday,13,0,Owens Defense
+2025-09-28 13:58:48,Noirs,Défaite,Abandon,877,879,rapid,Queens Pawn Opening Krause Variation,2025,9,Sunday,13,-2,Queens Pawn
+2025-09-28 14:10:29,Noirs,Victoire,Échec et mat,886,891,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,9,Sunday,14,-5,Sicilian Defense
+2025-09-29 11:31:41,Noirs,Victoire,Échec et mat,570,562,blitz,Sicilian Defense 2.Nf3 d6 3.Nc3,2025,9,Monday,11,8,Sicilian Defense
+2025-09-29 12:34:04,Blancs,Défaite,Temps écoulé,561,554,blitz,Queens Pawn Opening Anglo Slav Opening 3.Nc3,2025,9,Monday,12,7,Queens Pawn
+2025-09-29 12:38:59,Blancs,Défaite,Abandon,553,569,blitz,Englund Gambit,2025,9,Monday,12,-16,Englund Gambit
+2025-09-29 12:42:07,Noirs,Défaite,Abandon,545,571,blitz,Sicilian Defense,2025,9,Monday,12,-26,Sicilian Defense
+2025-09-29 12:46:48,Noirs,Défaite,Abandon,879,916,rapid,Sicilian Defense 2.d3 d6,2025,9,Monday,12,-37,Sicilian Defense
+2025-09-29 12:48:21,Noirs,Victoire,Abandon,887,872,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,9,Monday,12,15,Sicilian Defense
+2025-09-29 12:52:11,Blancs,Victoire,Abandon,896,903,rapid,Caro Kann Defense 2.d4 d5 3.Nc3 dxe4,2025,9,Monday,12,-7,Caro Kann
+2025-09-29 13:38:11,Noirs,Défaite,Partie abandonnée,538,577,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,9,Monday,13,-39,Sicilian Defense
+2025-09-29 14:06:23,Blancs,Défaite,Abandon,531,568,blitz,Queens Gambit Declined Chigorin Defense...4.Nc3 Nf6 5.Bg5 Be7 6.e3,2025,9,Monday,14,-37,Queens Gambit
+2025-09-29 14:11:07,Blancs,Défaite,Échec et mat,524,563,blitz,Englund Gambit 2.dxe5,2025,9,Monday,14,-39,Englund Gambit
+2025-09-29 15:39:11,Noirs,Défaite,Abandon,896,1600,daily,Inconnue,2025,9,Monday,15,-704,Inconnue
+2025-09-29 16:16:37,Noirs,Défaite,Échec et mat,888,900,rapid,Grob Opening Grob Gambit,2025,9,Monday,16,-12,Grob Opening
+2025-09-29 16:32:34,Blancs,Victoire,Abandon,896,893,rapid,Italian Game,2025,9,Monday,16,3,Italian Game
+2025-09-29 17:00:32,Blancs,Victoire,Échec et mat,896,1600,daily,Inconnue,2025,9,Monday,17,-704,Inconnue
+2025-09-29 18:04:17,Blancs,Victoire,Échec et mat,532,500,blitz,French Defense Knight Variation,2025,9,Monday,18,32,French Defense
+2025-09-29 18:05:45,Noirs,Défaite,Échec et mat,524,526,blitz,Sicilian Defense,2025,9,Monday,18,-2,Sicilian Defense
+2025-09-29 18:07:08,Noirs,Défaite,Abandon,516,548,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4,2025,9,Monday,18,-32,Closed Sicilian
+2025-09-29 22:07:41,Blancs,Défaite,Abandon,888,922,rapid,Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5,2025,9,Monday,22,-34,Italian Game
+2025-09-29 22:16:30,Blancs,Défaite,Abandon,881,920,rapid,Italian Game,2025,9,Monday,22,-39,Italian Game
+2025-09-29 22:19:02,Blancs,Défaite,Partie abandonnée,873,882,rapid,Kings Pawn Opening Kings Knight Variation 2...Nc6,2025,9,Monday,22,-9,Kings Pawn
+2025-09-30 09:36:28,Noirs,Victoire,Abandon,524,510,blitz,Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4 e6 4.Nb5,2025,9,Tuesday,9,14,Queens Pawn
+2025-09-30 09:39:33,Noirs,Victoire,Échec et mat,532,512,blitz,Sicilian Defense Open Accelerated Dragon Modern Variation...6.Be3 Nf6 7.Nxc6 bxc6,2025,9,Tuesday,9,20,Sicilian Defense
+2025-09-30 09:42:05,Blancs,Défaite,Abandon,524,527,blitz,Scandinavian Defense,2025,9,Tuesday,9,-3,Scandinavian Defense
+2025-09-30 09:47:10,Noirs,Victoire,Abandon,532,497,blitz,Indian Game Knights Variation 2...e6 3.Nc3 d5,2025,9,Tuesday,9,35,Indian Game
+2025-09-30 09:56:37,Noirs,Défaite,Abandon,524,557,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,9,Tuesday,9,-33,Sicilian Defense
+2025-09-30 10:25:42,Blancs,Défaite,Partie abandonnée,516,539,blitz,Giuoco Piano Game...5.d3 d6 6.c3 O O 7.Bb3,2025,9,Tuesday,10,-23,Giuoco Piano
+2025-09-30 12:13:16,Noirs,Défaite,Échec et mat,865,887,rapid,Sicilian Defense Open 3...cxd4,2025,9,Tuesday,12,-22,Sicilian Defense
+2025-09-30 12:24:28,Blancs,Victoire,Partie abandonnée,873,862,rapid,Philidor Defense 3.Bc4,2025,9,Tuesday,12,11,Philidor Defense
+2025-09-30 12:38:11,Blancs,Victoire,Échec et mat,881,861,rapid,Ruy Lopez Opening Berlin Defense 4.d4,2025,9,Tuesday,12,20,Ruy Lopez
+2025-09-30 12:55:18,Noirs,Défaite,Abandon,873,882,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,9,Tuesday,12,-9,Sicilian Defense
+2025-09-30 13:47:39,Noirs,Victoire,Échec et mat,881,857,rapid,Closed Sicilian Defense Fianchetto Variation 3...g6 4.Bg2 Bg7 5.Nge2,2025,9,Tuesday,13,24,Closed Sicilian
+2025-09-30 13:59:10,Blancs,Victoire,Abandon,889,863,rapid,Van t Kruijs Opening 1...e5,2025,9,Tuesday,13,26,Van t
+2025-09-30 14:22:52,Blancs,Défaite,Abandon,882,918,rapid,Ruy Lopez Opening Spanish Countergambit,2025,9,Tuesday,14,-36,Ruy Lopez
+2025-09-30 14:41:35,Noirs,Défaite,Abandon,875,911,rapid,Queens Pawn Opening Accelerated London System,2025,9,Tuesday,14,-36,Queens Pawn
+2025-09-30 14:48:46,Noirs,Victoire,Échec et mat,875,738,rapid,Sicilian Defense Amazon Attack,2025,9,Tuesday,14,137,Sicilian Defense
+2025-09-30 22:52:11,Blancs,Victoire,Échec et mat,524,498,blitz,Kings Pawn Opening Kings Knight Variation,2025,9,Tuesday,22,26,Kings Pawn
+2025-09-30 22:56:44,Blancs,Défaite,Abandon,516,520,blitz,Italian Game Two Knights Modern Bishops Opening,2025,9,Tuesday,22,-4,Italian Game
+2025-09-30 23:04:08,Noirs,Défaite,Temps écoulé,508,535,blitz,Queens Gambit Declined Albin Countergambit,2025,9,Tuesday,23,-27,Queens Gambit
+2025-10-01 11:27:28,Blancs,Victoire,Échec et mat,516,506,blitz,French Defense Knight Variation,2025,10,Wednesday,11,10,French Defense
+2025-10-01 11:33:28,Noirs,Victoire,Partie abandonnée,524,503,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2025,10,Wednesday,11,21,Alapin Sicilian
+2025-10-01 11:41:49,Blancs,Défaite,Échec et mat,516,555,blitz,Kings Pawn Opening Kings Knight Variation,2025,10,Wednesday,11,-39,Kings Pawn
+2025-10-01 11:42:29,Blancs,Défaite,Abandon,508,507,blitz,Scandinavian Defense,2025,10,Wednesday,11,1,Scandinavian Defense
+2025-10-01 11:49:18,Noirs,Victoire,Partie abandonnée,883,870,rapid,Van Geet Opening Sicilian Two Knights Variation,2025,10,Wednesday,11,13,Van Geet
+2025-10-01 12:16:41,Blancs,Victoire,Échec et mat,891,867,rapid,Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 g6,2025,10,Wednesday,12,24,Pirc Defense
+2025-10-01 12:54:57,Noirs,Victoire,Abandon,899,881,rapid,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4,2025,10,Wednesday,12,18,Closed Sicilian
+2025-10-01 13:54:07,Noirs,Victoire,Échec et mat,517,521,blitz,Sicilian Defense Bowdler Attack 2...e6 3.Nc3,2025,10,Wednesday,13,-4,Sicilian Defense
+2025-10-01 14:04:08,Noirs,Défaite,Abandon,508,496,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bb5,2025,10,Wednesday,14,12,Closed Sicilian
+2025-10-01 14:07:12,Blancs,Défaite,Abandon,500,539,blitz,Nimzowitsch Defense Declined...3.exd5 Qxd5 4.Nc3 Qa5,2025,10,Wednesday,14,-39,Nimzowitsch Defense
+2025-10-01 16:25:33,Noirs,Défaite,Abandon,513,566,bullet,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Nc3,2025,10,Wednesday,16,-53,Sicilian Defense
+2025-10-02 11:39:32,Blancs,Défaite,Abandon,492,524,blitz,Scandinavian Defense,2025,10,Thursday,11,-32,Scandinavian Defense
+2025-10-02 11:41:34,Blancs,Victoire,Échec et mat,500,500,blitz,Center Game,2025,10,Thursday,11,0,Center Game
+2025-10-02 12:09:02,Noirs,Défaite,Échec et mat,492,519,blitz,Old Benoni Defense,2025,10,Thursday,12,-27,Old Benoni
+2025-10-02 12:42:12,Blancs,Défaite,Abandon,891,908,rapid,Philidor Defense 3.Nc3,2025,10,Thursday,12,-17,Philidor Defense
+2025-10-02 13:41:34,Noirs,Défaite,Abandon,882,875,rapid,Sicilian Defense McDonnell Attack 2...Nc6,2025,10,Thursday,13,7,Sicilian Defense
+2025-10-02 13:43:07,Blancs,Défaite,Abandon,874,903,rapid,Queens Pawn Opening English Defense 3.Nc3 Bb7,2025,10,Thursday,13,-29,Queens Pawn
+2025-10-02 17:29:28,Noirs,Victoire,Échec et mat,882,873,rapid,Sicilian Defense,2025,10,Thursday,17,9,Sicilian Defense
+2025-10-02 17:40:21,Blancs,Défaite,Abandon,874,902,rapid,Englund Gambit 2.dxe5,2025,10,Thursday,17,-28,Englund Gambit
+2025-10-02 17:51:03,Noirs,Victoire,Échec et mat,882,878,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,10,Thursday,17,4,Sicilian Defense
+2025-10-02 18:04:02,Blancs,Victoire,Abandon,890,871,rapid,Kings Indian Attack...3.Bg2 e5 4.d3 Nf6 5.O O,2025,10,Thursday,18,19,Kings Indian
+2025-10-03 12:04:07,Noirs,Défaite,Abandon,882,907,rapid,Colle System 3...Bg4 4.c4,2025,10,Friday,12,-25,Colle System
+2025-10-03 12:10:02,Blancs,Défaite,Abandon,874,880,rapid,Queens Pawn Opening Mikenas Defense 2.Nf3,2025,10,Friday,12,-6,Queens Pawn
+2025-10-03 12:11:38,Blancs,Défaite,Abandon,866,863,rapid,Giuoco Piano Game Main Line Giuoco Pianissimo Variation,2025,10,Friday,12,3,Giuoco Piano
+2025-10-04 10:13:50,Noirs,Défaite,Abandon,484,520,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bb5,2025,10,Saturday,10,-36,Closed Sicilian
+2025-10-04 10:18:48,Noirs,Victoire,Abandon,492,459,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6 4.O O,2025,10,Saturday,10,33,Sicilian Defense
+2025-10-05 19:43:45,Blancs,Défaite,Abandon,484,505,blitz,Birds Opening 1...g6 2.Nf3 Bg7,2025,10,Sunday,19,-21,Birds Opening
+2025-10-06 14:24:10,Noirs,Défaite,Abandon,858,872,rapid,Queens Pawn Opening Accelerated London System 2...e6 3.e3,2025,10,Monday,14,-14,Queens Pawn
+2025-10-06 14:32:17,Noirs,Défaite,Abandon,850,853,rapid,Sicilian Defense 2.d3 Nc6,2025,10,Monday,14,-3,Sicilian Defense
+2025-10-07 10:42:39,Blancs,Victoire,Échec et mat,492,483,blitz,Birds Opening 1...f5,2025,10,Tuesday,10,9,Birds Opening
+2025-10-07 11:37:13,Noirs,Victoire,Abandon,500,490,blitz,Closed Sicilian Defense Traditional Line 3.Bb5,2025,10,Tuesday,11,10,Closed Sicilian
+2025-10-07 11:43:18,Blancs,Défaite,Partie abandonnée,492,505,blitz,Birds Opening Froms Gambit,2025,10,Tuesday,11,-13,Birds Opening
+2025-10-07 13:51:50,Blancs,Victoire,Partie abandonnée,500,491,blitz,Birds Opening Dutch Variation 2.Nf3,2025,10,Tuesday,13,9,Birds Opening
+2025-10-07 13:59:33,Noirs,Victoire,Temps écoulé,508,477,blitz,Sicilian Defense French Variation 3.d4 cxd4,2025,10,Tuesday,13,31,Sicilian Defense
+2025-10-07 15:25:23,Noirs,Défaite,Échec et mat,842,874,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,10,Tuesday,15,-32,Sicilian Defense
+2025-10-07 15:30:39,Blancs,Victoire,Abandon,850,825,rapid,English Opening Anglo Indian Anglo Grunfeld Defense 3.cxd5 Nxd5,2025,10,Tuesday,15,25,English Opening
+2025-10-07 15:39:39,Noirs,Victoire,Abandon,858,850,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,10,Tuesday,15,8,Sicilian Defense
+2025-10-08 09:26:40,Blancs,Défaite,Échec et mat,500,520,blitz,Birds Opening Froms Gambit 2.fxe5,2025,10,Wednesday,9,-20,Birds Opening
+2025-10-08 09:28:12,Noirs,Défaite,Échec et mat,492,496,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,10,Wednesday,9,-4,Sicilian Defense
+2025-10-08 09:33:04,Noirs,Victoire,Abandon,500,499,blitz,Queens Gambit Declined Exchange Variation 4...exd5,2025,10,Wednesday,9,1,Queens Gambit
+2025-10-08 09:39:52,Blancs,Victoire,Temps écoulé,508,506,blitz,Birds Opening,2025,10,Wednesday,9,2,Birds Opening
+2025-10-08 09:54:19,Noirs,Défaite,Abandon,850,860,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,10,Wednesday,9,-10,Sicilian Defense
+2025-10-08 12:52:28,Blancs,Victoire,Échec et mat,859,863,rapid,Ruy Lopez Opening Birds Defense 4.Nxd4 exd4,2025,10,Wednesday,12,-4,Ruy Lopez
+2025-10-08 12:55:40,Blancs,Défaite,Abandon,851,875,rapid,Kings Pawn Opening 1...e5,2025,10,Wednesday,12,-24,Kings Pawn
+2025-10-08 12:59:09,Blancs,Victoire,Abandon,858,821,rapid,Alapin Sicilian Defense 2...Nc6 3.Nf3 d6,2025,10,Wednesday,12,37,Alapin Sicilian
+2025-10-08 13:05:49,Noirs,Défaite,Abandon,851,888,rapid,Van t Kruijs Opening 1...d5,2025,10,Wednesday,13,-37,Van t
+2025-10-08 14:21:19,Blancs,Victoire,Abandon,859,845,rapid,Four Knights Game Spanish Variation 4...Bd6 5.O O O O 6.d3,2025,10,Wednesday,14,14,Four Knights
+2025-10-08 14:36:02,Noirs,Victoire,Partie abandonnée,867,867,rapid,Queens Gambit Declined Modern Variation,2025,10,Wednesday,14,0,Queens Gambit
+2025-10-08 16:39:48,Blancs,Défaite,Échec et mat,859,872,rapid,Ruy Lopez Opening,2025,10,Wednesday,16,-13,Ruy Lopez
+2025-10-08 16:44:56,Noirs,Victoire,Abandon,867,871,rapid,Indian Game East Indian Defense 3.a3 c5 4.e3 d5,2025,10,Wednesday,16,-4,Indian Game
+2025-10-09 10:59:02,Noirs,Défaite,Échec et mat,859,867,rapid,Sicilian Defense Open 3...cxd4 4.Nxd4 d6,2025,10,Thursday,10,-8,Sicilian Defense
+2025-10-09 11:12:32,Blancs,Victoire,Abandon,867,855,rapid,Ruy Lopez Opening Berlin Defense 4.d3 Bc5 5.O O Nd4 6.Nxd4,2025,10,Thursday,11,12,Ruy Lopez
+2025-10-09 22:24:28,Noirs,Défaite,Abandon,859,871,rapid,Sicilian Defense,2025,10,Thursday,22,-12,Sicilian Defense
+2025-10-10 09:45:09,Noirs,Défaite,Temps écoulé,499,492,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4,2025,10,Friday,9,7,Closed Sicilian
+2025-10-10 10:16:29,Blancs,Victoire,Échec et mat,867,830,rapid,Ruy Lopez Opening Morphy Defense Arkhangelsk Variation 7.Re1 Bc5,2025,10,Friday,10,37,Ruy Lopez
+2025-10-10 10:27:12,Noirs,Défaite,Abandon,859,863,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,10,Friday,10,-4,Sicilian Defense
+2025-10-10 11:27:29,Blancs,Défaite,Partie abandonnée,851,875,rapid,Ruy Lopez Opening Classical Defense,2025,10,Friday,11,-24,Ruy Lopez
+2025-10-10 15:13:54,Blancs,Victoire,Partie abandonnée,859,852,rapid,Ruy Lopez Opening Morphy Defense Tarrasch Variation,2025,10,Friday,15,7,Ruy Lopez
+2025-10-10 15:17:33,Blancs,Défaite,Abandon,851,875,rapid,Sicilian Defense French Variation 3.d3 d5,2025,10,Friday,15,-24,Sicilian Defense
+2025-10-11 14:20:10,Noirs,Défaite,Échec et mat,843,847,rapid,Queens Pawn Opening 1...d5 2.e3 e6 3.Bd3,2025,10,Saturday,14,-4,Queens Pawn
+2025-10-11 14:25:22,Noirs,Défaite,Abandon,835,860,rapid,Sicilian Defense Open Classical Variation...7.Nf3 Be7 8.Bc4 O O,2025,10,Saturday,14,-25,Sicilian Defense
+2025-10-12 00:44:31,Blancs,Victoire,Temps écoulé,507,493,blitz,Italian Game Two Knights Defense 4.O O,2025,10,Sunday,0,14,Italian Game
+2025-10-12 00:47:15,Blancs,Victoire,Temps écoulé,565,508,bullet,Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5,2025,10,Sunday,0,57,Caro Kann
+2025-10-12 00:50:04,Noirs,Défaite,Temps écoulé,518,560,bullet,Sicilian Defense,2025,10,Sunday,0,-42,Sicilian Defense
+2025-10-12 00:54:24,Noirs,Défaite,Temps écoulé,479,534,bullet,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5 4.Bb5,2025,10,Sunday,0,-55,Nimzowitsch Larsen
+2025-10-12 00:57:53,Blancs,Victoire,Temps écoulé,515,473,bullet,Alapin Sicilian Defense 2...e6 3.Nf3 d5 4.exd5,2025,10,Sunday,0,42,Alapin Sicilian
+2025-10-14 14:38:02,Noirs,Défaite,Abandon,827,854,rapid,Sicilian Defense Bowdler Attack 2...e6 3.Nc3,2025,10,Tuesday,14,-27,Sicilian Defense
+2025-10-15 11:34:54,Blancs,Victoire,Abandon,827,343,rapid,Kings Pawn Opening Kings Knight Variation,2025,10,Wednesday,11,484,Kings Pawn
+2025-10-15 11:38:48,Noirs,Défaite,Partie abandonnée,507,343,blitz,Sicilian Defense,2025,10,Wednesday,11,164,Sicilian Defense
+2025-10-15 11:51:18,Noirs,Victoire,Abandon,507,343,blitz,Sicilian Defense,2025,10,Wednesday,11,164,Sicilian Defense
+2025-10-16 18:41:58,Blancs,Défaite,Abandon,819,849,rapid,Ruy Lopez Opening Berlin Beverwijk Variation 5.d3,2025,10,Thursday,18,-30,Ruy Lopez
+2025-10-16 18:46:10,Noirs,Victoire,Échec et mat,515,508,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,10,Thursday,18,7,Sicilian Defense
+2025-10-16 18:48:13,Blancs,Défaite,Abandon,507,536,blitz,Queens Gambit Declined Chigorin Defense 3.cxd5,2025,10,Thursday,18,-29,Queens Gambit
+2025-10-16 18:51:04,Blancs,Victoire,Échec et mat,515,513,blitz,Benoni Defense Modern Snake Variation 6.e4,2025,10,Thursday,18,2,Benoni Defense
+2025-10-16 18:57:02,Noirs,Victoire,Échec et mat,523,500,blitz,Sicilian Defense Open 3...cxd4 4.Nxd4 d6,2025,10,Thursday,18,23,Sicilian Defense
+2025-10-16 19:10:57,Noirs,Défaite,Abandon,811,824,rapid,Grob Opening Grob Gambit,2025,10,Thursday,19,-13,Grob Opening
+2025-10-17 12:48:50,Blancs,Victoire,Échec et mat,531,525,blitz,Queens Gambit Declined Exchange Positional Line,2025,10,Friday,12,6,Queens Gambit
+2025-10-17 12:52:16,Blancs,Défaite,Abandon,522,516,blitz,Queens Gambit Accepted Central Variation Alekhine System 4.Nc3,2025,10,Friday,12,6,Queens Gambit
+2025-10-17 12:57:27,Noirs,Défaite,Abandon,514,541,blitz,Van Geet Opening Reversed Nimzowitsch Napoleon Attack 3...exd4 4.Nxd4,2025,10,Friday,12,-27,Van Geet
+2025-10-17 13:03:51,Blancs,Victoire,Temps écoulé,523,530,blitz,Queens Gambit Declined Exchange Variation 4...Nxd5 5.e4 Nxc3 6.bxc3,2025,10,Friday,13,-7,Queens Gambit
+2025-10-17 13:27:21,Blancs,Défaite,Abandon,803,806,rapid,Englund Gambit 2.dxe5,2025,10,Friday,13,-3,Englund Gambit
+2025-10-17 13:39:02,Noirs,Victoire,Abandon,811,800,rapid,Kings Fianchetto Opening 1...d5 2.Bg2 Nf6,2025,10,Friday,13,11,Kings Fianchetto
+2025-10-20 13:57:17,Noirs,Victoire,Abandon,819,782,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,10,Monday,13,37,Sicilian Defense
+2025-10-20 14:24:21,Blancs,Défaite,Abandon,811,834,rapid,Englund Gambit 2.dxe5 Nc6,2025,10,Monday,14,-23,Englund Gambit
+2025-10-20 16:56:46,Blancs,Défaite,Échec et mat,803,818,rapid,Semi Slav Defense Anti Meran Gambit 5...h6 6.Bxf6 Qxf6 7.e3,2025,10,Monday,16,-15,Semi Slav
+2025-10-20 17:03:04,Noirs,Victoire,Abandon,811,789,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,10,Monday,17,22,Sicilian Defense
+2025-10-21 00:44:31,Blancs,Défaite,Abandon,515,539,blitz,Queens Gambit Accepted Central Variation,2025,10,Tuesday,0,-24,Queens Gambit
+2025-10-21 00:49:35,Noirs,Victoire,Temps écoulé,523,481,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,10,Tuesday,0,42,Sicilian Defense
+2025-10-21 00:57:45,Blancs,Victoire,Temps écoulé,530,491,blitz,Queens Pawn Opening Horwitz Defense 2.c4 c5 3.d5,2025,10,Tuesday,0,39,Queens Pawn
+2025-10-21 01:05:04,Noirs,Défaite,Échec et mat,522,551,blitz,Old Benoni Defense 2.dxc5,2025,10,Tuesday,1,-29,Old Benoni
+2025-10-21 08:37:23,Noirs,Défaite,Échec et mat,514,525,blitz,Sicilian Defense 2.Nf3 d6 3.Nc3 e5,2025,10,Tuesday,8,-11,Sicilian Defense
+2025-10-21 09:42:13,Blancs,Victoire,Partie abandonnée,522,518,blitz,Vienna Game Anderssen Defense 3.Nf3,2025,10,Tuesday,9,4,Vienna Game
+2025-10-21 09:45:45,Blancs,Défaite,Abandon,514,550,blitz,Birds Opening,2025,10,Tuesday,9,-36,Birds Opening
+2025-10-21 13:20:59,Noirs,Défaite,Abandon,803,800,rapid,Reti Opening 1...d5 2.e3,2025,10,Tuesday,13,3,Reti Opening
+2025-10-21 13:31:08,Noirs,Défaite,Échec et mat,795,792,rapid,Magnus Sicilian 3...cxd4 4.Qxd4 Nc6,2025,10,Tuesday,13,3,Magnus Sicilian
+2025-10-21 13:37:17,Blancs,Victoire,Abandon,803,792,rapid,Philidor Defense,2025,10,Tuesday,13,11,Philidor Defense
+2025-10-21 13:47:45,Noirs,Défaite,Abandon,795,823,rapid,Sicilian Defense,2025,10,Tuesday,13,-28,Sicilian Defense
+2025-10-21 23:12:05,Blancs,Victoire,Échec et mat,803,794,rapid,Kings Pawn Opening Kings Knight Variation,2025,10,Tuesday,23,9,Kings Pawn
+2025-10-21 23:23:18,Noirs,Victoire,Abandon,810,771,rapid,Sicilian Defense,2025,10,Tuesday,23,39,Sicilian Defense
+2025-10-21 23:30:53,Noirs,Victoire,Abandon,818,808,rapid,Sicilian Defense,2025,10,Tuesday,23,10,Sicilian Defense
+2025-10-22 11:23:51,Blancs,Victoire,Partie abandonnée,826,792,rapid,Van t Kruijs Opening 1...e5,2025,10,Wednesday,11,34,Van t
+2025-10-22 12:28:10,Blancs,Victoire,Échec et mat,522,507,blitz,Englund Gambit 2.dxe5 Nc6,2025,10,Wednesday,12,15,Englund Gambit
+2025-10-22 12:33:53,Noirs,Victoire,Partie abandonnée,530,499,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2025,10,Wednesday,12,31,Queens Pawn
+2025-10-22 12:40:55,Noirs,Nulle,Temps (matériel insuffisant),530,527,blitz,Sicilian Defense Open 3...cxd4 4.Nxd4 d6,2025,10,Wednesday,12,3,Sicilian Defense
+2025-10-22 15:30:51,Blancs,Victoire,Échec et mat,834,815,rapid,Slav Defense 3.Nc3 Nf6 4.Bg5,2025,10,Wednesday,15,19,Slav Defense
+2025-10-22 15:46:54,Noirs,Victoire,Temps écoulé,842,826,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,10,Wednesday,15,16,Sicilian Defense
+2025-10-22 17:47:42,Blancs,Défaite,Abandon,834,847,rapid,Queens Gambit Declined Chigorin Janowski Variation 4...Bg4,2025,10,Wednesday,17,-13,Queens Gambit
+2025-10-22 17:53:17,Blancs,Victoire,Échec et mat,842,839,rapid,Queens Gambit Declined Marshall Defense 3.Nc3,2025,10,Wednesday,17,3,Queens Gambit
+2025-10-22 18:20:54,Noirs,Défaite,Échec et mat,834,836,rapid,Queens Pawn Opening Accelerated London System 2...e6 3.e3,2025,10,Wednesday,18,-2,Queens Pawn
+2025-10-23 00:28:22,Blancs,Défaite,Partie abandonnée,827,866,rapid,Dutch Defense Classical Rubinstein Variation 3...Bb4,2025,10,Thursday,0,-39,Dutch Defense
+2025-10-23 00:38:05,Noirs,Défaite,Abandon,819,825,rapid,Sicilian Defense,2025,10,Thursday,0,-6,Sicilian Defense
+2025-10-23 13:28:32,Blancs,Défaite,Abandon,811,832,rapid,Van t Kruijs Opening 1...e5,2025,10,Thursday,13,-21,Van t
+2025-10-23 18:16:10,Noirs,Victoire,Abandon,819,821,rapid,Birds Opening,2025,10,Thursday,18,-2,Birds Opening
+2025-10-23 18:57:14,Blancs,Victoire,Échec et mat,827,804,rapid,Queens Pawn Opening Mikenas Defense 2.c4 e5 3.d5,2025,10,Thursday,18,23,Queens Pawn
+2025-10-23 19:06:32,Noirs,Victoire,Échec et mat,835,810,rapid,Queens Gambit Declined Queens Knight Variation,2025,10,Thursday,19,25,Queens Gambit
+2025-10-23 21:49:26,Blancs,Victoire,Échec et mat,843,846,rapid,Owens Defense 2.d4 Bb7 3.Nc3 e6,2025,10,Thursday,21,-3,Owens Defense
+2025-10-23 22:00:23,Noirs,Défaite,Échec et mat,835,854,rapid,Nimzowitsch Larsen Attack Classical Variation 2.e3 Nf6 3.Bb2,2025,10,Thursday,22,-19,Nimzowitsch Larsen
+2025-10-23 22:02:57,Blancs,Victoire,Échec et mat,843,846,rapid,Owens Defense 2.d4 Bb7,2025,10,Thursday,22,-3,Owens Defense
+2025-10-24 00:46:40,Blancs,Victoire,Abandon,851,830,rapid,Nimzo Indian Defense Classical Noa Variation 5.cxd5 exd5 6.Bg5,2025,10,Friday,0,21,Nimzo Indian
+2025-10-24 00:49:22,Noirs,Victoire,Échec et mat,538,509,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,10,Friday,0,29,Sicilian Defense
+2025-10-24 00:52:23,Blancs,Défaite,Abandon,530,566,blitz,Kings Indian Defense Smyslov Variation 4...O O 5.e3,2025,10,Friday,0,-36,Kings Indian
+2025-10-24 00:54:35,Noirs,Victoire,Partie abandonnée,539,545,blitz,Sicilian Defense,2025,10,Friday,0,-6,Sicilian Defense
+2025-10-24 01:04:52,Noirs,Défaite,Échec et mat,843,842,rapid,Polish Opening 1...e5 2.Bb2,2025,10,Friday,1,1,Polish Opening
+2025-10-24 09:58:57,Blancs,Défaite,Échec et mat,835,865,rapid,Queens Gambit Declined Baltic Defense 3.Nc3,2025,10,Friday,9,-30,Queens Gambit
+2025-10-24 10:00:58,Noirs,Victoire,Partie abandonnée,547,511,blitz,Queens Gambit Accepted 3.Nf3 Nf6 4.e3 e6 5.Bxc4,2025,10,Friday,10,36,Queens Gambit
+2025-10-24 10:02:00,Blancs,Victoire,Partie abandonnée,555,550,blitz,Ruy Lopez Opening,2025,10,Friday,10,5,Ruy Lopez
+2025-10-24 10:08:17,Noirs,Défaite,Échec et mat,547,582,blitz,Vienna Game Falkbeer Variation,2025,10,Friday,10,-35,Vienna Game
+2025-10-24 10:10:04,Noirs,Victoire,Partie abandonnée,555,529,blitz,Closed Sicilian Defense 2...e6 3.d3 Nc6,2025,10,Friday,10,26,Closed Sicilian
+2025-10-24 11:25:24,Blancs,Victoire,Échec et mat,843,836,rapid,Slav Defense 3.Nc3 Nf6 4.Bg5,2025,10,Friday,11,7,Slav Defense
+2025-10-24 12:56:42,Noirs,Victoire,Temps écoulé,851,849,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,10,Friday,12,2,Sicilian Defense
+2025-10-24 13:09:44,Blancs,Défaite,Échec et mat,843,874,rapid,Old Benoni Defense Benoni Indian Defense 3.Nc3 e6 4.e4,2025,10,Friday,13,-31,Old Benoni
+2025-10-24 14:02:49,Blancs,Victoire,Échec et mat,851,838,rapid,Slav Defense Slav Gambit Alekhine Attack 4...b5,2025,10,Friday,14,13,Slav Defense
+2025-10-24 14:51:50,Noirs,Défaite,Échec et mat,547,557,blitz,Sicilian Defense 2.Nf3 d6 3.Nc3 e5,2025,10,Friday,14,-10,Sicilian Defense
+2025-10-24 14:57:42,Blancs,Défaite,Abandon,539,535,blitz,Kings Pawn Opening Kings Knight Variation,2025,10,Friday,14,4,Kings Pawn
+2025-10-24 15:21:03,Noirs,Victoire,Abandon,547,539,blitz,Sicilian Defense,2025,10,Friday,15,8,Sicilian Defense
+2025-10-24 15:37:15,Noirs,Victoire,Échec et mat,851,822,rapid,Sicilian Defense Open...4.Nxd4 d6 5.Nc3 e5 6.Nf3,2025,10,Friday,15,29,Sicilian Defense
+2025-10-24 15:47:25,Blancs,Victoire,Échec et mat,851,822,rapid,Dutch Defense Queens Knight Variation 3...g6,2025,10,Friday,15,29,Dutch Defense
+2025-10-27 12:43:16,Blancs,Défaite,Abandon,843,863,rapid,Queens Gambit Accepted Central Variation McDonnell Defense,2025,10,Monday,12,-20,Queens Gambit
+2025-10-27 12:50:46,Blancs,Victoire,Abandon,851,845,rapid,Queens Gambit Declined Exchange Positional Line 5...c6 6.e3 h6,2025,10,Monday,12,6,Queens Gambit
+2025-10-27 13:01:15,Noirs,Défaite,Abandon,843,854,rapid,Sicilian Defense McDonnell Attack 2...Nc6 3.Nf3 e6,2025,10,Monday,13,-11,Sicilian Defense
+2025-10-27 14:26:45,Blancs,Défaite,Échec et mat,835,843,rapid,Queens Gambit Declined Queens Knight Variation 3...dxc4 4.e4,2025,10,Monday,14,-8,Queens Gambit
+2025-10-27 15:38:20,Noirs,Victoire,Échec et mat,843,813,rapid,Sicilian Defense,2025,10,Monday,15,30,Sicilian Defense
+2025-10-27 15:41:50,Blancs,Défaite,Abandon,835,834,rapid,Queens Gambit Declined Modern Variation 4...Bb4,2025,10,Monday,15,1,Queens Gambit
+2025-10-27 21:59:41,Blancs,Défaite,Abandon,827,847,rapid,Kings Indian Defense Smyslov Variation 4...O O 5.e3 d6,2025,10,Monday,21,-20,Kings Indian
+2025-10-28 00:04:00,Noirs,Défaite,Abandon,819,836,rapid,Van Geet Opening 1...d5,2025,10,Tuesday,0,-17,Van Geet
+2025-10-28 11:07:08,Noirs,Victoire,Abandon,827,822,rapid,Sicilian Defense Open...4.Nxd4 d6 5.Nc3 e5,2025,10,Tuesday,11,5,Sicilian Defense
+2025-10-28 11:14:43,Blancs,Victoire,Abandon,835,804,rapid,Queens Gambit Declined Queens Knight Variation 3...dxc4,2025,10,Tuesday,11,31,Queens Gambit
+2025-10-28 11:42:52,Blancs,Victoire,Échec et mat,835,2008,rapid,Undefined,2025,10,Tuesday,11,-1173,Undefined
+2025-10-28 11:54:03,Noirs,Défaite,Abandon,835,2008,rapid,Slav Defense Modern Line 3...Nf6 4.g3 dxc4,2025,10,Tuesday,11,-1173,Slav Defense
+2025-10-28 11:59:51,Blancs,Victoire,Abandon,835,2008,rapid,Alapin Sicilian Defense Barmen Defense 4.d4 Nf6 5.Nf3 e6 6.Be2,2025,10,Tuesday,11,-1173,Alapin Sicilian
+2025-10-28 16:21:42,Noirs,Défaite,Abandon,827,850,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,10,Tuesday,16,-23,Sicilian Defense
+2025-10-28 16:28:16,Blancs,Victoire,Échec et mat,835,808,rapid,Queens Gambit Declined Chigorin Janowski Variation,2025,10,Tuesday,16,27,Queens Gambit
+2025-10-28 16:43:40,Noirs,Victoire,Abandon,843,833,rapid,Sicilian Defense Open 3...cxd4 4.Nxd4 d6,2025,10,Tuesday,16,10,Sicilian Defense
+2025-10-28 18:34:41,Blancs,Victoire,Temps écoulé,550,519,bullet,Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4 e6 5.Nc3,2025,10,Tuesday,18,31,Queens Gambit
+2025-10-28 18:36:56,Noirs,Victoire,Temps écoulé,581,551,bullet,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...a6 4.Bxc6 bxc6,2025,10,Tuesday,18,30,Sicilian Defense
+2025-10-28 18:39:09,Blancs,Défaite,Temps écoulé,551,568,bullet,Kings Pawn Opening Leonardis Variation 2...Nf6 3.Nf3,2025,10,Tuesday,18,-17,Kings Pawn
+2025-10-28 18:42:11,Noirs,Défaite,Temps écoulé,524,546,bullet,Caro Kann Defense 2.Nf3,2025,10,Tuesday,18,-22,Caro Kann
+2025-10-28 18:42:56,Blancs,Victoire,Abandon,549,533,bullet,Englund Gambit 2.dxe5 Nc6,2025,10,Tuesday,18,16,Englund Gambit
+2025-10-28 18:44:34,Noirs,Défaite,Échec et mat,528,576,bullet,Queens Pawn Opening Zukertort Variation 2...e6 3.Bf4,2025,10,Tuesday,18,-48,Queens Pawn
+2025-10-28 19:07:30,Noirs,Défaite,Temps écoulé,507,546,bullet,Richter Veresov Attack Classical Defense 4...Be7,2025,10,Tuesday,19,-39,Richter Veresov
+2025-10-28 19:10:49,Blancs,Défaite,Abandon,539,543,blitz,Queens Gambit Declined Queens Knight Variation 3...Bb4,2025,10,Tuesday,19,-4,Queens Gambit
+2025-10-28 19:14:10,Noirs,Victoire,Abandon,547,539,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,10,Tuesday,19,8,Sicilian Defense
+2025-10-28 19:21:08,Blancs,Victoire,Temps écoulé,556,562,blitz,Queens Gambit Accepted 3.Nc3 Nf6,2025,10,Tuesday,19,-6,Queens Gambit
+2025-10-28 19:31:48,Blancs,Défaite,Abandon,843,2007,rapid,Ruy Lopez Opening Old Steinitz Defense 4.O O,2025,10,Tuesday,19,-1164,Ruy Lopez
+2025-10-28 19:42:19,Noirs,Victoire,Échec et mat,843,2007,rapid,Dutch Defense Queens Knight Ozols Variation 5.e3 O O 6.Be2 d6 7.O O,2025,10,Tuesday,19,-1164,Dutch Defense
+2025-10-28 19:59:32,Noirs,Défaite,Abandon,843,1947,rapid,Queens Gambit Declined Modern Variation 4...Be7 5.Nf3 h6 6.Bh4,2025,10,Tuesday,19,-1104,Queens Gambit
+2025-10-28 20:13:46,Blancs,Victoire,Échec et mat,843,1947,rapid,Queens Pawn Opening Pseudo Catalan Variation 3...Bf5 4.Bg2 e6 5.O O,2025,10,Tuesday,20,-1104,Queens Pawn
+2025-10-28 21:04:03,Noirs,Victoire,Échec et mat,556,1066,blitz,French Defense Advance Paulsen Milner Barry Gambit 6...cxd4 7.cxd4 Bd7,2025,10,Tuesday,21,-510,French Defense
+2025-10-28 21:11:32,Blancs,Victoire,Échec et mat,556,1004,blitz,Scotch Game 3...exd4 4.Nxd4 d6 5.Nc3,2025,10,Tuesday,21,-448,Scotch Game
+2025-10-28 21:19:42,Blancs,Défaite,Abandon,556,2404,blitz,Reti Opening Dutch Variation...4.O O Bg7 5.d4 O O,2025,10,Tuesday,21,-1848,Reti Opening
+2025-10-29 11:39:26,Blancs,Victoire,Abandon,526,474,bullet,Englund Gambit,2025,10,Wednesday,11,52,Englund Gambit
+2025-10-29 11:41:30,Noirs,Défaite,Échec et mat,508,545,bullet,English Opening Anglo Indian Queens Knight Variation 2...c6 3.e4 e5 4.Nf3,2025,10,Wednesday,11,-37,English Opening
+2025-10-29 11:45:29,Noirs,Défaite,Abandon,548,564,blitz,French Defense Classical Steinitz Variation,2025,10,Wednesday,11,-16,French Defense
+2025-10-29 11:51:15,Blancs,Victoire,Échec et mat,556,543,blitz,Queens Gambit Declined Queens Knight Variation 3...Bb4 4.Nf3 dxc4,2025,10,Wednesday,11,13,Queens Gambit
+2025-10-29 12:13:49,Blancs,Défaite,Abandon,547,540,blitz,Englund Gambit,2025,10,Wednesday,12,7,Englund Gambit
+2025-10-29 16:50:44,Noirs,Victoire,Temps écoulé,527,507,bullet,Sicilian Defense Bowdler Attack 2...e6,2025,10,Wednesday,16,20,Sicilian Defense
+2025-10-29 16:53:13,Noirs,Victoire,Temps écoulé,544,521,bullet,Reti Opening 1...d5 2.e3,2025,10,Wednesday,16,23,Reti Opening
+2025-10-29 16:57:21,Blancs,Victoire,Temps écoulé,560,528,bullet,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,10,Wednesday,16,32,Sicilian Defense
+2025-10-30 18:44:27,Blancs,Défaite,Partie abandonnée,835,849,rapid,Italian Game 3...d6,2025,10,Thursday,18,-14,Italian Game
+2025-10-30 20:01:09,Noirs,Victoire,Temps écoulé,843,844,rapid,Sicilian Defense,2025,10,Thursday,20,-1,Sicilian Defense
+2025-10-31 13:22:46,Noirs,Défaite,Abandon,835,859,rapid,Sicilian Defense 2.d3 d6,2025,10,Friday,13,-24,Sicilian Defense
+2025-10-31 15:28:49,Blancs,Victoire,Temps écoulé,555,559,blitz,Scandinavian Defense 2.e5,2025,10,Friday,15,-4,Scandinavian Defense
+2025-10-31 15:33:42,Blancs,Victoire,Échec et mat,563,535,blitz,Queens Gambit Declined Albin Countergambit,2025,10,Friday,15,28,Queens Gambit
+2025-11-03 16:03:56,Blancs,Victoire,Abandon,571,556,blitz,Semi Slav Defense Anti Meran Anti Moscow Gambit...7.e4 g5 8.Bg3 b5,2025,11,Monday,16,15,Semi Slav
+2025-11-03 16:07:10,Noirs,Victoire,Abandon,579,567,blitz,Sicilian Defense French Variation 3.Nc3 Nc6,2025,11,Monday,16,12,Sicilian Defense
+2025-11-03 16:13:02,Noirs,Défaite,Abandon,571,607,blitz,Kings Fianchetto Opening 1...e5 2.Bg2 d5,2025,11,Monday,16,-36,Kings Fianchetto
+2025-11-04 09:04:53,Noirs,Victoire,Temps écoulé,579,552,blitz,Sicilian Defense Bowdler Attack 2...e6 3.Nc3,2025,11,Tuesday,9,27,Sicilian Defense
+2025-11-04 09:07:28,Blancs,Défaite,Abandon,571,604,blitz,Queens Pawn Opening English Defense 3.Nc3 Bb4 4.e4 Bb7,2025,11,Tuesday,9,-33,Queens Pawn
+2025-11-04 09:19:56,Noirs,Victoire,Temps écoulé,578,540,blitz,Sicilian Defense Old Sicilian Variation 3.d3 d6,2025,11,Tuesday,9,38,Sicilian Defense
+2025-11-04 09:23:29,Blancs,Défaite,Échec et mat,570,600,blitz,Queens Gambit Accepted 3.Nc3 Nf6,2025,11,Tuesday,9,-30,Queens Gambit
+2025-11-04 22:01:45,Noirs,Défaite,Échec et mat,562,583,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,11,Tuesday,22,-21,Sicilian Defense
+2025-11-04 22:05:46,Noirs,Victoire,Échec et mat,570,565,blitz,Queens Gambit Declined Exchange Variation 4...exd5,2025,11,Tuesday,22,5,Queens Gambit
+2025-11-04 22:11:08,Blancs,Défaite,Échec et mat,562,584,blitz,Semi Slav Defense Anti Meran Gambit 5...h6 6.Bxf6 Qxf6 7.e3,2025,11,Tuesday,22,-22,Semi Slav
+2025-11-05 11:22:12,Blancs,Victoire,Temps écoulé,570,565,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4,2025,11,Wednesday,11,5,Queens Gambit
+2025-11-05 11:29:52,Blancs,Défaite,Abandon,562,572,blitz,Center Game,2025,11,Wednesday,11,-10,Center Game
+2025-11-05 12:17:59,Noirs,Défaite,Abandon,554,557,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,11,Wednesday,12,-3,Sicilian Defense
+2025-11-05 12:31:40,Blancs,Défaite,Échec et mat,826,819,rapid,Queens Gambit Declined Modern Knight Defense...8.Bd3 O O 9.Qc2 h6,2025,11,Wednesday,12,7,Queens Gambit
+2025-11-06 12:13:42,Noirs,Défaite,Abandon,546,560,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,11,Thursday,12,-14,Sicilian Defense
+2025-11-06 12:16:56,Blancs,Défaite,Abandon,538,559,blitz,Queens Gambit Declined Queens Knight Variation 3...Bb4,2025,11,Thursday,12,-21,Queens Gambit
+2025-11-06 16:57:48,Blancs,Défaite,Abandon,818,839,rapid,Kings Indian Defense Smyslov Variation 4...d6,2025,11,Thursday,16,-21,Kings Indian
+2025-11-07 10:30:28,Noirs,Victoire,Abandon,546,548,blitz,Sicilian Defense French Variation,2025,11,Friday,10,-2,Sicilian Defense
+2025-11-07 10:32:33,Noirs,Défaite,Abandon,538,551,blitz,Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4 e6,2025,11,Friday,10,-13,Queens Pawn
+2025-11-07 12:11:34,Noirs,Victoire,Abandon,826,818,rapid,Sicilian Defense McDonnell Attack 2...Nc6 3.d3 g6,2025,11,Friday,12,8,Sicilian Defense
+2025-11-07 12:20:10,Blancs,Victoire,Abandon,834,812,rapid,Old Indian Defense Czech Variation,2025,11,Friday,12,22,Old Indian
+2025-11-07 12:33:13,Blancs,Victoire,Abandon,842,846,rapid,Slav Defense 3.Nc3 Nf6 4.Bg5,2025,11,Friday,12,-4,Slav Defense
+2025-11-07 12:48:30,Blancs,Nulle,Matériel insuffisant,842,842,rapid,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,2025,11,Friday,12,0,Queens Gambit
+2025-11-08 00:23:01,Blancs,Victoire,Temps écoulé,545,507,blitz,Modern Defense 3.Nc3 Bg7 4.Nf3 Nc6,2025,11,Saturday,0,38,Modern Defense
+2025-11-08 00:25:31,Noirs,Victoire,Échec et mat,552,500,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.Bxc6 bxc6,2025,11,Saturday,0,52,Sicilian Defense
+2025-11-08 00:31:44,Blancs,Victoire,Temps écoulé,559,493,blitz,Ruy Lopez Opening Berlin Defense 4.d3,2025,11,Saturday,0,66,Ruy Lopez
+2025-11-08 00:35:34,Noirs,Victoire,Échec et mat,567,546,blitz,Sicilian Defense Taimanov Variation 5.Nxc6 bxc6,2025,11,Saturday,0,21,Sicilian Defense
+2025-11-08 00:38:05,Noirs,Victoire,Abandon,575,485,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,11,Saturday,0,90,Sicilian Defense
+2025-11-08 00:40:15,Noirs,Victoire,Abandon,583,561,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,11,Saturday,0,22,Sicilian Defense
+2025-11-08 12:15:01,Blancs,Victoire,Temps écoulé,590,554,blitz,English Defense 2.c4 Bb7 3.Nc3,2025,11,Saturday,12,36,English Defense
+2025-11-08 12:17:55,Noirs,Défaite,Abandon,582,586,blitz,London System...4.e3 cxd4 5.exd4 Nc6 6.c3,2025,11,Saturday,12,-4,London System...4.e3
+2025-11-08 12:22:06,Noirs,Défaite,Abandon,574,588,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,11,Saturday,12,-14,Sicilian Defense
+2025-11-08 16:25:53,Blancs,Victoire,Abandon,582,571,blitz,Queens Gambit Accepted 3.Nc3,2025,11,Saturday,16,11,Queens Gambit
+2025-11-08 16:48:35,Blancs,Défaite,Échec et mat,574,602,blitz,Ruy Lopez Opening Classical Defense 4.O O d6,2025,11,Saturday,16,-28,Ruy Lopez
+2025-11-09 00:26:54,Noirs,Défaite,Abandon,566,583,blitz,Sicilian Defense,2025,11,Sunday,0,-17,Sicilian Defense
+2025-11-09 00:33:01,Blancs,Victoire,Abandon,574,572,blitz,Petrovs Defense Classical Variation,2025,11,Sunday,0,2,Petrovs Defense
+2025-11-09 00:42:26,Blancs,Victoire,Temps écoulé,582,549,blitz,Slav Defense Exchange Variation 3...cxd5 4.Nc3 Nf6,2025,11,Sunday,0,33,Slav Defense
+2025-11-09 00:48:09,Noirs,Victoire,Temps écoulé,576,545,bullet,Sicilian Defense,2025,11,Sunday,0,31,Sicilian Defense
+2025-11-09 13:02:13,Blancs,Victoire,Abandon,590,585,blitz,Queens Gambit Declined Queens Knight Variation,2025,11,Sunday,13,5,Queens Gambit
+2025-11-09 13:07:56,Blancs,Victoire,Temps écoulé,598,566,blitz,Ruy Lopez Opening Cozio Defense 4.O O,2025,11,Sunday,13,32,Ruy Lopez
+2025-11-09 13:14:02,Noirs,Victoire,Échec et mat,606,569,blitz,Queens Pawn Opening 1...d5,2025,11,Sunday,13,37,Queens Pawn
+2025-11-09 13:16:41,Blancs,Victoire,Échec et mat,614,600,blitz,Slav Defense Slav Gambit Alekhine Attack 4...b5,2025,11,Sunday,13,14,Slav Defense
+2025-11-09 13:20:52,Noirs,Défaite,Abandon,606,634,blitz,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3,2025,11,Sunday,13,-28,Queens Pawn
+2025-11-09 13:58:48,Blancs,Défaite,Abandon,601,763,blitz,Benko Gambit,2025,11,Sunday,13,-162,Benko Gambit
+2025-11-09 14:04:17,Blancs,Défaite,Abandon,598,850,blitz,Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3,2025,11,Sunday,14,-252,Caro Kann
+2025-11-09 14:09:22,Noirs,Victoire,Abandon,602,403,blitz,Sicilian Defense 2.d3 Nc6,2025,11,Sunday,14,199,Sicilian Defense
+2025-11-09 14:17:33,Noirs,Victoire,Échec et mat,607,469,blitz,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6,2025,11,Sunday,14,138,Nimzowitsch Larsen
+2025-11-09 14:26:00,Blancs,Défaite,Échec et mat,602,768,blitz,Queens Gambit Accepted Central Variation Greco Variation,2025,11,Sunday,14,-166,Queens Gambit
+2025-11-09 16:58:37,Noirs,Victoire,Abandon,854,1050,rapid,Queens Pawn Opening Accelerated London System,2025,11,Sunday,16,-196,Queens Pawn
+2025-11-09 17:11:40,Blancs,Défaite,Échec et mat,845,820,rapid,Englund Gambit,2025,11,Sunday,17,25,Englund Gambit
+2025-11-09 20:10:40,Noirs,Victoire,Partie abandonnée,610,582,blitz,Van t Kruijs Opening 1...d5,2025,11,Sunday,20,28,Van t
+2025-11-09 20:15:38,Noirs,Défaite,Abandon,604,716,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2025,11,Sunday,20,-112,Alapin Sicilian
+2025-11-10 11:16:25,Noirs,Victoire,Échec et mat,613,623,blitz,Caro Kann Defense 2.Nf3 d5 3.d3,2025,11,Monday,11,-10,Caro Kann
+2025-11-10 11:24:57,Blancs,Défaite,Abandon,611,959,blitz,Queens Gambit Accepted Central Variation Alekhine System 4.Nc3 e5,2025,11,Monday,11,-348,Queens Gambit
+2025-11-10 11:30:54,Noirs,Défaite,Échec et mat,601,545,blitz,Dutch Defense 2.Bf4,2025,11,Monday,11,56,Dutch Defense
+2025-11-10 11:35:49,Blancs,Victoire,Échec et mat,607,457,blitz,Queens Gambit Declined Baltic Defense 3.Nc3,2025,11,Monday,11,150,Queens Gambit
+2025-11-10 11:40:06,Blancs,Nulle,Répétition,610,726,blitz,Bishops Opening Berlin Defense 3.d3 Bc5 4.Nf3,2025,11,Monday,11,-116,Bishops Opening
+2025-11-10 15:02:55,Noirs,Victoire,Abandon,855,905,rapid,Caro Kann Defense Advance Botvinnik Carls Defense 4.c3,2025,11,Monday,15,-50,Caro Kann
+2025-11-10 15:09:29,Blancs,Victoire,Abandon,863,846,rapid,Slav Defense Modern Line 3...dxc4 4.Nc3,2025,11,Monday,15,17,Slav Defense
+2025-11-10 15:19:46,Blancs,Victoire,Abandon,870,807,rapid,Petrovs Defense Three Knights Game,2025,11,Monday,15,63,Petrovs Defense
+2025-11-10 15:27:57,Noirs,Défaite,Échec et mat,866,1070,rapid,Sicilian Defense Slow Variation...3.f4 g6 4.Nf3 Bg7 5.O O,2025,11,Monday,15,-204,Sicilian Defense
+2025-11-10 18:07:16,Noirs,Défaite,Abandon,604,723,blitz,Queens Gambit Declined Semi Tarrasch Main Line Exchange Variation...7.bxc3 cxd4 8.cxd4 Nc6,2025,11,Monday,18,-119,Queens Gambit
+2025-11-10 18:11:33,Blancs,Victoire,Abandon,613,636,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4 4.e4,2025,11,Monday,18,-23,Queens Gambit
+2025-11-10 18:15:28,Blancs,Défaite,Abandon,606,673,blitz,Scandinavian Defense 2.e5,2025,11,Monday,18,-67,Scandinavian Defense
+2025-11-10 18:22:02,Noirs,Défaite,Échec et mat,603,891,blitz,Alapin Sicilian Defense 2...Nc6 3.d4,2025,11,Monday,18,-288,Alapin Sicilian
+2025-11-10 18:29:02,Noirs,Défaite,Échec et mat,603,873,blitz,Sicilian Defense French Variation 3.Nc3 Nc6 4.g3,2025,11,Monday,18,-270,Sicilian Defense
+2025-11-10 18:32:02,Blancs,Défaite,Abandon,603,873,blitz,Kings Indian Defense Smyslov Variation 4...O O 5.Nf3,2025,11,Monday,18,-270,Kings Indian
+2025-11-10 18:39:27,Noirs,Défaite,Temps écoulé,603,873,blitz,Sicilian Defense French Variation...5.Nc3 d5 6.exd5 exd5,2025,11,Monday,18,-270,Sicilian Defense
+2025-11-10 18:43:46,Blancs,Défaite,Échec et mat,603,873,blitz,French Defense La Bourdonnais Variation,2025,11,Monday,18,-270,French Defense
+2025-11-10 18:56:46,Noirs,Nulle,Pat,865,825,rapid,Sicilian Defense Open Dragon Fianchetto Variation...7.Bg2 O O 8.O O Nc6,2025,11,Monday,18,40,Sicilian Defense
+2025-11-11 02:49:53,Blancs,Victoire,Échec et mat,865,975,rapid,Owens Defense 2.d4 Bb7 3.Nc3,2025,11,Tuesday,2,-110,Owens Defense
+2025-11-11 02:57:28,Noirs,Défaite,Échec et mat,865,975,rapid,Undefined,2025,11,Tuesday,2,-110,Undefined
+2025-11-11 03:03:21,Blancs,Défaite,Échec et mat,865,975,rapid,English Opening Kings English Variation 2.a3,2025,11,Tuesday,3,-110,English Opening
+2025-11-11 14:13:25,Blancs,Nulle,Accord mutuel,599,441,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5 e6,2025,11,Tuesday,14,158,Slav Defense
+2025-11-11 14:20:41,Noirs,Victoire,Échec et mat,601,111,blitz,Queens Pawn Opening 1...d5,2025,11,Tuesday,14,490,Queens Pawn
+2025-11-11 14:27:01,Noirs,Victoire,Échec et mat,607,424,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,11,Tuesday,14,183,Sicilian Defense
+2025-11-11 14:36:06,Noirs,Victoire,Abandon,618,745,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,11,Tuesday,14,-127,Sicilian Defense
+2025-11-11 16:46:41,Blancs,Victoire,Échec et mat,623,459,blitz,Queens Gambit Accepted 3.Nc3,2025,11,Tuesday,16,164,Queens Gambit
+2025-11-11 16:52:24,Noirs,Défaite,Abandon,615,639,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,11,Tuesday,16,-24,Sicilian Defense
+2025-11-11 19:06:08,Blancs,Défaite,Échec et mat,609,709,blitz,Queens Gambit Declined Austrian Variation 3.cxd5 Qxd5,2025,11,Tuesday,19,-100,Queens Gambit
+2025-11-11 19:11:15,Noirs,Victoire,Échec et mat,613,419,blitz,Sicilian Defense,2025,11,Tuesday,19,194,Sicilian Defense
+2025-11-11 19:17:23,Blancs,Victoire,Temps écoulé,622,669,blitz,Queens Gambit Accepted Central Variation Greco Variation,2025,11,Tuesday,19,-47,Queens Gambit
+2025-11-11 19:24:04,Noirs,Victoire,Temps écoulé,629,552,blitz,Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4 e6 4.e3,2025,11,Tuesday,19,77,Queens Pawn
+2025-11-11 19:26:43,Blancs,Défaite,Abandon,618,496,blitz,Slav Defense Exchange Variation 3...cxd5 4.Nf3 Nc6 5.Nc3,2025,11,Tuesday,19,122,Slav Defense
+2025-11-11 19:47:45,Blancs,Défaite,Abandon,614,833,blitz,Sicilian Defense...3.Bc4 Nf6 4.d3 Nc6 5.c3,2025,11,Tuesday,19,-219,Sicilian Defense...3.Bc4
+2025-11-12 12:58:43,Noirs,Victoire,Échec et mat,625,733,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,11,Wednesday,12,-108,Sicilian Defense
+2025-11-12 13:01:39,Noirs,Victoire,Abandon,636,766,blitz,Old Benoni Defense,2025,11,Wednesday,13,-130,Old Benoni
+2025-11-12 13:09:27,Noirs,Victoire,Échec et mat,646,696,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2025,11,Wednesday,13,-50,Alapin Sicilian
+2025-11-12 13:14:56,Blancs,Victoire,Partie abandonnée,656,683,blitz,Queens Gambit Accepted Central Variation Modern Defense,2025,11,Wednesday,13,-27,Queens Gambit
+2025-11-12 13:17:56,Blancs,Défaite,Abandon,652,869,blitz,Old Benoni Defense 2.c3 Nf6,2025,11,Wednesday,13,-217,Old Benoni
+2025-11-12 18:44:22,Noirs,Victoire,Temps écoulé,577,141,bullet,Sicilian Defense Staunton Cochrane Variation,2025,11,Wednesday,18,436,Sicilian Defense
+2025-11-12 18:44:51,Blancs,Victoire,Temps écoulé,578,251,bullet,Queens Pawn Opening Anglo Slav Opening 3.Nc3,2025,11,Wednesday,18,327,Queens Pawn
+2025-11-12 18:45:23,Blancs,Victoire,Temps écoulé,580,573,bullet,Clemenz Opening 1...e5,2025,11,Wednesday,18,7,Clemenz Opening
+2025-11-12 18:47:38,Noirs,Victoire,Temps écoulé,582,542,bullet,Van t Kruijs Opening 1...c5,2025,11,Wednesday,18,40,Van t
+2025-11-12 18:48:05,Blancs,Défaite,Temps écoulé,581,801,bullet,Scandinavian Defense,2025,11,Wednesday,18,-220,Scandinavian Defense
+2025-11-12 19:07:05,Blancs,Victoire,Abandon,666,967,blitz,Caro Kann Defense Advance Van der Wiel Attack 4...e6,2025,11,Wednesday,19,-301,Caro Kann
+2025-11-12 19:10:29,Noirs,Défaite,Temps écoulé,856,836,rapid,Sicilian Defense Old Sicilian Variation 3.c4,2025,11,Wednesday,19,20,Sicilian Defense
+2025-11-12 19:14:08,Blancs,Défaite,Échec et mat,664,976,blitz,Queens Gambit Declined Modern Variation 4...Bb4,2025,11,Wednesday,19,-312,Queens Gambit
+2025-11-12 19:20:30,Noirs,Défaite,Abandon,663,1093,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,11,Wednesday,19,-430,Sicilian Defense
+2025-11-13 00:32:53,Blancs,Nulle,Répétition,667,851,blitz,Queens Gambit Declined Modern Variation,2025,11,Thursday,0,-184,Queens Gambit
+2025-11-13 00:34:21,Noirs,Victoire,Abandon,670,430,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,11,Thursday,0,240,Sicilian Defense
+2025-11-13 00:38:29,Noirs,Victoire,Échec et mat,672,264,blitz,Polish Opening 1...d5,2025,11,Thursday,0,408,Polish Opening
+2025-11-13 00:43:43,Blancs,Défaite,Abandon,662,613,blitz,French Defense Knight Variation,2025,11,Thursday,0,49,French Defense
+2025-11-13 00:47:55,Noirs,Défaite,Abandon,659,942,blitz,Sicilian Defense McDonnell Attack 2...Nc6,2025,11,Thursday,0,-283,Sicilian Defense
+2025-11-13 00:51:41,Noirs,Victoire,Partie abandonnée,662,373,blitz,Queens Pawn Opening Torre Attack,2025,11,Thursday,0,289,Queens Pawn
+2025-11-13 01:00:15,Blancs,Victoire,Échec et mat,668,581,blitz,Slav Defense Modern Line 3...dxc4 4.Nc3,2025,11,Thursday,1,87,Slav Defense
+2025-11-13 01:04:44,Blancs,Défaite,Échec et mat,660,680,blitz,Grunfeld Defense Stockholm Variation 4...Bg7,2025,11,Thursday,1,-20,Grunfeld Defense
+2025-11-15 18:04:27,Blancs,Défaite,Abandon,659,1120,blitz,Queens Gambit Accepted Central Variation,2025,11,Saturday,18,-461,Queens Gambit
+2025-11-15 18:08:02,Noirs,Défaite,Échec et mat,659,1535,blitz,Sicilian Defense McDonnell Attack 2...Nc6 3.Nf3,2025,11,Saturday,18,-876,Sicilian Defense
+2025-11-16 16:24:55,Noirs,Victoire,Partie abandonnée,661,296,blitz,Sicilian Defense,2025,11,Sunday,16,365,Sicilian Defense
+2025-11-16 16:26:11,Blancs,Victoire,Échec et mat,665,470,blitz,Queens Pawn Opening Wade Defense 3.e4,2025,11,Sunday,16,195,Queens Pawn
+2025-11-16 16:36:22,Noirs,Défaite,Échec et mat,658,719,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,11,Sunday,16,-61,Sicilian Defense
+2025-11-18 01:37:29,Noirs,Nulle,Accord mutuel,658,637,blitz,Sicilian Defense Bowdler Attack 2...e6 3.Nc3,2025,11,Tuesday,1,21,Sicilian Defense
+2025-11-18 01:40:11,Blancs,Victoire,Partie abandonnée,666,665,blitz,Tarrasch Defense 4.cxd5,2025,11,Tuesday,1,1,Tarrasch Defense
+2025-11-18 17:34:15,Noirs,Défaite,Abandon,662,876,blitz,Indian Game 2.Bf4 d6 3.e3,2025,11,Tuesday,17,-214,Indian Game
+2025-11-18 17:43:07,Blancs,Défaite,Échec et mat,649,548,blitz,Slav Defense Slav Gambit Alekhine Attack 4...b5,2025,11,Tuesday,17,101,Slav Defense
+2025-11-18 17:50:10,Noirs,Victoire,Échec et mat,656,589,blitz,Queens Pawn Opening Chigorin Variation 2...e6,2025,11,Tuesday,17,67,Queens Pawn
+2025-11-18 17:53:06,Noirs,Victoire,Abandon,672,1422,blitz,Sicilian Defense Taimanov Variation 5.Nc3,2025,11,Tuesday,17,-750,Sicilian Defense
+2025-11-18 18:01:59,Blancs,Victoire,Abandon,687,832,blitz,Ruy Lopez Opening,2025,11,Tuesday,18,-145,Ruy Lopez
+2025-11-18 18:04:42,Noirs,Défaite,Abandon,687,1422,blitz,Sicilian Defense Taimanov Variation 5.Nc3 a6 6.Nxc6 bxc6,2025,11,Tuesday,18,-735,Sicilian Defense
+2025-11-18 19:54:35,Blancs,Victoire,Abandon,870,1147,rapid,Queens Gambit Declined Baltic Defense,2025,11,Tuesday,19,-277,Queens Gambit
+2025-11-18 19:58:57,Noirs,Victoire,Abandon,871,337,rapid,Tarrasch Defense 4.Nf3 cxd4 5.Nxd4,2025,11,Tuesday,19,534,Tarrasch Defense
+2025-11-18 20:04:18,Blancs,Victoire,Partie abandonnée,871,102,rapid,Kings Pawn Opening 1...e5,2025,11,Tuesday,20,769,Kings Pawn
+2025-11-18 20:14:21,Blancs,Défaite,Échec et mat,871,2017,rapid,Alapin Sicilian Defense 2...d6 3.d4 Nd7 4.Nf3,2025,11,Tuesday,20,-1146,Alapin Sicilian
+2025-11-18 21:54:40,Noirs,Nulle,Temps (matériel insuffisant),879,1585,rapid,Indian Game 2.Bf4 b6,2025,11,Tuesday,21,-706,Indian Game
+2025-11-19 12:53:57,Blancs,Victoire,Partie abandonnée,885,778,rapid,Ruy Lopez Opening Morphy Defense Deferred Classical Defense 5.O O,2025,11,Wednesday,12,107,Ruy Lopez
+2025-11-19 13:01:05,Noirs,Victoire,Abandon,889,682,rapid,Queens Pawn Opening Krause Variation 3.dxc5 e6,2025,11,Wednesday,13,207,Queens Pawn
+2025-11-19 13:15:14,Blancs,Victoire,Abandon,897,880,rapid,Alapin Sicilian Defense 2...e6 3.Nf3,2025,11,Wednesday,13,17,Alapin Sicilian
+2025-11-19 13:35:48,Noirs,Défaite,Abandon,889,920,rapid,Sicilian Defense Taimanov Variation 5.Nc3,2025,11,Wednesday,13,-31,Sicilian Defense
+2025-11-19 16:54:54,Blancs,Victoire,Abandon,899,957,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...e6 4.c3,2025,11,Wednesday,16,-58,Sicilian Defense
+2025-11-19 17:00:46,Noirs,Victoire,Échec et mat,906,861,rapid,Sicilian Defense Old Sicilian Variation 3.d3 d6,2025,11,Wednesday,17,45,Sicilian Defense
+2025-11-19 17:04:39,Blancs,Défaite,Échec et mat,899,941,rapid,Ruy Lopez Opening Berlin Beverwijk Variation 5.d3,2025,11,Wednesday,17,-42,Ruy Lopez
+2025-11-19 17:15:24,Blancs,Victoire,Échec et mat,907,887,rapid,Reti Opening Kingside Fianchetto Variation 2.e4,2025,11,Wednesday,17,20,Reti Opening
+2025-11-19 17:32:48,Noirs,Victoire,Partie abandonnée,913,807,rapid,Queens Gambit Declined Albin Countergambit,2025,11,Wednesday,17,106,Queens Gambit
+2025-11-20 09:41:22,Noirs,Victoire,Temps écoulé,695,680,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,11,Thursday,9,15,Sicilian Defense
+2025-11-20 09:42:49,Blancs,Victoire,Abandon,703,688,blitz,Ruy Lopez Opening Morphy Defense Caro Variation 5.Bb3,2025,11,Thursday,9,15,Ruy Lopez
+2025-11-20 11:00:20,Blancs,Défaite,Abandon,475,671,blitz,Inconnue,2025,11,Thursday,11,-196,Inconnue
+2025-11-20 11:04:44,Blancs,Défaite,Abandon,692,586,blitz,French Defense Knight Variation,2025,11,Thursday,11,106,French Defense
+2025-11-20 11:06:31,Noirs,Défaite,Abandon,686,795,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,11,Thursday,11,-109,Sicilian Defense
+2025-11-20 11:13:05,Noirs,Victoire,Échec et mat,692,567,blitz,Reti Opening Kings Indian Attack Symmetrical Defense 3.Bg2 Bg7,2025,11,Thursday,11,125,Reti Opening
+2025-11-20 11:15:04,Blancs,Victoire,Échec et mat,693,289,blitz,Kings Pawn Opening Latvian Gambit,2025,11,Thursday,11,404,Kings Pawn
+2025-11-20 11:17:18,Noirs,Victoire,Abandon,694,198,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,11,Thursday,11,496,Sicilian Defense
+2025-11-20 11:21:26,Blancs,Défaite,Échec et mat,688,791,blitz,Philidor Defense 3.Bc4,2025,11,Thursday,11,-103,Philidor Defense
+2025-11-20 15:06:19,Noirs,Défaite,Abandon,903,849,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,11,Thursday,15,54,Sicilian Defense
+2025-11-20 15:13:48,Noirs,Défaite,Abandon,895,905,rapid,Sicilian Defense Canal Attack 3...Nc6 4.d4 cxd4 5.Nxd4,2025,11,Thursday,15,-10,Sicilian Defense
+2025-11-20 15:52:40,Blancs,Défaite,Échec et mat,683,824,blitz,Ruy Lopez Opening Birds Defense 4.Nxd4 exd4 5.O O,2025,11,Thursday,15,-141,Ruy Lopez
+2025-11-20 15:55:28,Blancs,Victoire,Abandon,694,804,blitz,Ruy Lopez Opening Cozio Defense 4.O O a6 5.Ba4,2025,11,Thursday,15,-110,Ruy Lopez
+2025-11-20 16:03:58,Noirs,Défaite,Abandon,685,660,blitz,Sicilian Defense Bowdler Attack 2...e6,2025,11,Thursday,16,25,Sicilian Defense
+2025-11-20 17:15:36,Blancs,Défaite,Échec et mat,892,1158,rapid,Caro Kann Defense 2.Nf3 d5 3.d3,2025,11,Thursday,17,-266,Caro Kann
+2025-11-20 17:21:44,Noirs,Défaite,Abandon,892,1510,rapid,Sicilian Defense Bowdler Attack 2...e6,2025,11,Thursday,17,-618,Sicilian Defense
+2025-11-20 17:23:46,Blancs,Défaite,Abandon,881,783,rapid,Kings Pawn Opening Latvian Mlotkowski Variation,2025,11,Thursday,17,98,Kings Pawn
+2025-11-20 19:52:23,Blancs,Défaite,Échec et mat,880,1434,rapid,Indian Game East Indian Przepiorka Variation 3...Bg7 4.Bg2,2025,11,Thursday,19,-554,Indian Game
+2025-11-20 19:54:20,Noirs,Victoire,Échec et mat,881,253,rapid,Mieses Opening 1...d5,2025,11,Thursday,19,628,Mieses Opening
+2025-11-20 19:55:45,Noirs,Victoire,Abandon,894,1137,rapid,Sicilian Defense 2.Nf3 d6 3.Bc4 Nf6 4.Qe2,2025,11,Thursday,19,-243,Sicilian Defense
+2025-11-20 20:04:52,Noirs,Défaite,Échec et mat,894,1495,rapid,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6 4.O O,2025,11,Thursday,20,-601,Sicilian Defense
+2025-11-20 20:14:31,Noirs,Victoire,Échec et mat,894,356,rapid,Queens Pawn Opening 1...d5 2.e3 c5,2025,11,Thursday,20,538,Queens Pawn
+2025-11-20 20:22:31,Blancs,Victoire,Échec et mat,894,356,rapid,Queens Gambit,2025,11,Thursday,20,538,Queens Gambit
+2025-11-20 20:39:11,Noirs,Nulle,Pat,894,356,rapid,Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7 6.Nb3 Nf6,2025,11,Thursday,20,538,Sicilian Defense
+2025-11-20 21:12:26,Blancs,Victoire,Échec et mat,899,757,rapid,Kings Pawn Opening Kings Knight Latvian Gambit Accepted,2025,11,Thursday,21,142,Kings Pawn
+2025-11-20 21:15:30,Blancs,Victoire,Échec et mat,899,175,rapid,Alapin Sicilian Defense 2...e5 3.Nf3,2025,11,Thursday,21,724,Alapin Sicilian
+2025-11-20 21:28:55,Blancs,Victoire,Échec et mat,903,705,rapid,Philidor Defense,2025,11,Thursday,21,198,Philidor Defense
+2025-11-21 09:48:02,Noirs,Victoire,Temps écoulé,685,478,blitz,Undefined,2025,11,Friday,9,207,Undefined
+2025-11-21 09:58:13,Noirs,Victoire,Échec et mat,685,478,blitz,Sicilian Defense,2025,11,Friday,9,207,Sicilian Defense
+2025-11-22 17:32:07,Noirs,Victoire,Échec et mat,693,686,blitz,Clemenz Opening,2025,11,Saturday,17,7,Clemenz Opening
+2025-11-23 00:42:45,Noirs,Victoire,Temps écoulé,701,704,blitz,Sicilian Defense 2.d3 Nc6,2025,11,Sunday,0,-3,Sicilian Defense
+2025-11-23 01:14:53,Noirs,Défaite,Abandon,693,729,blitz,Indian Game 2.Bf4 d6 3.Nf3,2025,11,Sunday,1,-36,Indian Game
+2025-11-24 10:37:54,Blancs,Victoire,Échec et mat,910,804,rapid,Owens Defense,2025,11,Monday,10,106,Owens Defense
+2025-11-24 10:55:08,Noirs,Victoire,Temps écoulé,919,939,rapid,Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3 Nf6,2025,11,Monday,10,-20,Caro Kann
+2025-11-24 10:59:32,Blancs,Défaite,Abandon,916,1179,rapid,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...d6,2025,11,Monday,10,-263,Ruy Lopez
+2025-11-24 11:04:15,Blancs,Défaite,Échec et mat,905,779,rapid,French Defense Advance Variation 3...c5 4.c3 Ne7 5.Nf3,2025,11,Monday,11,126,French Defense
+2025-11-24 11:11:55,Blancs,Défaite,Échec et mat,892,630,rapid,Semi Slav Defense Anti Meran Gambit,2025,11,Monday,11,262,Semi Slav
+2025-11-24 12:08:25,Noirs,Défaite,Abandon,882,833,rapid,Sicilian Defense Open Scheveningen Sozin Attack 6...Nc6 7.O O,2025,11,Monday,12,49,Sicilian Defense
+2025-11-24 14:22:07,Blancs,Victoire,Échec et mat,883,449,rapid,English Opening Four Knights Variation 4.d4,2025,11,Monday,14,434,English Opening
+2025-11-24 14:31:46,Noirs,Défaite,Échec et mat,880,1149,rapid,Sicilian Defense Staunton Cochrane Variation 2...Nc6 3.Nc3 g6,2025,11,Monday,14,-269,Sicilian Defense
+2025-11-24 16:13:48,Noirs,Victoire,Échec et mat,881,250,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,11,Monday,16,631,Sicilian Defense
+2025-11-24 16:16:03,Blancs,Défaite,Abandon,881,1616,rapid,Caro Kann Defense 2.Nf3,2025,11,Monday,16,-735,Caro Kann
+2025-11-24 16:21:32,Noirs,Victoire,Échec et mat,882,460,rapid,Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7,2025,11,Monday,16,422,Sicilian Defense
+2025-11-24 16:29:19,Blancs,Défaite,Abandon,881,1457,rapid,Nimzo Indian Defense Leningrad Variation 4...h6,2025,11,Monday,16,-576,Nimzo Indian
+2025-11-25 11:20:28,Blancs,Victoire,Abandon,882,421,rapid,Kings Pawn Opening Adams Defense 2.d4,2025,11,Tuesday,11,461,Kings Pawn
+2025-11-25 11:27:00,Noirs,Victoire,Échec et mat,883,235,rapid,French Defense Exchange Variation 3...exd5 4.Nf3 Bg4,2025,11,Tuesday,11,648,French Defense
+2025-11-25 11:38:30,Noirs,Victoire,Abandon,897,1196,rapid,Reti Opening Kings Indian Attack Symmetrical Defense...4.O O O O 5.d3 d6 6.c4,2025,11,Tuesday,11,-299,Reti Opening
+2025-11-25 11:51:01,Blancs,Défaite,Abandon,896,1331,rapid,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2025,11,Tuesday,11,-435,Ruy Lopez
+2025-11-25 14:00:53,Blancs,Défaite,Abandon,693,478,blitz,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7,2025,11,Tuesday,14,215,Reti Opening
+2025-11-25 14:02:20,Noirs,Défaite,Échec et mat,693,478,blitz,Sicilian Defense,2025,11,Tuesday,14,215,Sicilian Defense
+2025-11-25 14:14:00,Blancs,Nulle,Répétition,693,478,blitz,Scandinavian Defense,2025,11,Tuesday,14,215,Scandinavian Defense
+2025-11-25 14:42:39,Blancs,Défaite,Temps écoulé,581,1902,bullet,Reti Opening Queenside Fianchetto Variation 2.e4,2025,11,Tuesday,14,-1321,Reti Opening
+2025-11-25 14:43:12,Noirs,Défaite,Temps écoulé,577,422,bullet,Reti Opening Sicilian Invitation,2025,11,Tuesday,14,155,Reti Opening
+2025-11-25 14:43:55,Noirs,Victoire,Temps écoulé,577,109,bullet,Mieses Opening 1...d5,2025,11,Tuesday,14,468,Mieses Opening
+2025-11-25 15:52:09,Noirs,Nulle,Répétition,698,911,blitz,Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7,2025,11,Tuesday,15,-213,Sicilian Defense
+2025-11-25 16:09:52,Blancs,Défaite,Abandon,688,608,blitz,Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5,2025,11,Tuesday,16,80,Caro Kann
+2025-11-25 16:22:15,Blancs,Défaite,Abandon,679,657,blitz,Caro Kann Defense 2.f4 d5,2025,11,Tuesday,16,22,Caro Kann
+2025-11-25 16:27:24,Noirs,Victoire,Échec et mat,682,431,blitz,Reti Opening 1...d5,2025,11,Tuesday,16,251,Reti Opening
+2025-11-25 16:34:17,Blancs,Défaite,Abandon,672,622,blitz,Ruy Lopez Opening Berlin Improved Steinitz Defense,2025,11,Tuesday,16,50,Ruy Lopez
+2025-11-26 11:54:11,Blancs,Victoire,Abandon,680,661,blitz,Sicilian Defense French Variation 3.d3 Nc6 4.c3 d5,2025,11,Wednesday,11,19,Sicilian Defense
+2025-11-26 11:57:48,Noirs,Victoire,Échec et mat,688,681,blitz,Sicilian Defense,2025,11,Wednesday,11,7,Sicilian Defense
+2025-11-27 11:35:51,Noirs,Défaite,Abandon,895,1442,rapid,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,11,Thursday,11,-547,Sicilian Defense
+2025-11-27 14:55:50,Blancs,Victoire,Échec et mat,903,890,rapid,Scandinavian Defense,2025,11,Thursday,14,13,Scandinavian Defense
+2025-11-27 15:00:21,Blancs,Défaite,Abandon,896,963,rapid,Alapin Sicilian Defense 2...Nc6 3.Nf3,2025,11,Thursday,15,-67,Alapin Sicilian
+2025-11-27 15:03:30,Noirs,Victoire,Échec et mat,904,893,rapid,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4,2025,11,Thursday,15,11,Queens Pawn
+2025-11-27 15:42:28,Blancs,Victoire,Échec et mat,690,263,blitz,Scandinavian Defense,2025,11,Thursday,15,427,Scandinavian Defense
+2025-11-27 15:47:32,Blancs,Victoire,Abandon,699,743,blitz,Ruy Lopez Opening Morphy Defense Anderssen Variation 5...b5 6.Bb3,2025,11,Thursday,15,-44,Ruy Lopez
+2025-11-27 15:55:36,Noirs,Victoire,Abandon,705,620,blitz,Sicilian Defense Staunton Cochrane Variation...3.Nc3 g6 4.d3 Bg7,2025,11,Thursday,15,85,Sicilian Defense
+2025-11-27 16:05:48,Blancs,Victoire,Temps écoulé,710,507,blitz,Reti Opening Kingside Fianchetto Variation 2.e4 Bg7,2025,11,Thursday,16,203,Reti Opening
+2025-11-27 21:56:22,Noirs,Défaite,Échec et mat,702,732,blitz,Queens Pawn Opening Zukertort Variation 2...c6 3.e3,2025,11,Thursday,21,-30,Queens Pawn
+2025-11-27 22:03:30,Noirs,Défaite,Abandon,695,759,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,11,Thursday,22,-64,Sicilian Defense
+2025-11-27 22:12:12,Blancs,Victoire,Abandon,706,820,blitz,Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O,2025,11,Thursday,22,-114,Ruy Lopez
+2025-11-28 15:48:32,Noirs,Victoire,Abandon,710,506,blitz,Queens Pawn Opening Accelerated London System...3.e3 c6 4.c4 e6,2025,11,Friday,15,204,Queens Pawn
+2025-11-28 15:50:13,Blancs,Défaite,Abandon,702,727,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,11,Friday,15,-25,Sicilian Defense
+2025-11-29 01:21:00,Noirs,Défaite,Abandon,695,760,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,11,Saturday,1,-65,Sicilian Defense
+2025-11-29 01:23:04,Noirs,Défaite,Abandon,688,752,blitz,Nimzowitsch Larsen Attack Modern Variation...3.e3 d5 4.Bb5 Bd6 5.Nf3,2025,11,Saturday,1,-64,Nimzowitsch Larsen
+2025-11-29 01:29:43,Blancs,Défaite,Échec et mat,687,1089,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2025,11,Saturday,1,-402,Ruy Lopez
+2025-11-29 01:59:43,Blancs,Victoire,Temps écoulé,695,663,blitz,Pirc Defense Modern Defense Geller System 2...g6,2025,11,Saturday,1,32,Pirc Defense
+2025-11-29 19:36:12,Blancs,Victoire,Abandon,703,677,blitz,Petrovs Defense,2025,11,Saturday,19,26,Petrovs Defense
+2025-11-30 11:08:13,Noirs,Victoire,Échec et mat,711,676,blitz,Queens Pawn Opening Zukertort Variation 2...c6 3.c3,2025,11,Sunday,11,35,Queens Pawn
+2025-12-01 13:47:23,Noirs,Défaite,Abandon,702,696,blitz,Closed Sicilian Defense Traditional Line 3.Nf3,2025,12,Monday,13,6,Closed Sicilian
+2025-12-01 13:51:59,Blancs,Victoire,Abandon,711,735,blitz,French Defense Knight Variation,2025,12,Monday,13,-24,French Defense
+2025-12-01 13:58:55,Noirs,Défaite,Abandon,702,665,blitz,Sicilian Defense,2025,12,Monday,13,37,Sicilian Defense
+2025-12-02 17:06:17,Blancs,Victoire,Abandon,714,859,blitz,Ruy Lopez Opening,2025,12,Tuesday,17,-145,Ruy Lopez
+2025-12-02 17:06:48,Noirs,Victoire,Partie abandonnée,717,466,blitz,Undefined,2025,12,Tuesday,17,251,Undefined
+2025-12-02 17:12:15,Blancs,Défaite,Temps écoulé,715,1097,blitz,Four Knights Game Double Spanish Variation 5.O O O O,2025,12,Tuesday,17,-382,Four Knights
+2025-12-03 09:39:28,Noirs,Défaite,Abandon,714,1282,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,12,Wednesday,9,-568,Sicilian Defense
+2025-12-03 09:51:29,Blancs,Défaite,Abandon,709,835,blitz,Alapin Sicilian Defense...3.Nf3 Nc6 4.d4 cxd4 5.cxd4,2025,12,Wednesday,9,-126,Alapin Sicilian
+2025-12-03 10:14:09,Noirs,Victoire,Abandon,717,716,blitz,Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5,2025,12,Wednesday,10,1,Pirc Defense
+2025-12-03 11:19:12,Blancs,Défaite,Abandon,709,714,blitz,Queens Pawn Opening 1...d5 2.e3,2025,12,Wednesday,11,-5,Queens Pawn
+2025-12-03 11:23:36,Blancs,Victoire,Échec et mat,717,721,blitz,Reti Opening Kingside Fianchetto Variation 2.e4,2025,12,Wednesday,11,-4,Reti Opening
+2025-12-03 11:33:15,Noirs,Victoire,Échec et mat,725,695,blitz,English Opening Kings English Variation...3.Bg2 Bc5 4.Nc3 O O 5.e3,2025,12,Wednesday,11,30,English Opening
+2025-12-03 12:19:30,Noirs,Défaite,Échec et mat,718,757,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6 4.O O,2025,12,Wednesday,12,-39,Sicilian Defense
+2025-12-03 20:39:45,Blancs,Défaite,Abandon,710,713,blitz,Ruy Lopez Opening Cozio Defense 4.O O g6,2025,12,Wednesday,20,-3,Ruy Lopez
+2025-12-03 20:45:43,Blancs,Défaite,Abandon,702,723,blitz,Scandinavian Defense,2025,12,Wednesday,20,-21,Scandinavian Defense
+2025-12-03 20:52:57,Noirs,Défaite,Abandon,695,735,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation 5.Bc4 Bg7,2025,12,Wednesday,20,-40,Sicilian Defense
+2025-12-03 20:58:19,Noirs,Victoire,Échec et mat,702,663,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6,2025,12,Wednesday,20,39,Sicilian Defense
+2025-12-04 14:02:05,Blancs,Victoire,Échec et mat,712,693,blitz,Vienna Game Anderssen Defense 3.Nf3 d6,2025,12,Thursday,14,19,Vienna Game
+2025-12-04 14:04:44,Noirs,Victoire,Échec et mat,726,892,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Thursday,14,-166,Sicilian Defense
+2025-12-04 14:07:49,Noirs,Défaite,Échec et mat,725,1177,blitz,Colle System 3...c6 4.Bd3 Bg4 5.Nbd2,2025,12,Thursday,14,-452,Colle System
+2025-12-04 14:13:23,Blancs,Défaite,Temps écoulé,725,1417,blitz,Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O Be7,2025,12,Thursday,14,-692,Ruy Lopez
+2025-12-04 20:31:00,Blancs,Victoire,Temps écoulé,727,128,blitz,Philidor Defense 3.Nc3,2025,12,Thursday,20,599,Philidor Defense
+2025-12-04 20:32:11,Blancs,Défaite,Abandon,726,1144,blitz,Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.d3,2025,12,Thursday,20,-418,Ruy Lopez
+2025-12-04 20:38:12,Noirs,Défaite,Abandon,726,1633,blitz,Queens Pawn Opening Accelerated London System,2025,12,Thursday,20,-907,Queens Pawn
+2025-12-04 20:45:55,Noirs,Défaite,Abandon,716,664,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.Nc3,2025,12,Thursday,20,52,Sicilian Defense
+2025-12-05 11:58:42,Noirs,Défaite,Abandon,709,873,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Friday,11,-164,Sicilian Defense
+2025-12-05 12:07:42,Blancs,Défaite,Abandon,702,765,blitz,Englund Gambit 2.dxe5 Nc6,2025,12,Friday,12,-63,Englund Gambit
+2025-12-05 12:18:13,Noirs,Victoire,Temps écoulé,710,683,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2025,12,Friday,12,27,Queens Pawn
+2025-12-05 13:49:47,Blancs,Défaite,Abandon,709,1112,blitz,Kings Fianchetto Opening...3.d3 c6 4.Nf3 Bd6 5.O O,2025,12,Friday,13,-403,Kings Fianchetto
+2025-12-07 09:53:55,Noirs,Défaite,Abandon,701,698,blitz,Closed Sicilian Defense Grand Prix Attack...4.Nf3 Bg7 5.Bc4 d6 6.d3,2025,12,Sunday,9,3,Closed Sicilian
+2025-12-07 10:35:04,Blancs,Défaite,Abandon,693,694,blitz,Philidor Defense 3.Nc3,2025,12,Sunday,10,-1,Philidor Defense
+2025-12-07 10:36:00,Blancs,Défaite,Abandon,685,708,blitz,Englund Gambit 2.dxe5,2025,12,Sunday,10,-23,Englund Gambit
+2025-12-07 11:57:04,Blancs,Victoire,Échec et mat,693,675,blitz,Queens Gambit Accepted Old Variation,2025,12,Sunday,11,18,Queens Gambit
+2025-12-07 22:44:56,Blancs,Victoire,Partie abandonnée,701,704,blitz,Queens Gambit Accepted Old Variation,2025,12,Sunday,22,-3,Queens Gambit
+2025-12-07 22:53:19,Noirs,Victoire,Temps écoulé,709,684,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bb5 Bg7 5.Bxc6,2025,12,Sunday,22,25,Closed Sicilian
+2025-12-07 23:33:37,Blancs,Victoire,Échec et mat,717,704,blitz,Queens Gambit Declined Modern Knight Defense 5.e3,2025,12,Sunday,23,13,Queens Gambit
+2025-12-07 23:42:42,Noirs,Victoire,Temps écoulé,725,709,blitz,Queens Pawn Opening Zukertort Chigorin Variation,2025,12,Sunday,23,16,Queens Pawn
+2025-12-07 23:50:34,Noirs,Défaite,Abandon,717,747,blitz,Sicilian Defense Open 3...cxd4,2025,12,Sunday,23,-30,Sicilian Defense
+2025-12-08 15:40:02,Noirs,Nulle,Matériel insuffisant,716,696,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation,2025,12,Monday,15,20,Sicilian Defense
+2025-12-08 23:37:44,Blancs,Victoire,Échec et mat,725,732,blitz,Queens Gambit Accepted Old Variation,2025,12,Monday,23,-7,Queens Gambit
+2025-12-08 23:44:06,Blancs,Défaite,Abandon,717,723,blitz,Pirc Defense Czech Defense 4.f4,2025,12,Monday,23,-6,Pirc Defense
+2025-12-08 23:55:34,Blancs,Victoire,Échec et mat,725,722,blitz,Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O,2025,12,Monday,23,3,Ruy Lopez
+2025-12-09 00:01:49,Noirs,Victoire,Abandon,733,702,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,12,Tuesday,0,31,Sicilian Defense
+2025-12-09 15:46:41,Noirs,Victoire,Abandon,741,704,blitz,Sicilian Defense Open...4.Nxd4 d6 5.Nc3 g6,2025,12,Tuesday,15,37,Sicilian Defense
+2025-12-09 15:53:55,Blancs,Défaite,Abandon,734,772,blitz,Queens Gambit Declined Austrian Variation 3.cxd5,2025,12,Tuesday,15,-38,Queens Gambit
+2025-12-09 16:35:10,Blancs,Défaite,Abandon,725,721,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O,2025,12,Tuesday,16,4,Ruy Lopez
+2025-12-10 10:53:58,Noirs,Victoire,Temps écoulé,732,695,blitz,English Opening Reversed Sicilian Taimanov Variation,2025,12,Wednesday,10,37,English Opening
+2025-12-10 11:19:24,Blancs,Défaite,Abandon,724,734,blitz,Ruy Lopez Opening,2025,12,Wednesday,11,-10,Ruy Lopez
+2025-12-10 17:03:03,Noirs,Victoire,Abandon,732,699,blitz,Queens Pawn Opening Chigorin Variation 2...Nf6 3.Nf3,2025,12,Wednesday,17,33,Queens Pawn
+2025-12-10 17:07:29,Blancs,Défaite,Abandon,724,736,blitz,Scandinavian Defense,2025,12,Wednesday,17,-12,Scandinavian Defense
+2025-12-10 18:09:29,Blancs,Défaite,Échec et mat,722,1068,blitz,Vienna Game Anderssen Defense 3.Nf3 d6 4.d4 exd4 5.Nxd4,2025,12,Wednesday,18,-346,Vienna Game
+2025-12-10 18:19:37,Blancs,Défaite,Abandon,716,830,blitz,Owens Defense 2.d4 Bb7 3.Nc3,2025,12,Wednesday,18,-114,Owens Defense
+2025-12-11 00:15:05,Noirs,Victoire,Temps écoulé,724,718,blitz,Sicilian Defense,2025,12,Thursday,0,6,Sicilian Defense
+2025-12-11 00:24:30,Noirs,Défaite,Échec et mat,715,701,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4,2025,12,Thursday,0,14,Sicilian Defense
+2025-12-11 11:34:31,Blancs,Victoire,Échec et mat,723,720,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2025,12,Thursday,11,3,Ruy Lopez
+2025-12-11 11:42:52,Noirs,Défaite,Abandon,715,744,blitz,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4,2025,12,Thursday,11,-29,Queens Pawn
+2025-12-11 12:24:12,Noirs,Victoire,Échec et mat,715,100,blitz,Queens Pawn Opening Chigorin Variation 2...Nf6,2025,12,Thursday,12,615,Queens Pawn
+2025-12-11 17:32:53,Noirs,Défaite,Abandon,707,731,blitz,Sicilian Defense Mengarini Variation 2...Nc6,2025,12,Thursday,17,-24,Sicilian Defense
+2025-12-11 19:01:57,Noirs,Victoire,Partie abandonnée,715,681,blitz,Sicilian Defense 2.d3 Nc6,2025,12,Thursday,19,34,Sicilian Defense
+2025-12-11 19:09:51,Blancs,Victoire,Partie abandonnée,723,711,blitz,Four Knights Game Spanish Variation 4...d6,2025,12,Thursday,19,12,Four Knights
+2025-12-12 11:57:06,Blancs,Défaite,Partie abandonnée,715,715,blitz,French Defense Knight Variation,2025,12,Friday,11,0,French Defense
+2025-12-12 12:00:26,Noirs,Victoire,Échec et mat,723,696,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Friday,12,27,Sicilian Defense
+2025-12-12 12:06:42,Blancs,Victoire,Échec et mat,731,722,blitz,French Defense Knight Variation 2...d5,2025,12,Friday,12,9,French Defense
+2025-12-12 12:09:36,Blancs,Victoire,Abandon,739,706,blitz,Kings Pawn Opening St George Defense,2025,12,Friday,12,33,Kings Pawn
+2025-12-12 12:14:40,Noirs,Victoire,Échec et mat,743,540,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6 4.c3,2025,12,Friday,12,203,Sicilian Defense
+2025-12-12 12:19:43,Blancs,Défaite,Échec et mat,735,759,blitz,Sicilian Defense Delayed Alapin Variation,2025,12,Friday,12,-24,Sicilian Defense
+2025-12-12 12:27:24,Noirs,Victoire,Temps écoulé,740,578,blitz,Grob Opening 1...d5,2025,12,Friday,12,162,Grob Opening
+2025-12-12 12:30:03,Noirs,Défaite,Abandon,731,724,blitz,Closed Sicilian Defense Grand Prix Attack...4.Nf3 Bg7 5.d3 d6,2025,12,Friday,12,7,Closed Sicilian
+2025-12-12 13:54:03,Blancs,Victoire,Abandon,739,729,blitz,Philidor Defense 3.Nc3,2025,12,Friday,13,10,Philidor Defense
+2025-12-13 14:20:30,Blancs,Victoire,Échec et mat,747,712,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2025,12,Saturday,14,35,Ruy Lopez
+2025-12-13 14:33:38,Noirs,Victoire,Échec et mat,755,745,blitz,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3,2025,12,Saturday,14,10,Queens Pawn
+2025-12-13 19:42:31,Noirs,Victoire,Échec et mat,763,752,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Saturday,19,11,Sicilian Defense
+2025-12-13 22:15:48,Blancs,Victoire,Abandon,771,768,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2025,12,Saturday,22,3,Ruy Lopez
+2025-12-14 11:53:32,Noirs,Défaite,Abandon,763,776,blitz,Sicilian Defense Open Accelerated Dragon Exchange Variation 5...bxc6,2025,12,Sunday,11,-13,Sicilian Defense
+2025-12-14 12:23:16,Blancs,Défaite,Échec et mat,754,749,blitz,Petrovs Defense Three Knights Game,2025,12,Sunday,12,5,Petrovs Defense
+2025-12-14 12:33:55,Noirs,Défaite,Abandon,746,768,blitz,Queens Pawn Opening 1...d5 2.e3 Nf6,2025,12,Sunday,12,-22,Queens Pawn
+2025-12-15 10:09:56,Blancs,Défaite,Échec et mat,738,770,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2025,12,Monday,10,-32,Ruy Lopez
+2025-12-15 10:16:19,Noirs,Victoire,Abandon,746,724,blitz,Closed Sicilian Defense Traditional Line...4.Bc4 Bg7 5.O O d6,2025,12,Monday,10,22,Closed Sicilian
+2025-12-15 17:30:15,Blancs,Défaite,Échec et mat,738,762,blitz,Caro Kann Defense 2.Nf3 d5 3.d3,2025,12,Monday,17,-24,Caro Kann
+2025-12-15 17:40:10,Noirs,Victoire,Abandon,746,713,blitz,Closed Sicilian Defense 2...g6,2025,12,Monday,17,33,Closed Sicilian
+2025-12-15 17:58:29,Blancs,Défaite,Abandon,738,764,blitz,Queens Gambit Accepted Old Variation,2025,12,Monday,17,-26,Queens Gambit
+2025-12-16 12:25:48,Blancs,Défaite,Temps écoulé,730,736,blitz,Scandinavian Defense Closed 2...dxe4 3.Nxe4,2025,12,Tuesday,12,-6,Scandinavian Defense
+2025-12-16 12:32:05,Noirs,Victoire,Abandon,738,727,blitz,Sicilian Defense Bowdler Attack,2025,12,Tuesday,12,11,Sicilian Defense
+2025-12-16 13:02:34,Blancs,Défaite,Échec et mat,730,749,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2025,12,Tuesday,13,-19,Ruy Lopez
+2025-12-16 17:24:22,Noirs,Victoire,Abandon,738,719,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4,2025,12,Tuesday,17,19,Closed Sicilian
+2025-12-16 17:29:34,Noirs,Défaite,Abandon,730,746,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2025,12,Tuesday,17,-16,Sicilian Defense
+2025-12-16 17:37:54,Noirs,Défaite,Abandon,722,754,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,12,Tuesday,17,-32,Sicilian Defense
+2025-12-16 17:43:21,Blancs,Victoire,Échec et mat,730,709,blitz,Queens Pawn Opening English Rat Defense 3.d5,2025,12,Tuesday,17,21,Queens Pawn
+2025-12-16 21:16:09,Blancs,Victoire,Partie abandonnée,738,697,blitz,Alekhines Defense Scandinavian Variation 3.exd5 Nxd5 4.Nxd5 Qxd5 5.Nf3,2025,12,Tuesday,21,41,Alekhines Defense
+2025-12-16 21:19:33,Noirs,Victoire,Abandon,746,726,blitz,Closed Sicilian Defense Traditional Line,2025,12,Tuesday,21,20,Closed Sicilian
+2025-12-16 21:29:40,Blancs,Victoire,Échec et mat,754,738,blitz,Queens Gambit Declined Chigorin Defense...4.Nc3 Nf6 5.Bg5 Be7 6.e3,2025,12,Tuesday,21,16,Queens Gambit
+2025-12-16 23:07:16,Blancs,Défaite,Abandon,746,775,blitz,Queens Pawn Opening English Defense 3.Nc3 Bb7 4.e4,2025,12,Tuesday,23,-29,Queens Pawn
+2025-12-17 09:51:19,Noirs,Nulle,Répétition,746,758,blitz,Closed Sicilian Defense Traditional Line 3.Bc4,2025,12,Wednesday,9,-12,Closed Sicilian
+2025-12-17 09:56:02,Noirs,Victoire,Échec et mat,754,743,blitz,Queens Pawn Opening Krause Variation 3.c4 cxd4,2025,12,Wednesday,9,11,Queens Pawn
+2025-12-17 10:01:35,Blancs,Victoire,Temps écoulé,762,735,blitz,Scandinavian Defense,2025,12,Wednesday,10,27,Scandinavian Defense
+2025-12-17 10:20:35,Noirs,Défaite,Temps écoulé,754,751,blitz,Sicilian Defense,2025,12,Wednesday,10,3,Sicilian Defense
+2025-12-17 12:41:00,Noirs,Défaite,Abandon,746,768,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6 4.O O,2025,12,Wednesday,12,-22,Sicilian Defense
+2025-12-17 12:45:08,Noirs,Défaite,Échec et mat,738,771,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2025,12,Wednesday,12,-33,Queens Pawn
+2025-12-17 12:50:26,Blancs,Victoire,Partie abandonnée,746,731,blitz,Nimzowitsch Defense Declined,2025,12,Wednesday,12,15,Nimzowitsch Defense
+2025-12-17 13:27:50,Blancs,Victoire,Abandon,753,716,blitz,Kings Indian Defense Smyslov Variation 4...d6 5.e3,2025,12,Wednesday,13,37,Kings Indian
+2025-12-17 13:35:29,Noirs,Victoire,Échec et mat,761,738,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation 5.Bc4 Bg7,2025,12,Wednesday,13,23,Sicilian Defense
+2025-12-17 13:41:43,Noirs,Victoire,Abandon,769,761,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2025,12,Wednesday,13,8,Queens Pawn
+2025-12-17 18:35:49,Blancs,Victoire,Échec et mat,777,759,blitz,Scandinavian Defense,2025,12,Wednesday,18,18,Scandinavian Defense
+2025-12-17 18:38:02,Noirs,Défaite,Abandon,769,778,blitz,Closed Sicilian Defense Traditional Line...4.Bc4 Bg7 5.O O d6,2025,12,Wednesday,18,-9,Closed Sicilian
+2025-12-17 22:35:29,Blancs,Défaite,Abandon,761,762,blitz,Queens Pawn Opening Mikenas Defense 2.c4 e5,2025,12,Wednesday,22,-1,Queens Pawn
+2025-12-17 22:39:34,Blancs,Défaite,Abandon,753,748,blitz,Ruy Lopez Opening Morphy Defense Columbus Variation...6.Bb3 Bc5 7.d3 O O,2025,12,Wednesday,22,5,Ruy Lopez
+2025-12-18 00:41:28,Noirs,Défaite,Abandon,745,761,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation 5.Bc4 Bg7,2025,12,Thursday,0,-16,Sicilian Defense
+2025-12-18 00:47:34,Noirs,Victoire,Échec et mat,752,705,blitz,Queens Pawn Opening Krause Variation,2025,12,Thursday,0,47,Queens Pawn
+2025-12-18 11:19:07,Noirs,Défaite,Abandon,744,759,blitz,Queens Gambit Declined Albin Countergambit,2025,12,Thursday,11,-15,Queens Gambit
+2025-12-18 14:58:16,Blancs,Victoire,Temps écoulé,752,732,blitz,Ruy Lopez Opening Classical Defense 4.O O Qf6,2025,12,Thursday,14,20,Ruy Lopez
+2025-12-18 15:03:53,Noirs,Défaite,Abandon,744,742,blitz,Van t Kruijs Opening 1...c5,2025,12,Thursday,15,2,Van t
+2025-12-18 22:58:19,Blancs,Victoire,Abandon,752,723,blitz,Queens Gambit Declined Austrian Variation 3.cxd5 Qxd5,2025,12,Thursday,22,29,Queens Gambit
+2025-12-19 00:16:47,Blancs,Victoire,Abandon,760,738,blitz,Queens Gambit Accepted Old Variation,2025,12,Friday,0,22,Queens Gambit
+2025-12-19 00:22:38,Noirs,Victoire,Échec et mat,768,770,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Fianchetto Variation...6.c3 O O 7.d4 cxd4 8.cxd4,2025,12,Friday,0,-2,Sicilian Defense
+2025-12-19 00:26:53,Blancs,Défaite,Abandon,760,770,blitz,English Opening 1...d6 2.d4,2025,12,Friday,0,-10,English Opening
+2025-12-19 00:28:03,Noirs,Défaite,Abandon,752,783,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Friday,0,-31,Sicilian Defense
+2025-12-19 00:35:17,Noirs,Victoire,Échec et mat,760,746,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2025,12,Friday,0,14,Sicilian Defense
+2025-12-19 00:49:23,Blancs,Victoire,Échec et mat,768,742,blitz,Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4,2025,12,Friday,0,26,Queens Gambit
+2025-12-19 00:56:16,Blancs,Défaite,Abandon,760,784,blitz,Queens Gambit Declined Marshall Defense 3.cxd5 Qxd5 4.Nc3,2025,12,Friday,0,-24,Queens Gambit
+2025-12-19 09:41:30,Blancs,Défaite,Abandon,752,780,blitz,Queens Gambit Accepted Old Variation 3...e6 4.Bxc4,2025,12,Friday,9,-28,Queens Gambit
+2025-12-20 01:01:49,Noirs,Défaite,Temps écoulé,744,744,blitz,London System...5.Nbd2 Bg4 6.c3 e6,2025,12,Saturday,1,0,London System...5.Nbd2
+2025-12-22 09:50:23,Noirs,Victoire,Échec et mat,751,713,blitz,Sicilian Defense,2025,12,Monday,9,38,Sicilian Defense
+2025-12-22 11:52:26,Blancs,Défaite,Abandon,742,736,blitz,Queens Pawn Opening Horwitz Defense 2.c4,2025,12,Monday,11,6,Queens Pawn
+2025-12-22 11:55:29,Blancs,Défaite,Partie abandonnée,733,729,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2025,12,Monday,11,4,Ruy Lopez
+2025-12-22 12:02:16,Blancs,Victoire,Partie abandonnée,741,728,blitz,Four Knights Game Spanish Variation Classical Variation 5.O O O O,2025,12,Monday,12,13,Four Knights
+2025-12-22 12:26:58,Noirs,Défaite,Abandon,734,772,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2025,12,Monday,12,-38,Queens Pawn
+2025-12-22 14:35:20,Noirs,Victoire,Échec et mat,904,957,rapid,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Monday,14,-53,Sicilian Defense
+2025-12-22 16:32:29,Blancs,Défaite,Abandon,565,575,bullet,Four Knights Game Spanish Variation Rubinstein Accepted Exchange Variation,2025,12,Monday,16,-10,Four Knights
+2025-12-22 16:42:27,Noirs,Défaite,Échec et mat,904,957,rapid,Sicilian Defense Delayed Alapin Variation...5.d3 g6 6.O O Bg7,2025,12,Monday,16,-53,Sicilian Defense
+2025-12-22 16:57:25,Blancs,Victoire,Abandon,904,957,rapid,Reti Opening Queenside Fianchetto Variation 2.e4 Bb7 3.Nc3,2025,12,Monday,16,-53,Reti Opening
+2025-12-23 09:14:14,Noirs,Défaite,Abandon,726,759,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Attack...4.Nc3 g6 5.O O Bg7,2025,12,Tuesday,9,-33,Sicilian Defense
+2025-12-23 10:20:55,Noirs,Victoire,Échec et mat,734,703,blitz,Old Benoni Defense 2.dxc5,2025,12,Tuesday,10,31,Old Benoni
+2025-12-23 10:26:44,Blancs,Défaite,Partie abandonnée,727,797,blitz,Kings Pawn Opening Kings Knight Variation,2025,12,Tuesday,10,-70,Kings Pawn
+2025-12-23 18:10:23,Noirs,Défaite,Échec et mat,719,748,blitz,Van t Kruijs Opening 1...d5,2025,12,Tuesday,18,-29,Van t
+2025-12-23 18:19:18,Blancs,Victoire,Temps écoulé,727,719,blitz,Caro Kann Defense Advance Botvinnik Carls Defense 4.c3 Nc6 5.Nf3 Bg4,2025,12,Tuesday,18,8,Caro Kann
+2025-12-23 18:28:21,Noirs,Défaite,Temps écoulé,719,747,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6,2025,12,Tuesday,18,-28,Closed Sicilian
+2025-12-24 10:11:01,Noirs,Nulle,Répétition,719,729,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2025,12,Wednesday,10,-10,Sicilian Defense
+2025-12-24 10:16:49,Blancs,Défaite,Échec et mat,711,730,blitz,Scandinavian Defense,2025,12,Wednesday,10,-19,Scandinavian Defense
+2025-12-24 11:49:26,Blancs,Défaite,Abandon,703,706,blitz,Old Indian Defense Czech Variation,2025,12,Wednesday,11,-3,Old Indian
+2025-12-24 11:51:11,Noirs,Victoire,Abandon,711,707,blitz,Sicilian Defense Open 3...cxd4,2025,12,Wednesday,11,4,Sicilian Defense
+2025-12-24 22:33:34,Noirs,Victoire,Abandon,719,705,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4,2025,12,Wednesday,22,14,Closed Sicilian
+2025-12-24 22:38:37,Blancs,Défaite,Échec et mat,711,745,blitz,Center Game Accepted Normal Variation,2025,12,Wednesday,22,-34,Center Game
+2025-12-26 00:22:22,Blancs,Défaite,Échec et mat,703,735,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2025,12,Friday,0,-32,Ruy Lopez
+2025-12-26 21:57:55,Noirs,Victoire,Échec et mat,711,693,blitz,Sicilian Defense Canal Attack 3...Nc6 4.O O e5 5.c3,2025,12,Friday,21,18,Sicilian Defense
+2025-12-27 16:09:52,Noirs,Victoire,Abandon,719,708,blitz,English Opening Two Knights Variation 3.d3,2025,12,Saturday,16,11,English Opening
+2025-12-27 16:13:12,Blancs,Défaite,Abandon,711,759,blitz,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.d4,2025,12,Saturday,16,-48,Scandinavian Defense
+2025-12-27 16:39:08,Blancs,Défaite,Échec et mat,703,726,blitz,Four Knights Game Spanish Variation 4...d6,2025,12,Saturday,16,-23,Four Knights
+2025-12-27 16:44:02,Noirs,Défaite,Échec et mat,695,714,blitz,French Defense Exchange Monte Carlo Variation,2025,12,Saturday,16,-19,French Defense
+2025-12-27 19:09:53,Blancs,Défaite,Abandon,688,725,blitz,Nimzowitsch Defense Declined,2025,12,Saturday,19,-37,Nimzowitsch Defense
+2025-12-27 20:26:35,Noirs,Victoire,Échec et mat,696,693,blitz,Queens Gambit Declined Albin Countergambit 3.dxe5 d4 4.Nf3 Nc6,2025,12,Saturday,20,3,Queens Gambit
+2025-12-28 14:52:26,Blancs,Défaite,Abandon,688,694,blitz,Queens Gambit Accepted Old Variation,2025,12,Sunday,14,-6,Queens Gambit
+2025-12-28 14:57:50,Noirs,Victoire,Échec et mat,696,671,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation 5.Bc4 Bg7,2025,12,Sunday,14,25,Sicilian Defense
+2025-12-28 15:06:50,Blancs,Défaite,Abandon,688,713,blitz,Ruy Lopez Opening Morphy Defense Columbus Variation...5.O O b5 6.Bb3 Bc5 7.Nc3,2025,12,Sunday,15,-25,Ruy Lopez
+2025-12-28 15:13:40,Noirs,Défaite,Abandon,680,695,blitz,Queens Gambit Declined Albin Countergambit 3.dxe5 d4 4.Nf3 Nc6,2025,12,Sunday,15,-15,Queens Gambit
+2025-12-28 15:19:43,Blancs,Défaite,Temps écoulé,672,693,blitz,Four Knights Game Spanish Variation Classical Variation 5.O O,2025,12,Sunday,15,-21,Four Knights
+2025-12-28 16:42:25,Noirs,Défaite,Partie abandonnée,665,702,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4,2025,12,Sunday,16,-37,Closed Sicilian
+2025-12-28 19:33:22,Noirs,Défaite,Échec et mat,657,689,blitz,Queens Gambit Declined Chigorin Defense 3.e3 e5 4.cxd5,2025,12,Sunday,19,-32,Queens Gambit
+2025-12-29 00:31:38,Blancs,Victoire,Abandon,665,644,blitz,Sicilian Defense...5.O O Bg7 6.c3 Nf6,2025,12,Monday,0,21,Sicilian Defense...5.O
+2025-12-29 00:40:12,Noirs,Victoire,Échec et mat,673,668,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4,2025,12,Monday,0,5,Closed Sicilian
+2025-12-29 13:30:15,Blancs,Défaite,Abandon,664,660,blitz,Pirc Defense Classical Variation 4...Bg7,2025,12,Monday,13,4,Pirc Defense
+2025-12-29 13:35:15,Noirs,Victoire,Échec et mat,672,668,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4 Bg7,2025,12,Monday,13,4,Closed Sicilian
+2025-12-29 13:41:31,Blancs,Défaite,Temps écoulé,664,699,blitz,Slav Defense,2025,12,Monday,13,-35,Slav Defense
+2025-12-29 15:28:43,Blancs,Nulle,Matériel insuffisant,664,665,blitz,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,2025,12,Monday,15,-1,Queens Gambit
+2025-12-30 00:46:48,Noirs,Victoire,Temps écoulé,672,635,blitz,Sicilian Defense,2025,12,Tuesday,0,37,Sicilian Defense
+2025-12-30 00:56:02,Blancs,Victoire,Abandon,681,687,blitz,Ruy Lopez Opening Classical Defense 4.O O,2025,12,Tuesday,0,-6,Ruy Lopez
+2025-12-30 15:33:10,Noirs,Victoire,Temps écoulé,689,670,blitz,Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bg4 4.Nbd2 e6,2025,12,Tuesday,15,19,Queens Pawn
+2025-12-30 20:35:09,Noirs,Victoire,Abandon,696,657,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6,2025,12,Tuesday,20,39,Sicilian Defense
+2025-12-30 20:43:54,Blancs,Victoire,Abandon,704,704,blitz,Ruy Lopez Opening Spanish Countergambit,2025,12,Tuesday,20,0,Ruy Lopez
+2025-12-30 22:42:16,Blancs,Défaite,Échec et mat,696,706,blitz,Modern Defense with 1 d4 2.c4 Bg7 3.e4,2025,12,Tuesday,22,-10,Modern Defense
+2025-12-30 22:51:45,Noirs,Défaite,Abandon,689,727,blitz,Sicilian Defense Nyezhmetdinov Rossolimo Fianchetto Variation 4.O O Bg7,2025,12,Tuesday,22,-38,Sicilian Defense
+2025-12-31 11:01:51,Noirs,Victoire,Temps écoulé,697,687,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2025,12,Wednesday,11,10,Sicilian Defense
+2025-12-31 16:25:43,Blancs,Défaite,Temps écoulé,689,689,blitz,Scandinavian Defense Mieses Kotrc Main Line 4.Nf3,2025,12,Wednesday,16,0,Scandinavian Defense
+2025-12-31 21:52:00,Blancs,Défaite,Abandon,681,691,blitz,Queens Pawn Opening Mikenas Defense 2.c4 e5 3.d5,2025,12,Wednesday,21,-10,Queens Pawn
+2026-01-01 13:14:54,Noirs,Défaite,Abandon,673,689,blitz,Closed Sicilian Defense Traditional Line 3.Bc4,2026,1,Thursday,13,-16,Closed Sicilian
+2026-01-02 16:02:01,Noirs,Victoire,Abandon,681,645,blitz,Sicilian Defense Open Classical Sozin Attack,2026,1,Friday,16,36,Sicilian Defense
+2026-01-02 16:09:37,Blancs,Défaite,Abandon,673,675,blitz,Slav Defense,2026,1,Friday,16,-2,Slav Defense
+2026-01-02 16:18:43,Blancs,Victoire,Abandon,681,669,blitz,Ruy Lopez Opening Morphy Defense Tarrasch Variation 5...b5 6.Bb3,2026,1,Friday,16,12,Ruy Lopez
+2026-01-02 22:38:19,Noirs,Défaite,Temps écoulé,674,712,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2026,1,Friday,22,-38,Alapin Sicilian
+2026-01-02 22:45:20,Noirs,Victoire,Abandon,682,657,blitz,Clemenz Opening,2026,1,Friday,22,25,Clemenz Opening
+2026-01-03 12:49:20,Noirs,Défaite,Échec et mat,674,686,blitz,Kings Fianchetto Opening 1...e5 2.Bg2 d5,2026,1,Saturday,12,-12,Kings Fianchetto
+2026-01-04 13:03:36,Blancs,Victoire,Partie abandonnée,682,662,blitz,Reti Opening Kingside Fianchetto Variation 2.e4 Bg7,2026,1,Sunday,13,20,Reti Opening
+2026-01-04 23:32:15,Blancs,Victoire,Abandon,690,670,blitz,Queens Gambit Declined Modern Variation...6.Nf3 Ne4 7.Bxe7 Qxe7,2026,1,Sunday,23,20,Queens Gambit
+2026-01-04 23:36:22,Noirs,Défaite,Abandon,682,714,blitz,Sicilian Defense Open 3...cxd4,2026,1,Sunday,23,-32,Sicilian Defense
+2026-01-05 18:43:46,Blancs,Défaite,Échec et mat,674,693,blitz,Four Knights Game Spanish Variation Rubinstein Accepted Exchange Variation,2026,1,Monday,18,-19,Four Knights
+2026-01-05 18:49:06,Blancs,Victoire,Temps écoulé,682,647,blitz,Queens Gambit Declined Baltic Defense 3.Nc3,2026,1,Monday,18,35,Queens Gambit
+2026-01-06 03:43:55,Noirs,Victoire,Échec et mat,904,874,rapid,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2026,1,Tuesday,3,30,Sicilian Defense
+2026-01-06 04:03:03,Blancs,Défaite,Échec et mat,904,703,rapid,Slav Defense 3.Nc3 dxc4 4.e3,2026,1,Tuesday,4,201,Slav Defense
+2026-01-06 04:22:29,Blancs,Victoire,Temps écoulé,904,874,rapid,Owens Defense 2.d4 Bb7 3.Nc3 e6,2026,1,Tuesday,4,30,Owens Defense
+2026-01-07 03:20:26,Noirs,Défaite,Temps écoulé,674,697,blitz,Sicilian Defense,2026,1,Wednesday,3,-23,Sicilian Defense
+2026-01-07 06:15:21,Blancs,Défaite,Abandon,666,702,blitz,Ruy Lopez Opening Morphy Defense Neo Arkhangelsk Variation,2026,1,Wednesday,6,-36,Ruy Lopez
+2026-01-07 23:46:21,Blancs,Victoire,Temps écoulé,674,672,blitz,Englund Gambit,2026,1,Wednesday,23,2,Englund Gambit
+2026-01-08 00:01:34,Noirs,Défaite,Abandon,666,697,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,1,Thursday,0,-31,Queens Pawn
+2026-01-08 00:02:17,Noirs,Victoire,Abandon,674,669,blitz,Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7,2026,1,Thursday,0,5,Sicilian Defense
+2026-01-08 00:08:41,Blancs,Victoire,Temps écoulé,682,673,blitz,Four Knights Game Spanish Variation Classical Variation 5.O O d6,2026,1,Thursday,0,9,Four Knights
+2026-01-08 00:15:06,Blancs,Défaite,Échec et mat,674,692,blitz,Caro Kann Defense Two Knights Mindeno Variation,2026,1,Thursday,0,-18,Caro Kann
+2026-01-08 08:08:46,Noirs,Défaite,Abandon,666,689,blitz,Van t Kruijs Opening 1...d5,2026,1,Thursday,8,-23,Van t
+2026-01-08 08:23:13,Noirs,Défaite,Abandon,658,665,blitz,Indian Game...5.Nd2 Bf5 6.Ngf3 e6,2026,1,Thursday,8,-7,Indian Game...5.Nd2
+2026-01-08 09:03:51,Blancs,Défaite,Abandon,549,581,bullet,Pirc Defense 2.Bc4,2026,1,Thursday,9,-32,Pirc Defense
+2026-01-08 09:05:55,Noirs,Nulle,Temps (matériel insuffisant),550,572,bullet,Closed Sicilian Defense Traditional Line 3.Bc4,2026,1,Thursday,9,-22,Closed Sicilian
+2026-01-08 10:59:37,Noirs,Victoire,Échec et mat,667,672,blitz,Sicilian Defense,2026,1,Thursday,10,-5,Sicilian Defense
+2026-01-08 11:04:43,Noirs,Défaite,Abandon,659,690,blitz,Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7,2026,1,Thursday,11,-31,Sicilian Defense
+2026-01-09 06:26:01,Blancs,Défaite,Abandon,651,672,blitz,Englund Gambit,2026,1,Friday,6,-21,Englund Gambit
+2026-01-09 06:31:48,Blancs,Défaite,Temps écoulé,643,672,blitz,Pirc Defense Modern Defense Geller System,2026,1,Friday,6,-29,Pirc Defense
+2026-01-09 09:10:00,Noirs,Défaite,Abandon,635,657,blitz,Sicilian Defense,2026,1,Friday,9,-22,Sicilian Defense
+2026-01-10 14:50:16,Blancs,Victoire,Échec et mat,643,623,blitz,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 4.Be2,2026,1,Saturday,14,20,Scandinavian Defense
+2026-01-10 14:56:14,Noirs,Victoire,Échec et mat,651,621,blitz,Kings Indian Attack 2...Nc6 3.Bg2 e5 4.O O,2026,1,Saturday,14,30,Kings Indian
+2026-01-11 16:01:34,Noirs,Défaite,Abandon,643,677,blitz,Sicilian Defense Lasker Dunne Attack...4.Ne2 Bg7 5.O O d6 6.c3,2026,1,Sunday,16,-34,Sicilian Defense
+2026-01-11 17:03:00,Blancs,Défaite,Abandon,635,643,blitz,Benoni Defense,2026,1,Sunday,17,-8,Benoni Defense
+2026-01-11 17:11:22,Blancs,Défaite,Échec et mat,628,667,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2026,1,Sunday,17,-39,Ruy Lopez
+2026-01-12 18:14:05,Blancs,Défaite,Abandon,620,630,blitz,Slav Defense Modern Triangle Noteboom Variation 5.e3 b5 6.a4 Bb4 7.Bd2,2026,1,Monday,18,-10,Slav Defense
+2026-01-13 15:32:50,Noirs,Victoire,Abandon,627,591,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2026,1,Tuesday,15,36,Queens Pawn
+2026-01-14 19:24:47,Noirs,Nulle,Répétition,627,640,blitz,Van t Kruijs Opening 1...d5,2026,1,Wednesday,19,-13,Van t
+2026-01-15 11:38:31,Noirs,Victoire,Échec et mat,635,631,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2026,1,Thursday,11,4,Queens Pawn
+2026-01-16 12:52:46,Blancs,Victoire,Échec et mat,644,649,blitz,Scandinavian Defense 2.exd5,2026,1,Friday,12,-5,Scandinavian Defense
+2026-01-17 13:03:29,Blancs,Victoire,Échec et mat,652,640,blitz,Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4 e6 5.Nc3,2026,1,Saturday,13,12,Queens Gambit
+2026-01-17 19:30:43,Blancs,Victoire,Échec et mat,660,660,blitz,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,2026,1,Saturday,19,0,Queens Gambit
+2026-01-18 09:43:29,Noirs,Défaite,Abandon,652,675,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2026,1,Sunday,9,-23,Sicilian Defense
+2026-01-18 12:29:46,Blancs,Victoire,Échec et mat,904,148,rapid,Petrovs Defense Classical Variation,2026,1,Sunday,12,756,Petrovs Defense
+2026-01-18 12:40:52,Noirs,Victoire,Échec et mat,904,148,rapid,Giuoco Piano Game 4.O O Nf6,2026,1,Sunday,12,756,Giuoco Piano
+2026-01-19 20:35:59,Noirs,Défaite,Temps écoulé,533,546,bullet,Reti Opening Sicilian Invitation 2.d4 cxd4 3.Nxd4,2026,1,Monday,20,-13,Reti Opening
+2026-01-19 20:38:48,Blancs,Victoire,Échec et mat,548,516,bullet,Queens Gambit Declined Chigorin Defense...4.Nc3 Nf6 5.Bg5 Be7 6.e3,2026,1,Monday,20,32,Queens Gambit
+2026-01-19 20:43:36,Noirs,Nulle,Pat,549,563,bullet,Kings Fianchetto Opening Reversed Modern Defense,2026,1,Monday,20,-14,Kings Fianchetto
+2026-01-20 21:46:46,Blancs,Défaite,Échec et mat,645,683,blitz,Queens Gambit Accepted Old Variation,2026,1,Tuesday,21,-38,Queens Gambit
+2026-01-21 12:40:25,Noirs,Défaite,Abandon,637,643,blitz,Sicilian Defense Smith Morra Gambit,2026,1,Wednesday,12,-6,Sicilian Defense
+2026-01-21 12:42:10,Blancs,Victoire,Abandon,645,619,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5,2026,1,Wednesday,12,26,Slav Defense
+2026-01-21 13:09:58,Blancs,Victoire,Échec et mat,653,635,blitz,Indian Game Black Knights Tango...4.Nc3 Bb4 5.Bg5 h6 6.Bh4,2026,1,Wednesday,13,18,Indian Game
+2026-01-23 15:30:29,Noirs,Défaite,Abandon,645,667,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,1,Friday,15,-22,Queens Pawn
+2026-01-24 20:00:05,Noirs,Victoire,Échec et mat,653,650,blitz,Sicilian Defense,2026,1,Saturday,20,3,Sicilian Defense
+2026-01-24 20:37:01,Noirs,Victoire,Abandon,661,634,blitz,Indian Game...3.e3 c5 4.c3 Nc6,2026,1,Saturday,20,27,Indian Game...3.e3
+2026-01-24 20:44:16,Blancs,Victoire,Temps écoulé,669,662,blitz,Slav Defense...4.e3 b5 5.a4 b4 6.Na2,2026,1,Saturday,20,7,Slav Defense...4.e3
+2026-01-24 20:56:45,Blancs,Défaite,Abandon,661,676,blitz,Queens Gambit Declined Chigorin Defense 3.Nc3 dxc4,2026,1,Saturday,20,-15,Queens Gambit
+2026-01-25 18:24:46,Noirs,Défaite,Échec et mat,653,674,blitz,Alapin Sicilian Defense 2...Nc6,2026,1,Sunday,18,-21,Alapin Sicilian
+2026-01-25 18:32:05,Blancs,Victoire,Échec et mat,661,658,blitz,Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4 e6 5.Nc3,2026,1,Sunday,18,3,Queens Gambit
+2026-01-26 20:33:25,Blancs,Victoire,Échec et mat,560,449,bullet,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.e3,2026,1,Monday,20,111,Queens Gambit
+2026-01-26 20:36:41,Blancs,Victoire,Échec et mat,574,549,bullet,Queens Gambit Accepted 3.Nc3 Nf6 4.e3,2026,1,Monday,20,25,Queens Gambit
+2026-01-26 20:44:07,Noirs,Victoire,Temps écoulé,588,565,bullet,Sicilian Defense McDonnell Attack 2...Nc6 3.Nf3 g6,2026,1,Monday,20,23,Sicilian Defense
+2026-01-26 22:39:30,Blancs,Nulle,Répétition,661,663,blitz,Queens Pawn Opening English Defense 3.Nf3 Bb7 4.Nc3,2026,1,Monday,22,-2,Queens Pawn
+2026-01-26 22:41:31,Noirs,Défaite,Abandon,653,671,blitz,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5,2026,1,Monday,22,-18,Nimzowitsch Larsen
+2026-01-28 00:01:12,Noirs,Défaite,Abandon,645,644,blitz,Sicilian Defense 2.Nf3,2026,1,Wednesday,0,1,Sicilian Defense
+2026-01-29 11:13:49,Noirs,Défaite,Abandon,637,656,blitz,Sicilian Defense Canal Attack 3...Nc6 4.Bxc6 bxc6 5.O O,2026,1,Thursday,11,-19,Sicilian Defense
+2026-01-30 00:18:12,Blancs,Victoire,Échec et mat,645,647,blitz,Englund Gambit 2.dxe5 Nc6 3.Nf3 Qe7,2026,1,Friday,0,-2,Englund Gambit
+2026-01-30 00:22:29,Blancs,Victoire,Échec et mat,652,614,blitz,Scandinavian Defense Closed,2026,1,Friday,0,38,Scandinavian Defense
+2026-01-30 00:27:03,Blancs,Victoire,Échec et mat,660,629,blitz,Kings Pawn Opening Kings Knight Variation,2026,1,Friday,0,31,Kings Pawn
+2026-01-30 11:30:59,Noirs,Défaite,Échec et mat,574,594,bullet,Sicilian Defense Old Sicilian Variation 3.Bc4 e6 4.O O,2026,1,Friday,11,-20,Sicilian Defense
+2026-01-31 17:11:57,Blancs,Défaite,Abandon,652,676,blitz,Reti Opening Kingside Fianchetto Variation 2.e4 d6 3.d4,2026,1,Saturday,17,-24,Reti Opening
+2026-01-31 17:18:02,Noirs,Victoire,Temps écoulé,660,642,blitz,Sicilian Defense 2.d3 Nc6,2026,1,Saturday,17,18,Sicilian Defense
+2026-01-31 22:41:49,Noirs,Victoire,Abandon,904,1813,rapid,Scotch Game Malaniuk Variation 5.c3 Be7,2026,1,Saturday,22,-909,Scotch Game
+2026-01-31 22:47:37,Blancs,Victoire,Partie abandonnée,904,1813,rapid,Scandinavian Defense Modern Variation 3.d4,2026,1,Saturday,22,-909,Scandinavian Defense
+2026-01-31 23:49:07,Noirs,Victoire,Temps écoulé,904,1813,rapid,Scotch Game Classical Intermezzo Variation,2026,1,Saturday,23,-909,Scotch Game
+2026-02-01 00:17:17,Blancs,Victoire,Abandon,904,1813,rapid,Scandinavian Defense Modern Variation 3.d4,2026,2,Sunday,0,-909,Scandinavian Defense
+2026-02-02 17:46:42,Noirs,Défaite,Partie abandonnée,652,668,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2026,2,Monday,17,-16,Sicilian Defense
+2026-02-03 22:31:35,Blancs,Nulle,Répétition,652,651,blitz,Slav Defense 3.Nc3 dxc4 4.e3 b5 5.a4,2026,2,Tuesday,22,1,Slav Defense
+2026-02-04 01:25:12,Noirs,Défaite,Échec et mat,644,653,blitz,Kings Pawn Opening 1...e5,2026,2,Wednesday,1,-9,Kings Pawn
+2026-02-04 01:30:08,Blancs,Victoire,Échec et mat,652,632,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5,2026,2,Wednesday,1,20,Slav Defense
+2026-02-04 22:51:58,Noirs,Victoire,Abandon,660,634,blitz,Sicilian Defense Staunton Cochrane Variation 2...Nc6,2026,2,Wednesday,22,26,Sicilian Defense
+2026-02-05 00:00:47,Blancs,Défaite,Partie abandonnée,652,688,blitz,Queens Gambit,2026,2,Thursday,0,-36,Queens Gambit
+2026-02-05 00:09:41,Blancs,Victoire,Abandon,660,639,blitz,Queens Gambit Accepted Old Variation,2026,2,Thursday,0,21,Queens Gambit
+2026-02-05 16:45:15,Noirs,Défaite,Échec et mat,652,676,blitz,Queens Pawn Opening 1...d5 2.c3,2026,2,Thursday,16,-24,Queens Pawn
+2026-02-06 21:57:56,Noirs,Victoire,Partie abandonnée,659,623,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2026,2,Friday,21,36,Sicilian Defense
+2026-02-07 22:46:19,Noirs,Défaite,Abandon,651,689,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6,2026,2,Saturday,22,-38,Sicilian Defense
+2026-02-08 12:42:45,Blancs,Victoire,Partie abandonnée,659,659,blitz,Ruy Lopez Opening,2026,2,Sunday,12,0,Ruy Lopez
+2026-02-08 14:56:01,Noirs,Défaite,Échec et mat,651,665,blitz,Sicilian Defense 2.Nf3 d6 3.Bc4 Nc6,2026,2,Sunday,14,-14,Sicilian Defense
+2026-02-08 15:39:34,Blancs,Défaite,Abandon,643,655,blitz,Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 4.Be2,2026,2,Sunday,15,-12,Scandinavian Defense
+2026-02-09 14:02:17,Noirs,Victoire,Abandon,650,610,blitz,Sicilian Defense Old Sicilian Open Accelerated Dragon Variation,2026,2,Monday,14,40,Sicilian Defense
+2026-02-10 01:15:03,Noirs,Défaite,Abandon,642,660,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bc4,2026,2,Tuesday,1,-18,Closed Sicilian
+2026-02-10 01:19:07,Blancs,Victoire,Abandon,650,652,blitz,Englund Gambit,2026,2,Tuesday,1,-2,Englund Gambit
+2026-02-10 02:13:39,Noirs,Défaite,Temps écoulé,642,655,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,2,Tuesday,2,-13,Queens Pawn
+2026-02-11 14:02:14,Blancs,Défaite,Abandon,634,657,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5,2026,2,Wednesday,14,-23,Slav Defense
+2026-02-11 14:08:11,Blancs,Défaite,Abandon,626,628,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7 4.c3,2026,2,Wednesday,14,-2,Sicilian Defense
+2026-02-12 23:37:35,Blancs,Défaite,Échec et mat,618,642,blitz,Queens Gambit Declined Albin Countergambit,2026,2,Thursday,23,-24,Queens Gambit
+2026-02-14 00:14:48,Noirs,Défaite,Partie abandonnée,610,617,blitz,Birds Opening Dutch Variation 2.e3,2026,2,Saturday,0,-7,Birds Opening
+2026-02-14 21:10:26,Blancs,Victoire,Temps écoulé,618,584,blitz,Ruy Lopez Opening Morphy Defense Modern Steinitz Defense 5.O O,2026,2,Saturday,21,34,Ruy Lopez
+2026-02-15 21:56:10,Noirs,Victoire,Échec et mat,626,627,blitz,Queens Pawn Opening 1...d5,2026,2,Sunday,21,-1,Queens Pawn
+2026-02-17 10:09:34,Noirs,Défaite,Échec et mat,618,621,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4,2026,2,Tuesday,10,-3,Sicilian Defense
+2026-02-17 14:04:25,Blancs,Défaite,Abandon,611,648,blitz,Queens Gambit Accepted Central Variation Greco Variation,2026,2,Tuesday,14,-37,Queens Gambit
+2026-02-17 14:10:36,Blancs,Victoire,Échec et mat,619,592,blitz,Ruy Lopez Opening Morphy Defense Anderssen Variation 5...b5 6.Bb3 Bc5 7.Nc3,2026,2,Tuesday,14,27,Ruy Lopez
+2026-02-19 15:27:28,Blancs,Victoire,Échec et mat,627,618,blitz,Englund Gambit 2.dxe5 Nc6,2026,2,Thursday,15,9,Englund Gambit
+2026-02-19 21:12:06,Noirs,Défaite,Abandon,619,619,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2026,2,Thursday,21,0,Sicilian Defense
+2026-02-20 00:45:57,Blancs,Victoire,Échec et mat,627,617,blitz,Queens Gambit Declined Albin Countergambit,2026,2,Friday,0,10,Queens Gambit
+2026-02-20 01:04:31,Noirs,Défaite,Échec et mat,619,651,blitz,Sicilian Defense Bowdler Attack,2026,2,Friday,1,-32,Sicilian Defense
+2026-02-20 10:19:42,Noirs,Défaite,Abandon,611,644,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.c3 Bg7 4.d4 cxd4 5.cxd4,2026,2,Friday,10,-33,Sicilian Defense
+2026-02-21 16:30:35,Noirs,Victoire,Abandon,619,589,blitz,Closed Sicilian Defense Grand Prix Attack...5.Bc4 e6 6.O O Nge7,2026,2,Saturday,16,30,Closed Sicilian
+2026-02-22 16:49:56,Blancs,Défaite,Partie abandonnée,611,624,blitz,Queens Pawn Opening St George Defense 2.c4,2026,2,Sunday,16,-13,Queens Pawn
+2026-02-23 01:06:23,Blancs,Victoire,Partie abandonnée,619,587,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4,2026,2,Monday,1,32,Queens Gambit
+2026-02-24 11:40:39,Noirs,Nulle,Répétition,619,636,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7 4.c3 e6,2026,2,Tuesday,11,-17,Sicilian Defense
+2026-02-24 19:45:33,Blancs,Victoire,Échec et mat,627,620,blitz,Queens Pawn Opening English Rat Defense 3.Nc3,2026,2,Tuesday,19,7,Queens Pawn
+2026-02-26 09:45:00,Blancs,Défaite,Abandon,619,629,blitz,Englund Gambit,2026,2,Thursday,9,-10,Englund Gambit
+2026-02-26 10:17:57,Noirs,Victoire,Abandon,627,617,blitz,Modern Defense Standard Pterodactyl Defense 4.Nf3 cxd4 5.Nxd4,2026,2,Thursday,10,10,Modern Defense
+2026-02-26 21:20:00,Noirs,Défaite,Abandon,620,656,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,2,Thursday,21,-36,Queens Pawn
+2026-02-27 23:34:55,Noirs,Défaite,Abandon,612,644,blitz,Saragossa Opening 1...e5,2026,2,Friday,23,-32,Saragossa Opening
+2026-02-28 19:06:44,Blancs,Défaite,Temps écoulé,604,604,blitz,Slav Defense 3.Nc3 Nf6 4.Bg5,2026,2,Saturday,19,0,Slav Defense
+2026-03-01 17:07:19,Noirs,Victoire,Abandon,612,608,blitz,Modern Defense Standard Pterodactyl Defense 4.Nf3 cxd4 5.Nxd4,2026,3,Sunday,17,4,Modern Defense
+2026-03-01 21:50:40,Blancs,Défaite,Abandon,603,597,blitz,Queens Gambit Declined Chigorin Defense 3.Nc3 Nf6,2026,3,Sunday,21,6,Queens Gambit
+2026-03-02 13:23:10,Noirs,Défaite,Échec et mat,595,607,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.c3 Bg7 4.d4 cxd4 5.cxd4,2026,3,Monday,13,-12,Sicilian Defense
+2026-03-04 00:26:55,Blancs,Victoire,Échec et mat,603,584,blitz,Indian Game East Indian Defense 3.Nc3 b6 4.e4 Bb7,2026,3,Wednesday,0,19,Indian Game
+2026-03-05 11:34:51,Noirs,Nulle,Matériel insuffisant,603,615,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.d3 Bg7,2026,3,Thursday,11,-12,Sicilian Defense
+2026-03-05 23:13:21,Blancs,Victoire,Échec et mat,610,571,blitz,Queens Gambit Accepted Old Variation,2026,3,Thursday,23,39,Queens Gambit
+2026-03-05 23:27:20,Blancs,Nulle,Accord mutuel,610,601,blitz,Queens Pawn Opening,2026,3,Thursday,23,9,Queens Pawn
+2026-03-05 23:32:42,Noirs,Défaite,Abandon,602,625,blitz,Sicilian Defense,2026,3,Thursday,23,-23,Sicilian Defense
+2026-03-07 23:08:09,Blancs,Victoire,Échec et mat,610,601,blitz,Dutch Defense Classical Rubinstein Variation 3...Nf6 4.e3 Bb4,2026,3,Saturday,23,9,Dutch Defense
+2026-03-09 12:24:05,Noirs,Victoire,Temps écoulé,618,604,blitz,Closed Sicilian Defense 2...g6,2026,3,Monday,12,14,Closed Sicilian
+2026-03-09 12:29:52,Blancs,Victoire,Temps écoulé,626,613,blitz,Queens Gambit Declined Chigorin Defense...5.Bg5 Be7 6.e3 O O,2026,3,Monday,12,13,Queens Gambit
+2026-03-09 13:46:43,Noirs,Victoire,Temps écoulé,634,621,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.c3 Bg7 4.d4 cxd4 5.cxd4,2026,3,Monday,13,13,Sicilian Defense
+2026-03-09 21:20:46,Noirs,Victoire,Abandon,642,617,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Nc3 Bg7,2026,3,Monday,21,25,Sicilian Defense
+2026-03-10 08:36:52,Blancs,Défaite,Temps écoulé,634,632,blitz,English Defense 2.c4 Bb7 3.Nc3,2026,3,Tuesday,8,2,English Defense
+2026-03-10 22:05:57,Blancs,Victoire,Temps écoulé,642,608,blitz,Queens Gambit Accepted 3.Nc3 Nf6 4.e3,2026,3,Tuesday,22,34,Queens Gambit
+2026-03-12 20:44:49,Blancs,Défaite,Échec et mat,633,627,blitz,Queens Gambit Declined Baltic Defense 3.Nc3 e6 4.Nf3,2026,3,Thursday,20,6,Queens Gambit
+2026-03-12 20:50:02,Blancs,Victoire,Échec et mat,641,640,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4,2026,3,Thursday,20,1,Queens Gambit
+2026-03-13 01:07:46,Noirs,Défaite,Abandon,633,649,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7,2026,3,Friday,1,-16,Sicilian Defense
+2026-03-13 12:40:58,Blancs,Défaite,Abandon,625,643,blitz,Queens Pawn Opening Zukertort Variation...3.e3 Bf5 4.c4 e6 5.Nc3,2026,3,Friday,12,-18,Queens Pawn
+2026-03-14 19:22:16,Noirs,Défaite,Abandon,617,642,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2026,3,Saturday,19,-25,Sicilian Defense
+2026-03-15 10:35:01,Noirs,Victoire,Abandon,625,614,blitz,Sicilian Defense Hyperaccelerated Dragon Fianchetto Variation 3...cxd4 4.Nxd4 Bg7,2026,3,Sunday,10,11,Sicilian Defense
+2026-03-16 10:11:34,Noirs,Défaite,Abandon,617,635,blitz,Sicilian Defense,2026,3,Monday,10,-18,Sicilian Defense
+2026-03-16 20:15:49,Blancs,Victoire,Échec et mat,625,599,blitz,Englund Gambit 2.dxe5 Nc6 3.Nf3,2026,3,Monday,20,26,Englund Gambit
+2026-03-17 15:03:52,Blancs,Défaite,Abandon,617,641,blitz,Englund Gambit 2.dxe5,2026,3,Tuesday,15,-24,Englund Gambit
+2026-03-17 15:11:47,Noirs,Défaite,Abandon,609,637,blitz,Sicilian Defense Hyperaccelerated Dragon Fianchetto Variation...4.Qxd4 Nf6 5.e5 Nc6,2026,3,Tuesday,15,-28,Sicilian Defense
+2026-03-18 17:30:15,Blancs,Victoire,Échec et mat,617,614,blitz,Queens Pawn Opening 1...c6 2.c4,2026,3,Wednesday,17,3,Queens Pawn
+2026-03-19 21:30:34,Blancs,Victoire,Abandon,625,595,blitz,Old Benoni Defense,2026,3,Thursday,21,30,Old Benoni
+2026-03-19 21:37:52,Noirs,Victoire,Temps écoulé,633,610,blitz,Sicilian Defense Open Accelerated Dragon Modern Variation,2026,3,Thursday,21,23,Sicilian Defense
+2026-03-20 23:33:09,Noirs,Défaite,Abandon,625,627,blitz,Queens Pawn Opening 1...d5,2026,3,Friday,23,-2,Queens Pawn
+2026-03-22 01:47:32,Noirs,Défaite,Échec et mat,617,640,blitz,Queens Pawn Opening Krause Variation 3.e3 Nc6,2026,3,Sunday,1,-23,Queens Pawn
+2026-03-23 13:22:08,Blancs,Défaite,Abandon,609,608,blitz,Slav Defense 3.Nc3 dxc4 4.e3,2026,3,Monday,13,1,Slav Defense
+2026-03-24 19:48:54,Noirs,Victoire,Partie abandonnée,617,578,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2026,3,Tuesday,19,39,Sicilian Defense
+2026-03-25 08:41:59,Blancs,Défaite,Échec et mat,609,639,blitz,Queens Gambit Accepted Old Variation 3...c5 4.Bxc4,2026,3,Wednesday,8,-30,Queens Gambit
+2026-03-26 16:37:06,Noirs,Défaite,Abandon,601,629,blitz,Sicilian Defense Wing Gambit,2026,3,Thursday,16,-28,Sicilian Defense
+2026-03-26 16:51:22,Noirs,Défaite,Abandon,904,1103,rapid,Queens Pawn Opening Zukertort Chigorin Variation 3.g3,2026,3,Thursday,16,-199,Queens Pawn
+2026-03-28 01:34:07,Blancs,Victoire,Abandon,609,597,blitz,Slav Defense 3.Nc3 dxc4 4.e3 b5 5.a4,2026,3,Saturday,1,12,Slav Defense
+2026-03-29 10:53:13,Noirs,Défaite,Abandon,601,603,blitz,Closed Sicilian Defense Fianchetto Variation 3...g6 4.d3 Bg7,2026,3,Sunday,10,-2,Closed Sicilian
+2026-03-31 19:44:57,Blancs,Victoire,Abandon,609,587,blitz,Ruy Lopez Opening Old Steinitz Defense 4.O O Bd7,2026,3,Tuesday,19,22,Ruy Lopez
+2026-04-01 09:15:59,Noirs,Victoire,Abandon,617,598,blitz,Queens Pawn Opening 1...d5 2.g3,2026,4,Wednesday,9,19,Queens Pawn
+2026-04-02 10:02:00,Blancs,Défaite,Abandon,609,609,blitz,Englund Gambit 2.dxe5,2026,4,Thursday,10,0,Englund Gambit
+2026-04-03 22:50:41,Noirs,Victoire,Échec et mat,618,622,blitz,Queens Pawn Opening Stonewall Attack 3...c5 4.c3 Nc6,2026,4,Friday,22,-4,Queens Pawn
+2026-04-05 11:55:20,Noirs,Défaite,Abandon,610,612,blitz,English Opening Two Knights Variation 3.e3 Bb4,2026,4,Sunday,11,-2,English Opening
+2026-04-07 03:32:28,Blancs,Victoire,Abandon,618,603,blitz,Kings Indian Defense Normal Variation 4.Nf3 O O 5.Bg5 h6,2026,4,Tuesday,3,15,Kings Indian
+2026-04-08 07:37:56,Blancs,Défaite,Abandon,610,606,blitz,Queens Gambit Declined Modern Variation,2026,4,Wednesday,7,4,Queens Gambit
+2026-04-09 16:11:48,Blancs,Victoire,Abandon,618,618,blitz,Slav Defense Modern Alekhine Variation,2026,4,Thursday,16,0,Slav Defense
+2026-04-11 15:46:09,Noirs,Victoire,Échec et mat,626,597,blitz,Sicilian Defense Old Sicilian Variation,2026,4,Saturday,15,29,Sicilian Defense
+2026-04-12 11:41:03,Blancs,Victoire,Échec et mat,634,621,blitz,Queens Gambit Accepted Old Variation...4.Bxc4 e6 5.Nc3 a6,2026,4,Sunday,11,13,Queens Gambit
+2026-04-13 00:12:15,Noirs,Victoire,Échec et mat,904,1114,rapid,Sicilian Defense Nyezhmetdinov Rossolimo Fianchetto Variation,2026,4,Monday,0,-210,Sicilian Defense
+2026-04-13 00:17:23,Blancs,Victoire,Abandon,904,1114,rapid,Queens Gambit Declined Marshall Defense 3.Nc3,2026,4,Monday,0,-210,Queens Gambit
+2026-04-13 00:34:10,Noirs,Victoire,Abandon,904,1114,rapid,Four Knights Game Italian Noa Gambit 5...Kxf7 6.Nxe4 d5,2026,4,Monday,0,-210,Four Knights
+2026-04-14 10:34:13,Noirs,Défaite,Abandon,626,626,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4 Bg7,2026,4,Tuesday,10,0,Closed Sicilian
+2026-04-16 09:18:55,Blancs,Défaite,Abandon,618,627,blitz,Queens Gambit Accepted Old Variation 3...e6 4.Bxc4,2026,4,Thursday,9,-9,Queens Gambit
+2026-04-17 16:39:34,Noirs,Victoire,Échec et mat,626,609,blitz,Queens Pawn Opening 1...d5 2.e3 c5,2026,4,Friday,16,17,Queens Pawn
+2026-04-18 23:12:37,Blancs,Victoire,Partie abandonnée,633,596,blitz,Old Indian Defense Ukrainian Variation 4.dxe5 dxe5 5.Qxd8 Kxd8 6.Bg5,2026,4,Saturday,23,37,Old Indian
+2026-04-20 11:50:29,Noirs,Défaite,Abandon,625,652,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2026,4,Monday,11,-27,Sicilian Defense
+2026-04-20 20:43:17,Noirs,Victoire,Partie abandonnée,633,625,blitz,Closed Sicilian Defense Grand Prix Attack...4.Nf3 Bg7 5.d3 d6,2026,4,Monday,20,8,Closed Sicilian
+2026-04-23 13:33:23,Blancs,Nulle,Répétition,633,634,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4,2026,4,Thursday,13,-1,Queens Gambit
+2026-04-24 15:17:38,Noirs,Défaite,Abandon,625,661,blitz,Sicilian Defense,2026,4,Friday,15,-36,Sicilian Defense
+2026-04-24 15:37:15,Noirs,Défaite,Abandon,617,632,blitz,Closed Sicilian Defense Portland Attack 3...g6,2026,4,Friday,15,-15,Closed Sicilian
+2026-04-25 00:57:35,Blancs,Défaite,Échec et mat,609,635,blitz,Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 g6,2026,4,Saturday,0,-26,Pirc Defense
+2026-04-25 14:57:01,Blancs,Défaite,Abandon,601,627,blitz,Dutch Defense Queens Knight Variation 3...g6,2026,4,Saturday,14,-26,Dutch Defense
+2026-04-27 14:29:10,Noirs,Victoire,Abandon,609,602,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,4,Monday,14,7,Queens Pawn
+2026-04-28 20:29:54,Blancs,Défaite,Abandon,601,597,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7 4.O O Nc6 5.c3,2026,4,Tuesday,20,4,Sicilian Defense
+2026-04-29 23:49:56,Blancs,Défaite,Échec et mat,593,630,blitz,Four Knights Game Spanish Variation 4...d6,2026,4,Wednesday,23,-37,Four Knights
+2026-04-29 23:52:37,Blancs,Défaite,Abandon,585,593,blitz,Pirc Defense Classical Variation 4...Bg7,2026,4,Wednesday,23,-8,Pirc Defense
+2026-04-29 23:54:56,Noirs,Défaite,Abandon,577,584,blitz,Indian Game Knights Variation 2...e6 3.Nc3 d5,2026,4,Wednesday,23,-7,Indian Game
+2026-05-01 00:07:08,Noirs,Victoire,Échec et mat,585,585,blitz,Queens Gambit Declined Semi Slav Defense Accelerated Move Order,2026,5,Friday,0,0,Queens Gambit
+2026-05-02 12:17:39,Blancs,Défaite,Abandon,577,607,blitz,Ruy Lopez Opening Birds Defense,2026,5,Saturday,12,-30,Ruy Lopez
+2026-05-05 00:33:56,Noirs,Défaite,Abandon,569,598,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4,2026,5,Tuesday,0,-29,Sicilian Defense
+2026-05-06 12:55:19,Noirs,Victoire,Abandon,577,576,blitz,Saragossa Opening 1...d5,2026,5,Wednesday,12,1,Saragossa Opening
+2026-05-10 23:57:18,Blancs,Défaite,Échec et mat,569,588,blitz,Ruy Lopez Opening Morphy Defense Closed Martinez Variation 6...d6,2026,5,Sunday,23,-19,Ruy Lopez
+2026-05-11 21:06:59,Noirs,Défaite,Partie abandonnée,561,556,blitz,Sicilian Defense Open Accelerated Dragon Exchange Variation 5...bxc6,2026,5,Monday,21,5,Sicilian Defense
+2026-05-12 19:58:25,Blancs,Défaite,Échec et mat,553,552,blitz,Four Knights Game Spanish Variation Classical Variation 5.O O,2026,5,Tuesday,19,1,Four Knights
+2026-05-14 00:45:54,Blancs,Défaite,Abandon,545,580,blitz,Queens Gambit Accepted Old Variation 3...c5,2026,5,Thursday,0,-35,Queens Gambit
+2026-05-15 17:39:28,Blancs,Défaite,Abandon,537,566,blitz,Queens Gambit Declined Austrian Variation 3.cxd5 Qxd5,2026,5,Friday,17,-29,Queens Gambit
+2026-05-16 17:15:07,Noirs,Défaite,Abandon,529,559,blitz,Sicilian Defense McDonnell Attack 2...Nc6,2026,5,Saturday,17,-30,Sicilian Defense
+2026-05-19 13:34:41,Noirs,Défaite,Abandon,521,522,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6,2026,5,Tuesday,13,-1,Closed Sicilian
+2026-05-20 15:33:35,Blancs,Défaite,Abandon,513,513,blitz,Richter Veresov Attack 3...e6,2026,5,Wednesday,15,0,Richter Veresov
+2026-05-20 15:43:13,Blancs,Victoire,Temps écoulé,521,487,blitz,Queens Gambit Accepted Old Variation,2026,5,Wednesday,15,34,Queens Gambit
+2026-05-21 16:51:16,Noirs,Victoire,Temps écoulé,528,492,blitz,Reti Opening 1...d5 2.e3,2026,5,Thursday,16,36,Reti Opening
+2026-05-23 13:57:18,Noirs,Victoire,Temps écoulé,536,515,blitz,Sicilian Defense,2026,5,Saturday,13,21,Sicilian Defense
+2026-05-25 15:35:13,Blancs,Défaite,Abandon,528,534,blitz,Queens Pawn Opening 1...d5,2026,5,Monday,15,-6,Queens Pawn
+2026-05-27 17:14:45,Noirs,Victoire,Temps écoulé,535,498,blitz,Sicilian Defense Old Sicilian Variation 3.d3 g6,2026,5,Wednesday,17,37,Sicilian Defense
+2026-05-30 16:54:16,Noirs,Défaite,Abandon,527,543,blitz,Old Benoni Defense,2026,5,Saturday,16,-16,Old Benoni
+2026-05-31 23:17:53,Blancs,Défaite,Abandon,519,555,blitz,Van t Kruijs Opening 1...e5,2026,5,Sunday,23,-36,Van t
+2026-06-02 20:07:59,Blancs,Défaite,Abandon,511,535,blitz,Queens Gambit Accepted Old Variation,2026,6,Tuesday,20,-24,Queens Gambit
+2026-06-02 21:43:15,Noirs,Défaite,Abandon,503,516,blitz,Sicilian Defense Hyperaccelerated Dragon Variation 3.Bc4 Bg7 4.O O,2026,6,Tuesday,21,-13,Sicilian Defense
+2026-06-03 00:07:34,Noirs,Défaite,Abandon,495,529,blitz,Modern Defense Pterodactyl Semi Averbakh Variation 4...cxd4 5.Nxd4 Nc6,2026,6,Wednesday,0,-34,Modern Defense
+2026-06-03 00:17:44,Blancs,Victoire,Échec et mat,503,507,blitz,Queens Pawn Opening Horwitz Defense 2.c4 c5 3.d5,2026,6,Wednesday,0,-4,Queens Pawn
+2026-06-03 14:07:51,Blancs,Victoire,Échec et mat,511,505,blitz,Queens Gambit Declined 3.cxd5 exd5 4.Nc3 c6,2026,6,Wednesday,14,6,Queens Gambit
+2026-06-03 21:11:01,Noirs,Défaite,Abandon,504,543,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2026,6,Wednesday,21,-39,Alapin Sicilian
+2026-06-03 21:20:43,Noirs,Victoire,Temps écoulé,512,511,blitz,Closed Sicilian Defense Traditional Line...4.Bc4 Bg7 5.O O d6,2026,6,Wednesday,21,1,Closed Sicilian
+2026-06-03 21:36:54,Blancs,Victoire,Échec et mat,520,518,blitz,French Defense Knight Variation 2...d5 3.e5,2026,6,Wednesday,21,2,French Defense
+2026-06-03 21:39:22,Noirs,Défaite,Partie abandonnée,512,526,blitz,Van t Kruijs Opening 1...c5,2026,6,Wednesday,21,-14,Van t
+2026-06-04 09:06:22,Noirs,Victoire,Abandon,520,494,blitz,Sicilian Defense 2.d3 Nc6,2026,6,Thursday,9,26,Sicilian Defense
+2026-06-04 23:15:06,Blancs,Victoire,Partie abandonnée,528,525,blitz,Queens Pawn Opening,2026,6,Thursday,23,3,Queens Pawn
+2026-06-04 23:21:24,Blancs,Victoire,Abandon,536,516,blitz,Ruy Lopez Opening,2026,6,Thursday,23,20,Ruy Lopez
+2026-06-04 23:30:25,Blancs,Défaite,Abandon,528,546,blitz,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3,2026,6,Thursday,23,-18,Queens Gambit
+2026-06-05 20:56:44,Blancs,Victoire,Échec et mat,536,524,blitz,Queens Pawn Opening,2026,6,Friday,20,12,Queens Pawn
+2026-06-06 21:51:06,Noirs,Victoire,Temps écoulé,544,528,blitz,Van t Kruijs Opening 1...c5,2026,6,Saturday,21,16,Van t
+2026-06-06 21:58:58,Blancs,Victoire,Échec et mat,552,540,blitz,Queens Gambit Accepted Old Variation,2026,6,Saturday,21,12,Queens Gambit
+2026-06-07 22:12:30,Noirs,Victoire,Échec et mat,560,540,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,6,Sunday,22,20,Queens Pawn
+2026-06-08 15:36:06,Noirs,Victoire,Échec et mat,568,564,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4,2026,6,Monday,15,4,Sicilian Defense
+2026-06-08 15:43:39,Noirs,Victoire,Échec et mat,576,566,blitz,Alapin Sicilian Defense Barmen Defense 4.d4 cxd4 5.cxd4 Nc6,2026,6,Monday,15,10,Alapin Sicilian
+2026-06-10 14:12:22,Blancs,Victoire,Échec et mat,584,552,blitz,Queens Gambit Declined Queens Knight Variation 3...dxc4,2026,6,Wednesday,14,32,Queens Gambit
+2026-06-11 14:25:29,Blancs,Défaite,Abandon,575,577,blitz,Englund Gambit,2026,6,Thursday,14,-2,Englund Gambit
+2026-06-11 14:29:31,Noirs,Victoire,Abandon,583,573,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4 Bg7,2026,6,Thursday,14,10,Closed Sicilian
+2026-06-11 14:32:09,Blancs,Victoire,Abandon,590,552,blitz,Grunfeld Defense Petrosian System 5...c6 6.e3 O O,2026,6,Thursday,14,38,Grunfeld Defense
+2026-06-11 14:37:30,Noirs,Victoire,Échec et mat,598,573,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6,2026,6,Thursday,14,25,Sicilian Defense
+2026-06-13 01:18:23,Blancs,Victoire,Échec et mat,606,600,blitz,Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4,2026,6,Saturday,1,6,Queens Gambit
+2026-06-13 13:05:52,Noirs,Victoire,Abandon,614,586,blitz,Sicilian Defense,2026,6,Saturday,13,28,Sicilian Defense
+2026-06-13 13:13:10,Blancs,Défaite,Abandon,606,625,blitz,Englund Gambit,2026,6,Saturday,13,-19,Englund Gambit
+2026-06-14 18:23:53,Blancs,Victoire,Échec et mat,614,586,blitz,Queens Pawn Opening Horwitz Defense 2.c4,2026,6,Sunday,18,28,Queens Pawn
+2026-06-15 22:08:58,Noirs,Victoire,Échec et mat,621,585,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4 Bg7 5.O O,2026,6,Monday,22,36,Closed Sicilian
+2026-06-15 22:26:40,Noirs,Défaite,Abandon,613,626,blitz,Sicilian Defense Bowdler Attack,2026,6,Monday,22,-13,Sicilian Defense
+2026-06-16 15:12:10,Blancs,Victoire,Abandon,621,586,blitz,Queens Gambit Declined Traditional Capablanca Duras Variation 5.Bxf6 Qxf6 6.Nc3,2026,6,Tuesday,15,35,Queens Gambit
+2026-06-16 15:18:47,Blancs,Victoire,Échec et mat,630,634,blitz,Queens Gambit Declined Queens Knight Variation 3...Bb4,2026,6,Tuesday,15,-4,Queens Gambit
+2026-06-16 16:02:26,Noirs,Défaite,Échec et mat,622,646,blitz,Queens Pawn Opening Krause Variation 3.c3 Nc6,2026,6,Tuesday,16,-24,Queens Pawn
+2026-06-16 16:10:14,Blancs,Victoire,Échec et mat,630,608,blitz,Semi Slav Defense Anti Meran Anti Moscow Gambit 6...g5 7.Bg3,2026,6,Tuesday,16,22,Semi Slav
+2026-06-17 14:22:25,Noirs,Victoire,Échec et mat,638,617,blitz,Alapin Sicilian Defense 2...Nc6 3.Nf3,2026,6,Wednesday,14,21,Alapin Sicilian
+2026-06-18 12:06:52,Blancs,Défaite,Échec et mat,630,634,blitz,Indian Game Black Knights Tango 3.Nf3 e6 4.Nc3 Bb4 5.Bg5,2026,6,Thursday,12,-4,Indian Game
+2026-06-18 12:14:08,Noirs,Défaite,Abandon,622,617,blitz,Sicilian Defense 2.d3 Nc6,2026,6,Thursday,12,5,Sicilian Defense
+2026-06-18 14:35:33,Blancs,Victoire,Abandon,630,617,blitz,Queens Gambit Declined Modern Variation...7.Qc2 h6 8.Bh4 O O,2026,6,Thursday,14,13,Queens Gambit
+2026-06-18 14:41:41,Noirs,Défaite,Abandon,623,660,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4,2026,6,Thursday,14,-37,Sicilian Defense
+2026-06-19 08:37:32,Noirs,Victoire,Abandon,632,637,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,6,Friday,8,-5,Queens Pawn
+2026-06-19 08:44:09,Blancs,Victoire,Échec et mat,640,627,blitz,Queens Gambit Declined Chigorin Defense 3.Nf3 e6 4.Nc3,2026,6,Friday,8,13,Queens Gambit
+2026-06-20 13:35:31,Blancs,Victoire,Abandon,647,611,blitz,Queens Gambit Accepted Old Variation,2026,6,Saturday,13,36,Queens Gambit
+2026-06-20 13:44:04,Noirs,Défaite,Temps écoulé,639,672,blitz,Sicilian Defense Old Sicilian Variation 3.Bc4,2026,6,Saturday,13,-33,Sicilian Defense
+2026-06-20 21:28:24,Noirs,Victoire,Abandon,646,607,blitz,Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bc4 Bg7,2026,6,Saturday,21,39,Closed Sicilian
+2026-06-21 19:44:00,Blancs,Victoire,Abandon,654,634,blitz,Indian Game Black Knights Tango 3.Nc3,2026,6,Sunday,19,20,Indian Game
+2026-06-21 20:20:51,Blancs,Victoire,Abandon,662,641,blitz,Tarrasch Defense Schara Gambit 5.Qxd4,2026,6,Sunday,20,21,Tarrasch Defense
+2026-06-21 20:21:34,Blancs,Défaite,Abandon,654,669,blitz,Slav Defense 3.Nc3 dxc4 4.e3 b5 5.a4,2026,6,Sunday,20,-15,Slav Defense
+2026-06-21 20:26:28,Noirs,Victoire,Échec et mat,662,639,blitz,Queens Gambit Declined Albin Countergambit 3.dxe5,2026,6,Sunday,20,23,Queens Gambit
+2026-06-22 05:35:19,Noirs,Nulle,Matériel insuffisant,662,646,blitz,Kings Fianchetto Opening 1...e5 2.Bg2 d5,2026,6,Monday,5,16,Kings Fianchetto
+2026-06-22 12:17:03,Noirs,Défaite,Échec et mat,655,691,blitz,Sicilian Defense Bowdler Attack 2...Nc6,2026,6,Monday,12,-36,Sicilian Defense
+2026-06-23 12:13:39,Blancs,Victoire,Échec et mat,663,642,blitz,Ruy Lopez Opening,2026,6,Tuesday,12,21,Ruy Lopez
+2026-06-23 15:23:44,Blancs,Victoire,Temps écoulé,671,671,blitz,Queens Gambit Declined Marshall Defense 3.Nc3,2026,6,Tuesday,15,0,Queens Gambit
+2026-06-23 15:30:23,Noirs,Victoire,Échec et mat,679,678,blitz,Sicilian Defense,2026,6,Tuesday,15,1,Sicilian Defense
+2026-06-23 15:59:52,Blancs,Victoire,Échec et mat,904,552,rapid,Queens Gambit Declined Modern Variation,2026,6,Tuesday,15,352,Queens Gambit
+2026-06-23 16:10:44,Noirs,Victoire,Échec et mat,904,552,rapid,Closed Sicilian Defense Portland Attack 3...g6,2026,6,Tuesday,16,352,Closed Sicilian
+2026-06-23 19:11:46,Blancs,Victoire,Échec et mat,687,679,blitz,Queens Gambit Declined Queens Knight Variation 3...Bb4 4.Nf3 dxc4,2026,6,Tuesday,19,8,Queens Gambit
+2026-06-24 08:15:53,Noirs,Victoire,Échec et mat,695,676,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1,2026,6,Wednesday,8,19,Sicilian Defense
+2026-06-25 21:48:52,Blancs,Victoire,Échec et mat,703,671,blitz,Queens Gambit,2026,6,Thursday,21,32,Queens Gambit
+2026-06-26 13:50:54,Noirs,Défaite,Échec et mat,695,709,blitz,Sicilian Defense Open Accelerated Dragon Exchange Variation 5...bxc6,2026,6,Friday,13,-14,Sicilian Defense
+2026-06-27 10:11:29,Blancs,Défaite,Échec et mat,687,686,blitz,Queens Pawn Opening English Rat Defense 3.d5,2026,6,Saturday,10,1,Queens Pawn
+2026-06-28 20:26:36,Noirs,Victoire,Abandon,695,681,blitz,Caro Kann Defense Panov Attack 4...Nf6 5.Nf3 Nc6,2026,6,Sunday,20,14,Caro Kann
+2026-06-29 14:25:18,Blancs,Victoire,Temps écoulé,703,704,blitz,Dutch Defense Queens Knight Variation 3...g6,2026,6,Monday,14,-1,Dutch Defense
+2026-06-29 20:55:29,Noirs,Victoire,Échec et mat,712,732,blitz,Sicilian Defense Smith Morra Gambit 2...cxd4,2026,6,Monday,20,-20,Sicilian Defense
+2026-06-29 21:25:21,Noirs,Victoire,Partie abandonnée,720,725,blitz,Sicilian Defense,2026,6,Monday,21,-5,Sicilian Defense
+2026-07-02 11:10:28,Noirs,Défaite,Abandon,712,734,blitz,Nimzowitsch Larsen Attack Classical Variation 2.Bb2,2026,7,Thursday,11,-22,Nimzowitsch Larsen
+2026-07-03 21:22:06,Blancs,Défaite,Échec et mat,704,710,blitz,Old Benoni Defense 2.d5 d6 3.c4,2026,7,Friday,21,-6,Old Benoni
+2026-07-04 22:11:09,Blancs,Nulle,Temps (matériel insuffisant),704,706,blitz,Benoni Defense Modern Kings Pawn Line,2026,7,Saturday,22,-2,Benoni Defense
+2026-07-06 22:50:56,Noirs,Défaite,Échec et mat,696,726,blitz,Queens Pawn Opening Accelerated London Steinitz Countergambit,2026,7,Monday,22,-30,Queens Pawn
