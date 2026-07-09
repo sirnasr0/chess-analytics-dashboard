@@ -24,22 +24,17 @@ METHODES = {
     "timevsinsufficient": "Temps (matériel insuffisant)"
 }
 
-
-lignes = []
-
-
-for partie in parties:
-    #On vois si j'étais noir ou blanc sur cette partie
-    if partie["white"]["username"].lower() == PSEUDO.lower():
-        mes_infos = partie ["white"]
-        infos_adversaire = partie ["black"]
+def determiner_resultat_et_methode(partie, pseudo):
+    """Détermine couleur, résultat et méthode à partir d'une partie brute."""
+    if partie["white"]["username"].lower() == pseudo.lower():
+        mes_infos = partie["white"]
+        infos_adversaire = partie["black"]
         couleur = "Blancs"
     else:
         mes_infos = partie["black"]
-        infos_adversaire = partie ["white"]
+        infos_adversaire = partie["white"]
         couleur = "Noirs"
 
-    #Je détermine V/D/N à partir de mon code résultat
     mon_code = mes_infos["result"]
     if mon_code == "win":
         resultat = "Victoire"
@@ -50,14 +45,24 @@ for partie in parties:
     else:
         resultat = "Défaite"
         methode_brute = mon_code
-    
-    methode = METHODES.get(methode_brute, methode_brute)
 
-    #La je sort le nom de l'ouverture depuis l'URL
+    methode = METHODES.get(methode_brute, methode_brute)
+    return couleur, resultat, methode, mes_infos, infos_adversaire
+
+
+def extraire_nom_ouverture(partie):
+    """Extrait le nom lisible de l'ouverture depuis le champ eco."""
     if "eco" in partie:
-        nom_ouverture = partie["eco"].split("/")[-1].replace("-", " ")
-    else:
-        nom_ouverture = "Inconnue"
+        return partie["eco"].split("/")[-1].replace("-", " ")
+    return "Inconnue"
+
+
+lignes = []
+
+
+for partie in parties:
+    couleur, resultat, methode, mes_infos, infos_adversaire = determiner_resultat_et_methode(partie, PSEUDO)
+    nom_ouverture = extraire_nom_ouverture(partie)
 
     lignes.append({
         "Date": datetime.fromtimestamp(partie["end_time"]),
