@@ -26,6 +26,7 @@ chess-analytics-dashboard/
 ├── requirements.txt
 ├── .gitignore
 ├── dashboard.pbix
+├── LICENSE
 ├── data/
 │   ├── raw/
 │   │   └── parties_brutes.json       ← export brut de l'API Chess.com
