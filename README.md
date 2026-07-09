@@ -1,5 +1,6 @@
 # ♟️ Chess.com Analytics Dashboard
 
+[![Tests](https://github.com/sirnasr0/chess-analytics-dashboard/actions/workflows/tests.yml/badge.svg)](https://github.com/sirnasr0/chess-analytics-dashboard/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -38,9 +39,14 @@ chess-analytics-dashboard/
 │       ├── page_suivi_elo.png
 │       └── page_ouverture.png
 └── src/
-    ├── extraction.py    ← récupération des parties via l'API
-    ├── nettoyage.py     ← transformation JSON brut → CSV exploitable
-    └── inspection.py    ← exploration rapide de la structure des données
+|   ├── extraction.py    ← récupération des parties via l'API
+|   ├── nettoyage.py     ← transformation JSON brut → CSV exploitable
+|   └── inspection.py    ← exploration rapide de la structure des données
+├── .github/
+│   └── workflows/
+│       └── tests.yml
+├── tests/
+    └── test_nettoyage.py
 ```
 
 ## 🛠 Stack technique
