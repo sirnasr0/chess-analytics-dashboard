@@ -78,7 +78,7 @@ Suivi de la progression d'Elo dans le temps, filtrable par type de partie (blitz
 ### Ouvertures
 Top des ouvertures les plus jouées et taux de victoire associé, pour repérer mes points forts et axes de progression.
 
-![ouvertures](reports/figures/page_ouverture.png)
+![ouvertures](reports/figures/page_ouvertures.png)
 
 ## 🚀 Installation
 
