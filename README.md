@@ -38,14 +38,14 @@ chess-analytics-dashboard/
 │       ├── page_vue_ensemble.png
 │       ├── page_suivi_elo.png
 │       └── page_ouverture.png
-└── src/
+├── src/
 |   ├── extraction.py    ← récupération des parties via l'API
 |   ├── nettoyage.py     ← transformation JSON brut → CSV exploitable
 |   └── inspection.py    ← exploration rapide de la structure des données
 ├── .github/
 │   └── workflows/
 │       └── tests.yml
-├── tests/
+└── tests/
     └── test_nettoyage.py
 ```
 
